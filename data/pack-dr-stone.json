@@ -1,0 +1,76 @@
+{
+ "id": "dr-stone",
+ "nombre": "Dr. STONE",
+ "personajes": [
+  {
+   "nombre": "Senkuu Ishigami",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-XUO1g7wRqkaT.png"
+  },
+  {
+   "nombre": "Gen Asagiri",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png"
+  },
+  {
+   "nombre": "Kohaku",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png"
+  },
+  {
+   "nombre": "Chrome",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124145-EEvQmsj8jku4.png"
+  },
+  {
+   "nombre": "Suika",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/124162-htFFNeC04bzw.jpg"
+  },
+  {
+   "nombre": "Tsukasa Shishiou",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124144-KOjcmhunbvYn.png"
+  },
+  {
+   "nombre": "Kaseki",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136446-gpvtw5cb2I3Q.jpg"
+  },
+  {
+   "nombre": "Taiju Ooki",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124146-TeXd4r0upuIX.jpg"
+  },
+  {
+   "nombre": "Byakuya Ishigami",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b149275-ghZG8Itl5Iz9.jpg"
+  },
+  {
+   "nombre": "Yuzuriha Ogawa",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/124147-y3uE9rBepdad.jpg"
+  },
+  {
+   "nombre": "Hyouga",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145062-eCEE4J0RRGvt.jpg"
+  },
+  {
+   "nombre": "Kinrou",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b143271-6dNgt1Mcy3PU.jpg"
+  },
+  {
+   "nombre": "Ginrou",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b143270-8kC2e32r7CyE.jpg"
+  },
+  {
+   "nombre": "Ruri",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b143272-IHdEdAbE4C4t.png"
+  }
+ ]
+}

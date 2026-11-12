@@ -1,0 +1,86 @@
+{
+ "id": "bungo-stray-dogs",
+ "nombre": "Bungo Stray Dogs",
+ "personajes": [
+  {
+   "nombre": "Osamu Dazai",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89198-qKmRTw4Y3PRC.png"
+  },
+  {
+   "nombre": "Ranpo Edogawa",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89201-K0X5HNq88Oub.png"
+  },
+  {
+   "nombre": "Chuuya Nakahara",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89853-06qMPkrGlgP1.png"
+  },
+  {
+   "nombre": "Ryuunosuke Akutagawa",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89199-h8tHKG8vKPNZ.png"
+  },
+  {
+   "nombre": "Atsushi Nakajima",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89197-vB5kP72ruckV.png"
+  },
+  {
+   "nombre": "Lucy Montgomery",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n132222-Ue3zZMq9aqMg.jpg"
+  },
+  {
+   "nombre": "Akiko Yosano",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89208-Zjsz22lCmrIE.png"
+  },
+  {
+   "nombre": "Kyouka Izumi",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89856-GB3SOKXTBnrX.jpg"
+  },
+  {
+   "nombre": "Doppo Kunikida",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89200-mZJo7iEwJGzg.png"
+  },
+  {
+   "nombre": "Yukichi Fukuzawa",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89196-E2tIf6nIPKnW.png"
+  },
+  {
+   "nombre": "Kenji Miyazawa",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89207-i7pw9zNQqXpZ.png"
+  },
+  {
+   "nombre": "Gin Akutagawa",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137512-5mJhKeyVdMB5.jpg"
+  },
+  {
+   "nombre": "Junichirou Tanizaki",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89205-69AfPXd4QmX3.png"
+  },
+  {
+   "nombre": "Ougai Mori",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121168-XkWaYGESyQpZ.png"
+  },
+  {
+   "nombre": "Michizou Tachihara",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136705-qd9sowaD7SKW.png"
+  },
+  {
+   "nombre": "Francis Fitzgerald",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121164-JI5C2eMIQrSG.png"
+  }
+ ]
+}

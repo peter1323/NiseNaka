@@ -1,0 +1,756 @@
+{
+ "id": "psicologico",
+ "nombre": "Psicológico",
+ "personajes": [
+  {
+   "nombre": "Levi",
+   "anime": "Attack on Titan Final Season Part 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png"
+  },
+  {
+   "nombre": "Eren Yeager",
+   "anime": "Attack on Titan Final Season Part 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg"
+  },
+  {
+   "nombre": "Emilia",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
+  },
+  {
+   "nombre": "L Lawliet",
+   "anime": "Death Note",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png"
+  },
+  {
+   "nombre": "Ken Kaneki",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87275-mb13EWZBdbh3.png"
+  },
+  {
+   "nombre": "Mikasa Ackerman",
+   "anime": "Attack on Titan Final Season Part 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
+  },
+  {
+   "nombre": "Arataka Reigen",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89334-OPj1hCzvrt7X.png"
+  },
+  {
+   "nombre": "Kurisu Makise",
+   "anime": "Steins;Gate",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png"
+  },
+  {
+   "nombre": "Rintarou Okabe",
+   "anime": "Steins;Gate",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b35252-DY9TW6pusqeh.png"
+  },
+  {
+   "nombre": "Mai Sakurajima",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127222-Jh5hhP7vZ7s1.png"
+  },
+  {
+   "nombre": "Light Yagami",
+   "anime": "Death Note",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png"
+  },
+  {
+   "nombre": "Shigeo Kageyama",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89616-dXmdOc7L6SDi.png"
+  },
+  {
+   "nombre": "Kaguya Shinomiya",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
+  },
+  {
+   "nombre": "Rem",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88575-Ayu8UPDA8NS6.png"
+  },
+  {
+   "nombre": "Chika Fujiwara",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
+  },
+  {
+   "nombre": "Subaru Natsuki",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88573-F8yMTK9GhnTA.png"
+  },
+  {
+   "nombre": "Ichigo",
+   "anime": "DARLING in the FRANXX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
+  },
+  {
+   "nombre": "Kiyotaka Ayanokouji",
+   "anime": "Classroom of the Elite",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123212-ewZgUQr9vvEM.png"
+  },
+  {
+   "nombre": "Miko Iino",
+   "anime": "Kaguya-sama: Love is War?",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
+  },
+  {
+   "nombre": "Asuka Langley Souryuu",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b94-d631a3Z2KPvd.png"
+  },
+  {
+   "nombre": "Hitagi Senjougahara",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22037-sY7GWSKYr2Nl.jpg"
+  },
+  {
+   "nombre": "Zero Two",
+   "anime": "DARLING in the FRANXX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-2gAVq76HPfL2.png"
+  },
+  {
+   "nombre": "Yuu Ishigami",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png"
+  },
+  {
+   "nombre": "Armin Arlert",
+   "anime": "Attack on Titan Final Season Part 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
+  },
+  {
+   "nombre": "Hange Zoe",
+   "anime": "Attack on Titan Final Season Part 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+  },
+  {
+   "nombre": "Shinobu Oshino",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b23602-Z4MDNYcoAWZu.png"
+  },
+  {
+   "nombre": "Erwin Smith",
+   "anime": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png"
+  },
+  {
+   "nombre": "Koyomi Araragi",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22036-Ed3CjwPlDLp4.png"
+  },
+  {
+   "nombre": "Homura Akemi",
+   "anime": "Puella Magi Madoka Magica",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b38005-T3NR8p2f021x.jpg"
+  },
+  {
+   "nombre": "Kana Arima",
+   "anime": "OSHI NO KO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b188783-77orwP7vNuNg.png"
+  },
+  {
+   "nombre": "Rei Ayanami",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
+  },
+  {
+   "nombre": "Shinji Ikari",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
+  },
+  {
+   "nombre": "Johan Liebert",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b719-y984mDWyGf5n.jpg"
+  },
+  {
+   "nombre": "Misato Katsuragi",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png"
+  },
+  {
+   "nombre": "Ai Hayasaka",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
+  },
+  {
+   "nombre": "Sakuta Azusagawa",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png"
+  },
+  {
+   "nombre": "Ray",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121724-SJTdODjeO7e6.jpg"
+  },
+  {
+   "nombre": "Gabi Braun",
+   "anime": "Attack on Titan Final Season Part 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125659-O37MZQWibV7g.png"
+  },
+  {
+   "nombre": "Ash Lynx",
+   "anime": "BANANA FISH",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13580-1J7PwIB8kTpu.png"
+  },
+  {
+   "nombre": "Miyuki Shirogane",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121101-Q8HzKP15At2d.png"
+  },
+  {
+   "nombre": "Lucy",
+   "anime": "Cyberpunk: Edgerunners",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b284157-cqYawN7XCNJx.jpg"
+  },
+  {
+   "nombre": "Yumeko Jabami",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
+  },
+  {
+   "nombre": "Kenzou Tenma",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b718-b6ZZVp822lw0.png"
+  },
+  {
+   "nombre": "Touka Kirishima",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87277-oUaqrI1iBzu6.png"
+  },
+  {
+   "nombre": "Sasha Blouse",
+   "anime": "Attack on Titan Final Season Part 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg"
+  },
+  {
+   "nombre": "Lain Iwakura",
+   "anime": "Serial Experiments Lain",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2219-K3wzEOVwdUhL.png"
+  },
+  {
+   "nombre": "Tsubasa Hanekawa",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22055-EaTsy30ihdgb.png"
+  },
+  {
+   "nombre": "Reiner Braun",
+   "anime": "Attack on Titan Final Season Part 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png"
+  },
+  {
+   "nombre": "Juuzou Suzuya",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88412-sIOJUnIkyFRe.png"
+  },
+  {
+   "nombre": "Ryuk",
+   "anime": "Death Note",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b75-IkEpzO21LgFy.jpg"
+  },
+  {
+   "nombre": "Misa Amane",
+   "anime": "Death Note",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png"
+  },
+  {
+   "nombre": "Wolfgang Grimmer",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3096-qCXXA8G0J8rk.png"
+  },
+  {
+   "nombre": "Akame",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png"
+  },
+  {
+   "nombre": "Nazuna Nanakusa",
+   "anime": "Call of the Night",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b168774-zoB9InjmXYq2.png"
+  },
+  {
+   "nombre": "Norman",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121700-CRwKIlcBcjbv.jpg"
+  },
+  {
+   "nombre": "Esdeath",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
+  },
+  {
+   "nombre": "Legoshi",
+   "anime": "BEASTARS",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125168-cOydxRHEbAYb.png"
+  },
+  {
+   "nombre": "Akane Kurokawa",
+   "anime": "OSHI NO KO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b203384-YuSppFDMw2wn.png"
+  },
+  {
+   "nombre": "Ai Hoshino",
+   "anime": "OSHI NO KO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b172759-cccVhJ2fQA92.png"
+  },
+  {
+   "nombre": "Jean Kirstein",
+   "anime": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png"
+  },
+  {
+   "nombre": "Yuno Gasai",
+   "anime": "The Future Diary",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4963-7ZMcCtXW5hkY.png"
+  },
+  {
+   "nombre": "Echidna",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129330-ZUtYw4n7N0uH.png"
+  },
+  {
+   "nombre": "Mayuri Shiina",
+   "anime": "Steins;Gate",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b35253-u6QVgLLyHq2W.png"
+  },
+  {
+   "nombre": "Aquamarine Hoshino",
+   "anime": "OSHI NO KO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b183885-HOmw8CqcJdv3.jpg"
+  },
+  {
+   "nombre": "Emma",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121725-LQciVJOjnMVh.png"
+  },
+  {
+   "nombre": "David Martinez",
+   "anime": "Cyberpunk: Edgerunners",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b284158-z1uGKC3IYVa1.png"
+  },
+  {
+   "nombre": "Rebecca",
+   "anime": "Cyberpunk: Edgerunners",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b284163-tt8smoAXl24x.jpg"
+  },
+  {
+   "nombre": "Madoka Kaname",
+   "anime": "Puella Magi Madoka Magica",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b37832-lzVj5IkUciLd.jpg"
+  },
+  {
+   "nombre": "Kaworu Nagisa",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg"
+  },
+  {
+   "nombre": "Rio Futaba",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127633-FcCwWK5sQRhK.png"
+  },
+  {
+   "nombre": "Nadeko Sengoku",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22050-RUw3vyGYdr9W.jpg"
+  },
+  {
+   "nombre": "Annie Leonhart",
+   "anime": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg"
+  },
+  {
+   "nombre": "Akira Fudou",
+   "anime": "Devilman Crybaby",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2456-rTjIXMLPHTu2.jpg"
+  },
+  {
+   "nombre": "Beatrice",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90181-wRPm0OEaucmw.png"
+  },
+  {
+   "nombre": "Mayoi Hachikuji",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22052-beyfl4AyMGhn.png"
+  },
+  {
+   "nombre": "Suzune Horikita",
+   "anime": "Classroom of the Elite",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123213-jUfrGBXfW7BL.png"
+  },
+  {
+   "nombre": "Eiji Okumura",
+   "anime": "BANANA FISH",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b21928-4zjiuRL3omAo.jpg"
+  },
+  {
+   "nombre": "Mary Saotome",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122687-jl1wk9rjO57e.png"
+  },
+  {
+   "nombre": "Ram",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88576-NWkotUiJ3mK3.png"
+  },
+  {
+   "nombre": "Shinya Kougami",
+   "anime": "PSYCHO-PASS",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b68315-f9RBjyJCoj95.jpg"
+  },
+  {
+   "nombre": "Suruga Kanbaru",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/22054-n6Jsvp80bUhD.jpg"
+  },
+  {
+   "nombre": "Fushi",
+   "anime": "To Your Eternity",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136548-FjWExC5ScBqW.jpg"
+  },
+  {
+   "nombre": "Ruby Hoshino",
+   "anime": "OSHI NO KO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b183884-iyo3BmTuhJ0l.jpg"
+  },
+  {
+   "nombre": "Decim",
+   "anime": "Death Parade",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png"
+  },
+  {
+   "nombre": "Shinichi Izumi",
+   "anime": "Parasyte -the maxim-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12323-NAoqDYOn2RSo.png"
+  },
+  {
+   "nombre": "Ryo Asuka",
+   "anime": "Devilman Crybaby",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4092-63yxC7cCrWke.png"
+  },
+  {
+   "nombre": "Ai Ooto",
+   "anime": "WONDER EGG PRIORITY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199892-IUa7rBAT4j9H.png"
+  },
+  {
+   "nombre": "Mei Misaki",
+   "anime": "Another",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b41402-uMQLbpd8uwKH.png"
+  },
+  {
+   "nombre": "Zeke",
+   "anime": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125661-FiqFvAtNlL0v.png"
+  },
+  {
+   "nombre": "Kaede Azusagawa",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png"
+  },
+  {
+   "nombre": "Suzuha Amane",
+   "anime": "Steins;Gate",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b35255-Ra9Aq5Kn9lYq.png"
+  },
+  {
+   "nombre": "Pieck Finger",
+   "anime": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125603-Z2rgiHUGbAmY.png"
+  },
+  {
+   "nombre": "Mine",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png"
+  },
+  {
+   "nombre": "Shougo Makishima",
+   "anime": "PSYCHO-PASS",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n69725-Seck1SZfwQiR.jpg"
+  },
+  {
+   "nombre": "Tomoe Koga",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg"
+  },
+  {
+   "nombre": "Ekubo",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89617-HHZ1kziYxc0q.png"
+  },
+  {
+   "nombre": "Kei Karuizawa",
+   "anime": "Classroom of the Elite",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b141122-6Zk52eU3VK3O.png"
+  },
+  {
+   "nombre": "Akane Tsunemori",
+   "anime": "PSYCHO-PASS",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b68583-sEP2wyE2Tk7a.png"
+  },
+  {
+   "nombre": "Migi",
+   "anime": "Parasyte -the maxim-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13773-Kuak0WTeTU9z.png"
+  },
+  {
+   "nombre": "Meme Oshino",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22552-CZz1T3AjRyVd.png"
+  },
+  {
+   "nombre": "Satoru Fujinuma",
+   "anime": "ERASED",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89275-xCGzh6jAGe2v.png"
+  },
+  {
+   "nombre": "Sayaka Miki",
+   "anime": "Puella Magi Madoka Magica",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b38395-d24OayatTB5h.jpg"
+  },
+  {
+   "nombre": "Kyouko Sakura",
+   "anime": "Puella Magi Madoka Magica",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40006-zOwYYimuiO3m.png"
+  },
+  {
+   "nombre": "Hideyoshi Nagachika",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88421-F8yaeVfHjwYn.png"
+  },
+  {
+   "nombre": "Rika Kawai",
+   "anime": "WONDER EGG PRIORITY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199890-9WY1MIjTsqkc.jpg"
+  },
+  {
+   "nombre": "Mihael Keehl",
+   "anime": "Death Note",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b463-QBLeLf6XxVg6.png"
+  },
+  {
+   "nombre": "Nate River",
+   "anime": "Death Note",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n464-6KeJpU6g7Hwj.jpg"
+  },
+  {
+   "nombre": "Anko Uguisu",
+   "anime": "Call of the Night",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b175659-1W8HJJzAZ1dI.png"
+  },
+  {
+   "nombre": "Kishou Arima",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88946-YbTQAGJAdpoH.jpg"
+  },
+  {
+   "nombre": "Phil",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126475-EqxsU9P6ajKE.jpg"
+  },
+  {
+   "nombre": "Midari Ikishima",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
+  },
+  {
+   "nombre": "Shorter Wong",
+   "anime": "BANANA FISH",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b29577-CAvEPpTeLyLg.png"
+  },
+  {
+   "nombre": "Teruki Hanazawa",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png"
+  },
+  {
+   "nombre": "Kirari Momobami",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
+  },
+  {
+   "nombre": "Connie Springer",
+   "anime": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png"
+  },
+  {
+   "nombre": "Lucy",
+   "anime": "Elfen Lied",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b738-z0w63Laqb6hW.png"
+  },
+  {
+   "nombre": "Otto Suwen",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124110-Gfr3IYI6FwqE.jpg"
+  },
+  {
+   "nombre": "Inori Yuzuriha",
+   "anime": "Guilty Crown",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b43280-dxRTpIioqSg7.png"
+  },
+  {
+   "nombre": "Kayo Hinazuki",
+   "anime": "ERASED",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/89276-LjlYvXfOnjHB.jpg"
+  },
+  {
+   "nombre": "Heinrich Runge",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b721-VSOxZHBedxtD.png"
+  },
+  {
+   "nombre": "Narrator",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+  },
+  {
+   "nombre": "Hiro",
+   "anime": "DARLING in the FRANXX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg"
+  },
+  {
+   "nombre": "Leone",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65227-PWmfiEVJbCwQ.png"
+  },
+  {
+   "nombre": "Anna Liebert",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b720-VFo5SzZsVfzl.png"
+  },
+  {
+   "nombre": "Louis",
+   "anime": "BEASTARS",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125170-TIHSOgfQbkbU.png"
+  },
+  {
+   "nombre": "Tatsumi",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/64749-a2ZdRWW1D5TR.jpg"
+  },
+  {
+   "nombre": "Uta",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg"
+  },
+  {
+   "nombre": "Mami Tomoe",
+   "anime": "Puella Magi Madoka Magica",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b38194-gnlnx4XN4HYP.jpg"
+  },
+  {
+   "nombre": "Minene Uryuu",
+   "anime": "The Future Diary",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4966-Bb0hjxjJtidY.jpg"
+  },
+  {
+   "nombre": "Reinhard van Astrea",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88577-nrwzPBVwqAfO.png"
+  },
+  {
+   "nombre": "Kurokami no Onna",
+   "anime": "Death Parade",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b82037-xvKHWk4AE4df.png"
+  },
+  {
+   "nombre": "Ayato Kirishima",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88411-dI6vqLy4pvHK.png"
+  },
+  {
+   "nombre": "MEM-cho",
+   "anime": "OSHI NO KO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b205434-AuBcR4M05f6s.png"
+  },
+  {
+   "nombre": "Honami Ichinose",
+   "anime": "Classroom of the Elite",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123216-N9tQZf2XIKu6.png"
+  },
+  {
+   "nombre": "Lubbock",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/65231-2QpM2yw2X86k.png"
+  },
+  {
+   "nombre": "Twelve",
+   "anime": "Terror in Resonance",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/88096-SljWAMO10C6l.jpg"
+  },
+  {
+   "nombre": "Kou Yamori",
+   "anime": "Call of the Night",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b168866-zf5bb7rmZpxX.png"
+  },
+  {
+   "nombre": "Chelsea",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/65237-6r8wMUJ6pCOF.png"
+  },
+  {
+   "nombre": "Kei Shirogane",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126144-4fc2sYUVFKOJ.png"
+  },
+  {
+   "nombre": "Arisu Sakayanagi",
+   "anime": "Classroom of the Elite",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124691-S9GyfwMAkkJ9.jpg"
+  },
+  {
+   "nombre": "Gugu",
+   "anime": "To Your Eternity",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136554-qySbbPp9nunx.jpg"
+  },
+  {
+   "nombre": "Felix Argyle",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90184-o1ZFF6osCZX7.png"
+  },
+  {
+   "nombre": "Nimura Furuta",
+   "anime": "Tokyo Ghoul:re",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126031-3tBpl6tvYwaZ.png"
+  },
+  {
+   "nombre": "Momoe Sawaki",
+   "anime": "WONDER EGG PRIORITY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199891-YNqLCCE8VAHW.png"
+  },
+  {
+   "nombre": "Garfiel Tinsel",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133847-8I2Pjoz232vS.png"
+  },
+  {
+   "nombre": "Koutarou Amon",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88407-YwE6D75Xskxl.png"
+  },
+  {
+   "nombre": "Ririka Momobami",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122777-pdh3z3WbnvlL.png"
+  },
+  {
+   "nombre": "Isabella",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121701-hP5hanKRUH9u.png"
+  },
+  {
+   "nombre": "Runa Yomozuki",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/122698-8UvXcLs1LGYY.jpg"
+  },
+  {
+   "nombre": "Ritsu Kageyama",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89618-iSTUyCdu1yZ8.png"
+  }
+ ]
+}

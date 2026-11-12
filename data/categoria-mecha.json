@@ -1,0 +1,516 @@
+{
+ "id": "mecha",
+ "nombre": "Mecha",
+ "personajes": [
+  {
+   "nombre": "Lelouch Lamperouge",
+   "anime": "Code Geass: Lelouch of the Rebellion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
+  },
+  {
+   "nombre": "Ichigo",
+   "anime": "DARLING in the FRANXX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
+  },
+  {
+   "nombre": "Asuka Langley Souryuu",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b94-d631a3Z2KPvd.png"
+  },
+  {
+   "nombre": "Zero Two",
+   "anime": "DARLING in the FRANXX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-2gAVq76HPfL2.png"
+  },
+  {
+   "nombre": "Rei Ayanami",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
+  },
+  {
+   "nombre": "Shinji Ikari",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
+  },
+  {
+   "nombre": "Misato Katsuragi",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png"
+  },
+  {
+   "nombre": "C.C.",
+   "anime": "Code Geass: Lelouch of the Rebellion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-UhmlFtRFrnWa.png"
+  },
+  {
+   "nombre": "Vladilena Milizé",
+   "anime": "86 EIGHTY-SIX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b141061-jqIhB9jmClQ3.png"
+  },
+  {
+   "nombre": "Kurena Kukumila",
+   "anime": "86 EIGHTY-SIX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b174873-FNf08aPYTVXY.jpg"
+  },
+  {
+   "nombre": "Kamina",
+   "anime": "Gurren Lagann",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2075-sWb5Xz76JWdX.png"
+  },
+  {
+   "nombre": "Simon",
+   "anime": "Gurren Lagann",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2257-jnalsdnIX1vN.jpg"
+  },
+  {
+   "nombre": "Kurumi Tokisaki",
+   "anime": "Date A Live",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70069-DEV7X6o2L7oG.jpg"
+  },
+  {
+   "nombre": "Shinei Nouzen",
+   "anime": "86 EIGHTY-SIX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b141060-ZJFvHqBBSvhN.png"
+  },
+  {
+   "nombre": "Shirley Fenette",
+   "anime": "Code Geass: Lelouch of the Rebellion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
+  },
+  {
+   "nombre": "Kaworu Nagisa",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg"
+  },
+  {
+   "nombre": "Kallen Stadtfeld",
+   "anime": "Code Geass: Lelouch of the Rebellion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
+  },
+  {
+   "nombre": "Youko Littner",
+   "anime": "Gurren Lagann",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2063-7BKqQbrhtDD2.png"
+  },
+  {
+   "nombre": "Char Aznable",
+   "anime": "Mobile Suit Gundam",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1336-VjllcTHMDuhI.png"
+  },
+  {
+   "nombre": "Haruko Haruhara",
+   "anime": "FLCL",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b627-VkiKQwzH1c8S.png"
+  },
+  {
+   "nombre": "Tooka Yatogami",
+   "anime": "Date A Live",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65259-rKR5JNNWyRC0.jpg"
+  },
+  {
+   "nombre": "Rikka Takarada",
+   "anime": "SSSS.GRIDMAN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127585-3lGc9BytiXjZ.png"
+  },
+  {
+   "nombre": "Suzaku Kururugi",
+   "anime": "Code Geass: Lelouch of the Rebellion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg"
+  },
+  {
+   "nombre": "Inori Yuzuriha",
+   "anime": "Guilty Crown",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b43280-dxRTpIioqSg7.png"
+  },
+  {
+   "nombre": "Nia Teppelin",
+   "anime": "Gurren Lagann",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2761-FmSJGaW9WzYZ.png"
+  },
+  {
+   "nombre": "Narrator",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+  },
+  {
+   "nombre": "Hiro",
+   "anime": "DARLING in the FRANXX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg"
+  },
+  {
+   "nombre": "Mamimi Samejima",
+   "anime": "FLCL",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b632-JqWnOga0weWv.png"
+  },
+  {
+   "nombre": "Origami Tobiichi",
+   "anime": "Date A Live",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65261-VebXn2wCS8K8.png"
+  },
+  {
+   "nombre": "Kotori Itsuka",
+   "anime": "Date A Live",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65263-SsnYAtOtAiDK.png"
+  },
+  {
+   "nombre": "Naota Nandaba",
+   "anime": "FLCL",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b630-PGh6ATh3vlub.png"
+  },
+  {
+   "nombre": "Lio Fotia",
+   "anime": "Promare",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b134523-UxGZTaUr09oU.png"
+  },
+  {
+   "nombre": "Suletta Mercury",
+   "anime": "Mobile Suit Gundam: The Witch from Mercury",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b279507-nKzMuTa8fBek.png"
+  },
+  {
+   "nombre": "Pen Pen",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1892-sjqNrZpbddu8.png"
+  },
+  {
+   "nombre": "Akane Shinjou",
+   "anime": "SSSS.GRIDMAN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127587-DZBuSJgxunUq.jpg"
+  },
+  {
+   "nombre": "Viral",
+   "anime": "Gurren Lagann",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n2378-UcNU2Pm8MlB9.png"
+  },
+  {
+   "nombre": "Anju Emma",
+   "anime": "86 EIGHTY-SIX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b174875-PvSTadcuATtH.png"
+  },
+  {
+   "nombre": "Gesicht",
+   "anime": "PLUTO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b9791-XcumTmi2IfRe.jpg"
+  },
+  {
+   "nombre": "Mari Makinami Illustrious",
+   "anime": "Evangelion: 2.0 You Can (Not) Advance",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b21512-IuVgN5P0zg5P.jpg"
+  },
+  {
+   "nombre": "Yoshino",
+   "anime": "Date A Live",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70603-7IKQbX4JZBIT.png"
+  },
+  {
+   "nombre": "Altair",
+   "anime": "Re:CREATORS",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121561-rYgIQOeHzR63.png"
+  },
+  {
+   "nombre": "Ryouji Kaji",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1260-QCPCuARGDhqK.jpg"
+  },
+  {
+   "nombre": "Shidou Itsuka",
+   "anime": "Date A Live",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65257-fBaWJ3ymyE5m.png"
+  },
+  {
+   "nombre": "Ritsuko Akagi",
+   "anime": "Neon Genesis Evangelion: The End of Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/1251-gLa2Arv5E8a9.png"
+  },
+  {
+   "nombre": "Miorine Rembran",
+   "anime": "Mobile Suit Gundam: The Witch from Mercury",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b279508-JvHoPuV6NwOs.jpg"
+  },
+  {
+   "nombre": "Canti",
+   "anime": "FLCL",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n633-P8GxAXx4Uu8W.jpg"
+  },
+  {
+   "nombre": "Amuro Ray",
+   "anime": "Mobile Suit Gundam",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1335-uzT1UsLOu3nE.png"
+  },
+  {
+   "nombre": "Raiden Shuga",
+   "anime": "86 EIGHTY-SIX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b174872-HrQxhw9BbfyI.jpg"
+  },
+  {
+   "nombre": "Leon Fou Bartfort",
+   "anime": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b152674-S1Y9XCN8O2jb.jpg"
+  },
+  {
+   "nombre": "Frederica Rosenfort",
+   "anime": "86 EIGHTY-SIX Part 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b161718-kWIdyUGRk0wj.png"
+  },
+  {
+   "nombre": "Mikazuki Augus",
+   "anime": "Mobile Suit GUNDAM Iron Blooded Orphans",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89233-N8UuChl86ts9.jpg"
+  },
+  {
+   "nombre": "Sousuke Sagara",
+   "anime": "Full Metal Panic!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/168.jpg"
+  },
+  {
+   "nombre": "Gendou Ikari",
+   "anime": "Neon Genesis Evangelion: The End of Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1257-qByikcrE8KTG.png"
+  },
+  {
+   "nombre": "Kokoro",
+   "anime": "DARLING in the FRANXX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
+  },
+  {
+   "nombre": "Kittan Bachika",
+   "anime": "Gurren Lagann",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3434-ahdOsb4rwsCV.jpg"
+  },
+  {
+   "nombre": "Theoto Rikka",
+   "anime": "86 EIGHTY-SIX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b174874-19TPZgyNwDtj.jpg"
+  },
+  {
+   "nombre": "Noriko Takaya",
+   "anime": "Gunbuster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/3497-nt9tYrKG0cFl.png"
+  },
+  {
+   "nombre": "Natsumi",
+   "anime": "Date A Live III",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133124-nft24VfN6tto.png"
+  },
+  {
+   "nombre": "Miku Izayoi",
+   "anime": "Date A Live III",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84063-lwuOWMuDZOtc.jpg"
+  },
+  {
+   "nombre": "Kaname Chidori",
+   "anime": "Full Metal Panic!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b272-PAyS6eeHE4v9.png"
+  },
+  {
+   "nombre": "Shuu Ouma",
+   "anime": "Guilty Crown",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b43278-qtyFTwAaLiLb.jpg"
+  },
+  {
+   "nombre": "Laura Bodewig",
+   "anime": "Infinite Stratos",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b35663-o1ObPNk2cR1d.jpg"
+  },
+  {
+   "nombre": "Yuzuru Yamai",
+   "anime": "Date A Live III",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b86647-WDP7WlyUoFA6.png"
+  },
+  {
+   "nombre": "Euphemia li Britannia",
+   "anime": "Code Geass: Lelouch of the Rebellion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1114-rjYGsn8O6ZhE.png"
+  },
+  {
+   "nombre": "Yume Minami",
+   "anime": "SSSS.DYNAZENON",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b169411-8gM6Cukk0KGP.jpg"
+  },
+  {
+   "nombre": "Jeremiah Gottwald",
+   "anime": "Code Geass: Lelouch of the Rebellion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1113-HxXUV4z4jhvZ.png"
+  },
+  {
+   "nombre": "Angelica Rafua Redgrave",
+   "anime": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b152676-NiGb8kgNuHmp.jpg"
+  },
+  {
+   "nombre": "Kaguya Yamai",
+   "anime": "Date A Live III",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b86645-56zr58xGHuCS.png"
+  },
+  {
+   "nombre": "Cornelia li Britannia",
+   "anime": "Code Geass: Lelouch of the Rebellion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b797-lrtrQEESbWVa.jpg"
+  },
+  {
+   "nombre": "Charlotte Dunois",
+   "anime": "Infinite Stratos",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b35662-6B012eUCJfpB.jpg"
+  },
+  {
+   "nombre": "Galo Thymos",
+   "anime": "Promare",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b134522-fp4jjaHTFUct.png"
+  },
+  {
+   "nombre": "Goro",
+   "anime": "DARLING in the FRANXX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg"
+  },
+  {
+   "nombre": "Epsilon",
+   "anime": "PLUTO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b14343-OPQO2909RH9a.jpg"
+  },
+  {
+   "nombre": "Mukuro Hoshimiya",
+   "anime": "Date A Live IV",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157109-Mmgdhq6XYCKT.png"
+  },
+  {
+   "nombre": "Orga Itsuka",
+   "anime": "Mobile Suit GUNDAM Iron Blooded Orphans",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89235-M9QkD8sxB4Hm.jpg"
+  },
+  {
+   "nombre": "Kotetsu Kaburagi",
+   "anime": "Tiger & Bunny",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40851-BChYgBB31gyx.png"
+  },
+  {
+   "nombre": "Lloyd Asplund",
+   "anime": "Code Geass: Lelouch of the Rebellion R2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1130-0yBifno91R4e.png"
+  },
+  {
+   "nombre": "Nunnally Lamperouge",
+   "anime": "Code Geass: Lelouch of the Rebellion R2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1110-TSlN2WkhDJ1T.png"
+  },
+  {
+   "nombre": "Atom",
+   "anime": "PLUTO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b18913-0CmKJTMJeNZ3.jpg"
+  },
+  {
+   "nombre": "Olivia",
+   "anime": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b152673-PXt43BGpEBbU.jpg"
+  },
+  {
+   "nombre": "Guel Jeturk",
+   "anime": "Mobile Suit Gundam: The Witch from Mercury",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b279506-pZUmhduBLIzf.png"
+  },
+  {
+   "nombre": "Reine Murasame",
+   "anime": "Date A Live",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72281-HJZMsFy574SO.png"
+  },
+  {
+   "nombre": "Eureka",
+   "anime": "Eureka Seven",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1709-EheQXhGFPX9e.png"
+  },
+  {
+   "nombre": "Eri Ninamori",
+   "anime": "FLCL",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b631-xqEfTlpqQUy3.png"
+  },
+  {
+   "nombre": "Angelise Ikaruga Misurugi",
+   "anime": "Cross Ange: Rondo of Angel and Dragon",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/88525-5uHEpN5SVtW2.jpg"
+  },
+  {
+   "nombre": "Boota",
+   "anime": "Gurren Lagann",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/4700.jpg"
+  },
+  {
+   "nombre": "Fido",
+   "anime": "86 EIGHTY-SIX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b237557-uBOohJFKv5h9.jpg"
+  },
+  {
+   "nombre": "Krulcifer Einfolk",
+   "anime": "Undefeated Bahamut Chronicle",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89796-v7s2y6tUC8rv.jpg"
+  },
+  {
+   "nombre": "Mitsuru",
+   "anime": "DARLING in the FRANXX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124389-iJY8frLNdK7Y.jpg"
+  },
+  {
+   "nombre": "Teletha Testarossa",
+   "anime": "Full Metal Panic!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b273-fCyaRnsggzeY.png"
+  },
+  {
+   "nombre": "Inaho Kaizuka",
+   "anime": "ALDNOAH.ZERO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/88173-9ahmvKutxcVO.jpg"
+  },
+  {
+   "nombre": "Nia Honjou",
+   "anime": "Date A Live IV",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b140724-ScgftsvFdCVZ.png"
+  },
+  {
+   "nombre": "Kyouryuu no Hime",
+   "anime": "DARLING in the FRANXX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126290-v3aLCi4pQijJ.png"
+  },
+  {
+   "nombre": "Magane Chikujouin",
+   "anime": "Re:CREATORS",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122208-8RFUsy6CW84t.jpg"
+  },
+  {
+   "nombre": "Houki Shinonono",
+   "anime": "Infinite Stratos",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b35660-kHfdwJ4ZOubg.jpg"
+  },
+  {
+   "nombre": "Miku",
+   "anime": "DARLING in the FRANXX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124384-bsl6vVNhT2DR.jpg"
+  },
+  {
+   "nombre": "Meteora Österreich",
+   "anime": "Re:CREATORS",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121563-jJjOltETxJ9D.png"
+  },
+  {
+   "nombre": "Mylene Rafa Holfort",
+   "anime": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b203167-rdyGeGPTcFIq.png"
+  },
+  {
+   "nombre": "Slaine Troyard",
+   "anime": "ALDNOAH.ZERO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/88174-QRY3Ayq8xVvZ.jpg"
+  },
+  {
+   "nombre": "Kensuke Aida",
+   "anime": "Evangelion: 1.0 You Are (Not) Alone",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1250-GU74dqhQEaUN.png"
+  },
+  {
+   "nombre": "Villetta Nu",
+   "anime": "Code Geass: Lelouch of the Rebellion R2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1117-Zc6IwzGMj4Qy.png"
+  },
+  {
+   "nombre": "Sayla Mass",
+   "anime": "Mobile Suit Gundam",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1338-gAbM9bSiwexP.png"
+  }
+ ]
+}

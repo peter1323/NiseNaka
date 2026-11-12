@@ -1,0 +1,131 @@
+{
+ "id": "one-piece",
+ "nombre": "ONE PIECE",
+ "personajes": [
+  {
+   "nombre": "Luffy Monkey",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png"
+  },
+  {
+   "nombre": "Zoro Roronoa",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png"
+  },
+  {
+   "nombre": "Sanji",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png"
+  },
+  {
+   "nombre": "Robin Nico",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png"
+  },
+  {
+   "nombre": "Law Trafalgar",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13767-U604OJN9dxCn.jpg"
+  },
+  {
+   "nombre": "Nami",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png"
+  },
+  {
+   "nombre": "Ace Portgas",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2072-Lc6jEdsueJUK.jpg"
+  },
+  {
+   "nombre": "Chopper Tony Tony",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg"
+  },
+  {
+   "nombre": "Usopp",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b724-GFGgI9AJQkfy.jpg"
+  },
+  {
+   "nombre": "Shanks",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b727-wUJx7M1z5xON.png"
+  },
+  {
+   "nombre": "Brook",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5627-av8oD3zhKvDl.png"
+  },
+  {
+   "nombre": "Hancock Boa",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b16342-kVOF6V5Q94go.png"
+  },
+  {
+   "nombre": "Doflamingo Donquixote",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2754-B4gGSlNYgsyh.jpg"
+  },
+  {
+   "nombre": "Newgate Edward",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2751-NnzW0N2vCTjX.jpg"
+  },
+  {
+   "nombre": "Franky",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n64-ChX6ZzHHjXqA.png"
+  },
+  {
+   "nombre": "Jinbe",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b18938-yZANEfjsVhW4.png"
+  },
+  {
+   "nombre": "Rosinante Donquixote",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120536-PxdNxEhQwE8d.png"
+  },
+  {
+   "nombre": "Katakuri Charlotte",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124077-TODX2ThCdyx2.png"
+  },
+  {
+   "nombre": "Sabo",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b32893-3weZS61cdwLD.png"
+  },
+  {
+   "nombre": "Dracule Mihawk",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n2064-OpnF4nLi6bvL.png"
+  },
+  {
+   "nombre": "Yamato",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b176840-8KRqXXLJeLOg.png"
+  },
+  {
+   "nombre": "Perona",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b7467-0xxnaxQGfhkY.jpg"
+  },
+  {
+   "nombre": "Bentham",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n4875-Ga2TVjP70R6r.png"
+  },
+  {
+   "nombre": "Narrator",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+  },
+  {
+   "nombre": "Buggy",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n725-g04AaiaK5f9B.png"
+  }
+ ]
+}

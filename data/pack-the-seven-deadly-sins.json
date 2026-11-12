@@ -1,0 +1,71 @@
+{
+ "id": "the-seven-deadly-sins",
+ "nombre": "The Seven Deadly Sins",
+ "personajes": [
+  {
+   "nombre": "Ban",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
+  },
+  {
+   "nombre": "Meliodas",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
+  },
+  {
+   "nombre": "Narrator",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+  },
+  {
+   "nombre": "King",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b83801-52RnDXQDZ1I7.png"
+  },
+  {
+   "nombre": "Diane",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg"
+  },
+  {
+   "nombre": "Elizabeth Liones",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72923-Hidpb955mwMW.png"
+  },
+  {
+   "nombre": "Merlin",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89180-rN6OVPki8h3V.png"
+  },
+  {
+   "nombre": "Gowther",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88823-Oppzl2h6OhO8.png"
+  },
+  {
+   "nombre": "Hawk",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n86683-ZXPoLZnKqNtx.png"
+  },
+  {
+   "nombre": "Gilthunder",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b74285-qGwNsXKYRPcC.png"
+  },
+  {
+   "nombre": "Arthur Pendragon",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122210-l6g1EMCf5NdE.png"
+  },
+  {
+   "nombre": "Elaine",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/86681-6kx3mfwNhraK.png"
+  },
+  {
+   "nombre": "Jericho",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/86699-oRLKbh6x7ijB.jpg"
+  }
+ ]
+}

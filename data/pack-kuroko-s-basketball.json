@@ -1,0 +1,66 @@
+{
+ "id": "kuroko-s-basketball",
+ "nombre": "Kuroko's Basketball",
+ "personajes": [
+  {
+   "nombre": "Daiki Aomine",
+   "anime": "Kuroko's Basketball",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36820-bW2c6TbIqgKO.jpg"
+  },
+  {
+   "nombre": "Tetsuya Kuroko",
+   "anime": "Kuroko's Basketball",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-1SOeKdgkjBef.png"
+  },
+  {
+   "nombre": "Seijuurou Akashi",
+   "anime": "Kuroko's Basketball",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b42038-3xNprwetDcl1.jpg"
+  },
+  {
+   "nombre": "Ryouta Kise",
+   "anime": "Kuroko's Basketball",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b21332-aPRs1Xq7ZHoV.jpg"
+  },
+  {
+   "nombre": "Taiga Kagami",
+   "anime": "Kuroko's Basketball",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b18770-iLAk9O3GGUvN.png"
+  },
+  {
+   "nombre": "Shintarou Midorima",
+   "anime": "Kuroko's Basketball",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22253-PwE3Kv3nSA44.jpg"
+  },
+  {
+   "nombre": "Atsushi Murasakibara",
+   "anime": "Kuroko's Basketball",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36976-fVmQY9GqvHHa.png"
+  },
+  {
+   "nombre": "Satsuki Momoi",
+   "anime": "Kuroko's Basketball",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36821-8vtlTiKYRNVz.jpg"
+  },
+  {
+   "nombre": "Teppei Kiyoshi",
+   "anime": "Kuroko's Basketball",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b45975-zylmDribWTAi.png"
+  },
+  {
+   "nombre": "Kazunari Takao",
+   "anime": "Kuroko's Basketball",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b53563-6ZzDEnRCQQTR.jpg"
+  },
+  {
+   "nombre": "Junpei Hyuuga",
+   "anime": "Kuroko's Basketball",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22254-d5wfloxjDwIJ.png"
+  },
+  {
+   "nombre": "Riko Aida",
+   "anime": "Kuroko's Basketball",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b21331-OmWP2h7Y9yKq.jpg"
+  }
+ ]
+}

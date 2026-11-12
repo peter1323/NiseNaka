@@ -1,0 +1,86 @@
+{
+ "id": "soul-eater",
+ "nombre": "Soul Eater",
+ "personajes": [
+  {
+   "nombre": "Death the Kid",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png"
+  },
+  {
+   "nombre": "Maka Albarn",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png"
+  },
+  {
+   "nombre": "Soul Eater Evans",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8456-GtNbISpXhkvd.png"
+  },
+  {
+   "nombre": "Crona",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png"
+  },
+  {
+   "nombre": "Black☆Star",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8464-oKu98OyJ3eZt.png"
+  },
+  {
+   "nombre": "Franken Stein",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8446-uTTlVv5DRQnr.png"
+  },
+  {
+   "nombre": "Tsubaki Nakatsukasa",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8443-WtvTWl6zufoc.png"
+  },
+  {
+   "nombre": "Blair",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8458-dnVRYCwLLHRn.png"
+  },
+  {
+   "nombre": "Shinigami",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/8457.jpg"
+  },
+  {
+   "nombre": "Excalibur",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13046-tUKfeqS9MNIf.jpg"
+  },
+  {
+   "nombre": "Patricia Thompson",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8444-AbC3BxZA7gUY.png"
+  },
+  {
+   "nombre": "Elizabeth Thompson",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8445-7BIqYhg3OKMn.png"
+  },
+  {
+   "nombre": "Medusa Gorgon",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b11924-wDxD5PjqMmpf.png"
+  },
+  {
+   "nombre": "Spirit Albarn",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/8462.jpg"
+  },
+  {
+   "nombre": "Mifune",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12982-oqu0ldRYGmCZ.png"
+  },
+  {
+   "nombre": "Justin Law",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b14019-2x7ljMevKv4V.png"
+  }
+ ]
+}

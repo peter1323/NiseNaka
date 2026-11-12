@@ -1,0 +1,126 @@
+{
+ "id": "black-clover",
+ "nombre": "Black Clover",
+ "personajes": [
+  {
+   "nombre": "Yami Sukehiro",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124440-Lpdo6y8cljV6.png"
+  },
+  {
+   "nombre": "Asta",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123285-tKijiuQErDS0.png"
+  },
+  {
+   "nombre": "Noelle Silva",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123283-7nJHtKha0LSm.png"
+  },
+  {
+   "nombre": "Yuno",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123284-w6kIFYnTclMd.png"
+  },
+  {
+   "nombre": "Mereoleona Vermillion",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png"
+  },
+  {
+   "nombre": "Julius Novachrono",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg"
+  },
+  {
+   "nombre": "Luck Voltia",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/124449-M67Ex2GcxmYM.jpg"
+  },
+  {
+   "nombre": "Kuro Nero",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126948-2yL8YEIqLLpq.png"
+  },
+  {
+   "nombre": "Zora Ideale",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124459-UggsjRUfNtko.png"
+  },
+  {
+   "nombre": "Vanessa Enoteca",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124436-dES6CtprlZNy.png"
+  },
+  {
+   "nombre": "Charmy Pappitson",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124447-2J1PKMgWETNT.png"
+  },
+  {
+   "nombre": "Mimosa Vermillion",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124438-nTvKfJaMD4d5.jpg"
+  },
+  {
+   "nombre": "Finral Roulacase",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124433-QyoZrgIUsSpd.png"
+  },
+  {
+   "nombre": "Charlotte Roselei",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124434-ZmaDj2J5lSId.png"
+  },
+  {
+   "nombre": "Nacht Faust",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b187268-vkcrcTvjNSrA.png"
+  },
+  {
+   "nombre": "Magna Swing",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124439-EqjbyC8GOKW0.jpg"
+  },
+  {
+   "nombre": "Liebe",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b192196-giZLzC1Xj9Hp.png"
+  },
+  {
+   "nombre": "Fuegoleon Vermillion",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124521-MqX5KT2tGSa8.png"
+  },
+  {
+   "nombre": "Nozel Silva",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124442-KpZhHmhjw2EG.png"
+  },
+  {
+   "nombre": "Dorothy Unsworth",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124458-U6zNf813fDxG.png"
+  },
+  {
+   "nombre": "Gordon Agrippa",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124448-YHRpWxJUhNnw.png"
+  },
+  {
+   "nombre": "William Vangeance",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124441-nggzgZExhb1w.png"
+  },
+  {
+   "nombre": "Grey",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124444-01PmRKd8Sned.jpg"
+  },
+  {
+   "nombre": "Gauche Adlai",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124446-4YXFoCIllCKh.png"
+  }
+ ]
+}

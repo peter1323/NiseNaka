@@ -1,0 +1,101 @@
+{
+ "id": "tokyo-revengers",
+ "nombre": "Tokyo Revengers",
+ "personajes": [
+  {
+   "nombre": "Manjirou Sano",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png"
+  },
+  {
+   "nombre": "Chifuyu Matsuno",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145344-q4BqRljEBYNc.png"
+  },
+  {
+   "nombre": "Ken Ryuuguji",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png"
+  },
+  {
+   "nombre": "Keisuke Baji",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145343-vRrkdWEUXwYM.jpg"
+  },
+  {
+   "nombre": "Takashi Mitsuya",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b167841-Pp08TBnzGhK4.jpg"
+  },
+  {
+   "nombre": "Takemichi Hanagaki",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145342-GSUutL83jGgI.png"
+  },
+  {
+   "nombre": "Kazutora Hanemiya",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b167846-k6G44c97MOug.jpg"
+  },
+  {
+   "nombre": "Hinata Tachibana",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138453-MFISjDiAEfiM.png"
+  },
+  {
+   "nombre": "Souya Kawata",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b168678-gf2ljBfKDnmC.png"
+  },
+  {
+   "nombre": "Nahoya Kawata",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b168679-CRZktzv0DvBl.jpg"
+  },
+  {
+   "nombre": "Seishuu Inui",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b170479-hJ67oKpIBdqJ.png"
+  },
+  {
+   "nombre": "Naoto Tachibana",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b167843-w9Lc6OWif5zy.jpg"
+  },
+  {
+   "nombre": "Shuuji Hanma",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b215868-NwLXplJ79C62.png"
+  },
+  {
+   "nombre": "Emma Sano",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b171924-fouXHPz9y5of.png"
+  },
+  {
+   "nombre": "Hakkai Shiba",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b167842-AGGO6WuQOJmd.png"
+  },
+  {
+   "nombre": "Atsushi Sendou",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b171920-wHxBvF8giJC4.png"
+  },
+  {
+   "nombre": "Hajime Kokonoi",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b170480-5b9VNCGfLzTK.png"
+  },
+  {
+   "nombre": "Shinichirou Sano",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b221297-FgeGP9aN60Re.png"
+  },
+  {
+   "nombre": "Rindou Haitani",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b203563-KrzJuwhHZDpB.png"
+  }
+ ]
+}

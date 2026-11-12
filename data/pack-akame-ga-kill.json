@@ -1,0 +1,76 @@
+{
+ "id": "akame-ga-kill",
+ "nombre": "Akame ga Kill!",
+ "personajes": [
+  {
+   "nombre": "Akame",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png"
+  },
+  {
+   "nombre": "Esdeath",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
+  },
+  {
+   "nombre": "Mine",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png"
+  },
+  {
+   "nombre": "Leone",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65227-PWmfiEVJbCwQ.png"
+  },
+  {
+   "nombre": "Tatsumi",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/64749-a2ZdRWW1D5TR.jpg"
+  },
+  {
+   "nombre": "Lubbock",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/65231-2QpM2yw2X86k.png"
+  },
+  {
+   "nombre": "Chelsea",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/65237-6r8wMUJ6pCOF.png"
+  },
+  {
+   "nombre": "Sheele",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/65233-f8RXB4LQiNh0.png"
+  },
+  {
+   "nombre": "Bulat",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/65235-KbSvHjKWY3z4.png"
+  },
+  {
+   "nombre": "Kurome",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65297-wz0HpmuUjolX.png"
+  },
+  {
+   "nombre": "Susanoo",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65559-FZEHEfO374x9.png"
+  },
+  {
+   "nombre": "Wave",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n65555-3JyIFJNbFrZn.png"
+  },
+  {
+   "nombre": "Najenda",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72267-heLonNDtobAG.png"
+  },
+  {
+   "nombre": "Bors",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65793-xRWzkHVOKqd7.png"
+  }
+ ]
+}

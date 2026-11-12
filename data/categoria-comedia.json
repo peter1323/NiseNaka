@@ -1,0 +1,756 @@
+{
+ "id": "comedia",
+ "nombre": "Comedia",
+ "personajes": [
+  {
+   "nombre": "Luffy Monkey",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png"
+  },
+  {
+   "nombre": "Zoro Roronoa",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png"
+  },
+  {
+   "nombre": "Arataka Reigen",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89334-OPj1hCzvrt7X.png"
+  },
+  {
+   "nombre": "Itachi Uchiha",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png"
+  },
+  {
+   "nombre": "Kakashi Hatake",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png"
+  },
+  {
+   "nombre": "Mai Sakurajima",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127222-Jh5hhP7vZ7s1.png"
+  },
+  {
+   "nombre": "Shigeo Kageyama",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89616-dXmdOc7L6SDi.png"
+  },
+  {
+   "nombre": "Kaguya Shinomiya",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
+  },
+  {
+   "nombre": "Naruto Uzumaki",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png"
+  },
+  {
+   "nombre": "Marin Kitagawa",
+   "anime": "My Dress-Up Darling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
+  },
+  {
+   "nombre": "Shouto Todoroki",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
+  },
+  {
+   "nombre": "Megumin",
+   "anime": "KONOSUBA -God's blessing on this wonderful world!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
+  },
+  {
+   "nombre": "Katsuki Bakugou",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
+  },
+  {
+   "nombre": "Osamu Dazai",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89198-qKmRTw4Y3PRC.png"
+  },
+  {
+   "nombre": "Chika Fujiwara",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
+  },
+  {
+   "nombre": "Senkuu Ishigami",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-XUO1g7wRqkaT.png"
+  },
+  {
+   "nombre": "Sanji",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png"
+  },
+  {
+   "nombre": "Saitama",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg"
+  },
+  {
+   "nombre": "Miko Iino",
+   "anime": "Kaguya-sama: Love is War?",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
+  },
+  {
+   "nombre": "Robin Nico",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png"
+  },
+  {
+   "nombre": "Kusuo Saiki",
+   "anime": "The Disastrous Life of Saiki K.",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png"
+  },
+  {
+   "nombre": "Hitagi Senjougahara",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22037-sY7GWSKYr2Nl.jpg"
+  },
+  {
+   "nombre": "Izumi Miyamura",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66173-g8eU1LGWPB8O.png"
+  },
+  {
+   "nombre": "Shouyou Hinata",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+  },
+  {
+   "nombre": "Yuu Ishigami",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png"
+  },
+  {
+   "nombre": "Yor Forger",
+   "anime": "SPY x FAMILY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138102-ZOAu9jI2d5ke.png"
+  },
+  {
+   "nombre": "Izuku Midoriya",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
+  },
+  {
+   "nombre": "Shinobu Oshino",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b23602-Z4MDNYcoAWZu.png"
+  },
+  {
+   "nombre": "Rimuru Tempest",
+   "anime": "That Time I Got Reincarnated as a Slime",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123962-eL9yGV0NLMF7.png"
+  },
+  {
+   "nombre": "Sasuke Uchiha",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13-SISLEw1oAD7a.png"
+  },
+  {
+   "nombre": "Anya Forger",
+   "anime": "SPY x FAMILY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138100-4Li0tWRCa5bQ.png"
+  },
+  {
+   "nombre": "Yato",
+   "anime": "Noragami",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png"
+  },
+  {
+   "nombre": "Hachiman Hikigaya",
+   "anime": "My Teen Romantic Comedy SNAFU",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png"
+  },
+  {
+   "nombre": "Tobio Kageyama",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
+  },
+  {
+   "nombre": "Koyomi Araragi",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22036-Ed3CjwPlDLp4.png"
+  },
+  {
+   "nombre": "Kyouko Hori",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66171-o2vk3689wWFK.png"
+  },
+  {
+   "nombre": "Yami Sukehiro",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124440-Lpdo6y8cljV6.png"
+  },
+  {
+   "nombre": "Ai Hayasaka",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
+  },
+  {
+   "nombre": "Yuu Nishinoya",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
+  },
+  {
+   "nombre": "Sakuta Azusagawa",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png"
+  },
+  {
+   "nombre": "Karma Akabane",
+   "anime": "Assassination Classroom",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
+  },
+  {
+   "nombre": "Law Trafalgar",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13767-U604OJN9dxCn.jpg"
+  },
+  {
+   "nombre": "Nami",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png"
+  },
+  {
+   "nombre": "Loid Forger",
+   "anime": "SPY x FAMILY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png"
+  },
+  {
+   "nombre": "Kenma Kozume",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
+  },
+  {
+   "nombre": "Yukino Yukinoshita",
+   "anime": "My Teen Romantic Comedy SNAFU",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67067-gqhgjlni0Bcf.png"
+  },
+  {
+   "nombre": "Koro-sensei",
+   "anime": "Assassination Classroom",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png"
+  },
+  {
+   "nombre": "Asta",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123285-tKijiuQErDS0.png"
+  },
+  {
+   "nombre": "Kazuma Satou",
+   "anime": "KONOSUBA -God's blessing on this wonderful world!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png"
+  },
+  {
+   "nombre": "Tooru Oikawa",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
+  },
+  {
+   "nombre": "Kamina",
+   "anime": "Gurren Lagann",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2075-sWb5Xz76JWdX.png"
+  },
+  {
+   "nombre": "Miyuki Shirogane",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121101-Q8HzKP15At2d.png"
+  },
+  {
+   "nombre": "Ace Portgas",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2072-Lc6jEdsueJUK.jpg"
+  },
+  {
+   "nombre": "Chopper Tony Tony",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg"
+  },
+  {
+   "nombre": "Shouta Aizawa",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
+  },
+  {
+   "nombre": "Tatsumaki",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
+  },
+  {
+   "nombre": "Shikamaru Nara",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2007-QaesJlIZDifj.jpg"
+  },
+  {
+   "nombre": "Taiga Aisaka",
+   "anime": "Toradora!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png"
+  },
+  {
+   "nombre": "Simon",
+   "anime": "Gurren Lagann",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2257-jnalsdnIX1vN.jpg"
+  },
+  {
+   "nombre": "Aqua",
+   "anime": "KONOSUBA -God's blessing on this wonderful world!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
+  },
+  {
+   "nombre": "Ryuuko Matoi",
+   "anime": "Kill la Kill",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
+  },
+  {
+   "nombre": "Kei Tsukishima",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67329-k7mDdqQ6rJ4w.png"
+  },
+  {
+   "nombre": "Rikka Takanashi",
+   "anime": "Love, Chunibyo & Other Delusions",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65865-AC0ru7cDXUgK.png"
+  },
+  {
+   "nombre": "Tsubasa Hanekawa",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22055-EaTsy30ihdgb.png"
+  },
+  {
+   "nombre": "Gaara",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1662-4E5J0LX9jZKZ.png"
+  },
+  {
+   "nombre": "Ban",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
+  },
+  {
+   "nombre": "Momo Ayase",
+   "anime": "DAN DA DAN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b222594-24Jn7qlI5spH.png"
+  },
+  {
+   "nombre": "Ranpo Edogawa",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89201-K0X5HNq88Oub.png"
+  },
+  {
+   "nombre": "Erza Scarlet",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
+  },
+  {
+   "nombre": "Koutarou Bokuto",
+   "anime": "HAIKYU!! 2nd Season",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88937-2GSqkX9TIzYy.png"
+  },
+  {
+   "nombre": "Souma Yukihira",
+   "anime": "Food Wars!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b75216-KDU8333eIcqf.jpg"
+  },
+  {
+   "nombre": "Toshinori Yagi",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg"
+  },
+  {
+   "nombre": "Nagisa Shiota",
+   "anime": "Assassination Classroom",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
+  },
+  {
+   "nombre": "Chuuya Nakahara",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89853-06qMPkrGlgP1.png"
+  },
+  {
+   "nombre": "Tetsurou Kuroo",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71269-pi9vjyxKPFAu.jpg"
+  },
+  {
+   "nombre": "Jiraiya",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2423-RO5MyoXSA9OL.png"
+  },
+  {
+   "nombre": "Death the Kid",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png"
+  },
+  {
+   "nombre": "Genos",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
+  },
+  {
+   "nombre": "Eijirou Kirishima",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-R2WJlNuj3aEs.jpg"
+  },
+  {
+   "nombre": "Garou",
+   "anime": "One-Punch Man Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
+  },
+  {
+   "nombre": "Minato Namikaze",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2535-Xq9WKNPJQEt3.png"
+  },
+  {
+   "nombre": "Yui Yuigahama",
+   "anime": "My Teen Romantic Comedy SNAFU",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67069-6B3xnHfJUO0F.png"
+  },
+  {
+   "nombre": "Aira Shiratori",
+   "anime": "DAN DA DAN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b245466-rd5I5mchZ3bv.png"
+  },
+  {
+   "nombre": "Himiko Toga",
+   "anime": "My Hero Academia Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125619-iQxQoGHJvjRJ.png"
+  },
+  {
+   "nombre": "Hinata Hyuuga",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1555-Q41GLTV3FvYF.png"
+  },
+  {
+   "nombre": "Darkness",
+   "anime": "KONOSUBA -God's blessing on this wonderful world!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
+  },
+  {
+   "nombre": "Kanna Kamui",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120974-cZHsjS8DX9WW.png"
+  },
+  {
+   "nombre": "Shiro",
+   "anime": "No Game, No Life",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
+  },
+  {
+   "nombre": "Shun Kaidou",
+   "anime": "The Disastrous Life of Saiki K.",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90112-KVRcvbKBKLxY.png"
+  },
+  {
+   "nombre": "Natsu Dragneel",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
+  },
+  {
+   "nombre": "Nao Tomori",
+   "anime": "Charlotte",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/88951-bRm610RrrXp9.jpg"
+  },
+  {
+   "nombre": "Koushi Sugawara",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67321-cxP7NdI0JC3H.png"
+  },
+  {
+   "nombre": "Ochako Uraraka",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89221-gSF2a4gPbG4m.png"
+  },
+  {
+   "nombre": "Pain",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3180-ITMGBLWNBOgV.png"
+  },
+  {
+   "nombre": "Dabi",
+   "anime": "My Hero Academia Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126378-RFSljq5koy5U.png"
+  },
+  {
+   "nombre": "Tomura Shigaraki",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89226-qGXqFthO4SM3.jpg"
+  },
+  {
+   "nombre": "Ais Wallenstein",
+   "anime": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-50i1Y554Vs3z.png"
+  },
+  {
+   "nombre": "Rock Lee",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b306-oUTOO45xInXt.png"
+  },
+  {
+   "nombre": "Rio Futaba",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127633-FcCwWK5sQRhK.png"
+  },
+  {
+   "nombre": "Gen Asagiri",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png"
+  },
+  {
+   "nombre": "Tohru",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120970-knjWLdlQIs1y.jpg"
+  },
+  {
+   "nombre": "Ryuunosuke Akutagawa",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89199-h8tHKG8vKPNZ.png"
+  },
+  {
+   "nombre": "Noelle Silva",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123283-7nJHtKha0LSm.png"
+  },
+  {
+   "nombre": "Maka Albarn",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png"
+  },
+  {
+   "nombre": "Nadeko Sengoku",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22050-RUw3vyGYdr9W.jpg"
+  },
+  {
+   "nombre": "Madara Uchiha",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b53901-HnRKSoHMG5Vg.png"
+  },
+  {
+   "nombre": "Mayoi Hachikuji",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22052-beyfl4AyMGhn.png"
+  },
+  {
+   "nombre": "Ken Takakura",
+   "anime": "DAN DA DAN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b222593-qBqUvpodooAI.png"
+  },
+  {
+   "nombre": "Sora",
+   "anime": "No Game, No Life",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
+  },
+  {
+   "nombre": "Meliodas",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
+  },
+  {
+   "nombre": "Lucy Heartfilia",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
+  },
+  {
+   "nombre": "Erina Nakiri",
+   "anime": "Food Wars!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b75284-4Hiyq7DOwvy7.png"
+  },
+  {
+   "nombre": "Fubuki",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
+  },
+  {
+   "nombre": "Denki Kaminari",
+   "anime": "My Hero Academia Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89249-Ygc30RlYoFta.png"
+  },
+  {
+   "nombre": "Mako Mankanshoku",
+   "anime": "Kill la Kill",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87511-T8lwlQKd6SoK.png"
+  },
+  {
+   "nombre": "Tsuyu Asui",
+   "anime": "My Hero Academia Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89223-5762vburxnlz.png"
+  },
+  {
+   "nombre": "Ryuunosuke Tanaka",
+   "anime": "HAIKYU!! 2nd Season",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67325-yPkbZJkofp5w.jpg"
+  },
+  {
+   "nombre": "Keigo Takami",
+   "anime": "My Hero Academia Season 4",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128299-eMEsWazNXE56.png"
+  },
+  {
+   "nombre": "Mirio Togata",
+   "anime": "My Hero Academia Season 3",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123527-rz0OotcLY0E4.png"
+  },
+  {
+   "nombre": "Kanade Tachibana",
+   "anime": "Angel Beats!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
+  },
+  {
+   "nombre": "Suruga Kanbaru",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/22054-n6Jsvp80bUhD.jpg"
+  },
+  {
+   "nombre": "Kyouka Jirou",
+   "anime": "My Hero Academia Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89897-5vU7N3ayiKRr.png"
+  },
+  {
+   "nombre": "Yuri Nakamura",
+   "anime": "Angel Beats!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg"
+  },
+  {
+   "nombre": "Soul Eater Evans",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8456-GtNbISpXhkvd.png"
+  },
+  {
+   "nombre": "Crona",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png"
+  },
+  {
+   "nombre": "Tamaki Amajiki",
+   "anime": "My Hero Academia Season 3",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125934-HZkorJEHedRy.png"
+  },
+  {
+   "nombre": "Milim Nava",
+   "anime": "That Time I Got Reincarnated as a Slime",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128036-lW0dxNwerqw4.png"
+  },
+  {
+   "nombre": "Gray Fullbuster",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
+  },
+  {
+   "nombre": "Bell Cranel",
+   "anime": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88860-catfcwlvUYst.jpg"
+  },
+  {
+   "nombre": "Satsuki Kiryuuin",
+   "anime": "Kill la Kill",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b83799-oPxSwMA9XAvu.png"
+  },
+  {
+   "nombre": "Atsushi Nakajima",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89197-vB5kP72ruckV.png"
+  },
+  {
+   "nombre": "Youko Littner",
+   "anime": "Gurren Lagann",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2063-7BKqQbrhtDD2.png"
+  },
+  {
+   "nombre": "Fumikage Tokoyami",
+   "anime": "My Hero Academia Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89898-yAYDmPQPSOTV.png"
+  },
+  {
+   "nombre": "Yuno",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123284-w6kIFYnTclMd.png"
+  },
+  {
+   "nombre": "Momo Yaoyorozu",
+   "anime": "My Hero Academia Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89241-Q8KzAfX4Qe2y.png"
+  },
+  {
+   "nombre": "Wakana Gojou",
+   "anime": "My Dress-Up Darling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133678-IitCgjDxQGgu.png"
+  },
+  {
+   "nombre": "Kaede Azusagawa",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png"
+  },
+  {
+   "nombre": "Hiyori Iki",
+   "anime": "Noragami",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png"
+  },
+  {
+   "nombre": "Keiji Akaashi",
+   "anime": "HAIKYU!! 2nd Season",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88938-MQdQoMzEigo1.png"
+  },
+  {
+   "nombre": "Ryuuji Takasu",
+   "anime": "Toradora!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png"
+  },
+  {
+   "nombre": "Kohaku",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png"
+  },
+  {
+   "nombre": "Tomoe Koga",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg"
+  },
+  {
+   "nombre": "Yuu Otosaka",
+   "anime": "Charlotte",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88950-0ER2ke5pswxq.png"
+  },
+  {
+   "nombre": "Ekubo",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89617-HHZ1kziYxc0q.png"
+  },
+  {
+   "nombre": "Hestia",
+   "anime": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87654-UmmuLPwSK2Hd.jpg"
+  },
+  {
+   "nombre": "Yukine",
+   "anime": "Noragami",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84681-vFMPNxeDkoqt.png"
+  },
+  {
+   "nombre": "Tobi",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3149-j6cl8A9yup51.png"
+  },
+  {
+   "nombre": "Ryuu  Lion",
+   "anime": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88890-lJFKK5czkH9E.jpg"
+  },
+  {
+   "nombre": "Mereoleona Vermillion",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png"
+  },
+  {
+   "nombre": "Meme Oshino",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22552-CZz1T3AjRyVd.png"
+  }
+ ]
+}

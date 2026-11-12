@@ -1,0 +1,66 @@
+{
+ "id": "one-punch-man",
+ "nombre": "One-Punch Man",
+ "personajes": [
+  {
+   "nombre": "Saitama",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg"
+  },
+  {
+   "nombre": "Tatsumaki",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
+  },
+  {
+   "nombre": "Genos",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
+  },
+  {
+   "nombre": "Fubuki",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
+  },
+  {
+   "nombre": "Onsoku no Sonic",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b74167-FE8EtGtHUM77.png"
+  },
+  {
+   "nombre": "Satoru",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b81935-NGDgB9J4MMlF.png"
+  },
+  {
+   "nombre": "Bad",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89156-kGKJyhWnCTHy.png"
+  },
+  {
+   "nombre": "King",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n88907-M7QLjYvp2LEp.png"
+  },
+  {
+   "nombre": "Bang",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n81141-1ml7Q6X2B508.png"
+  },
+  {
+   "nombre": "Zombieman",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n133835-7dbqvi4YzpRC.png"
+  },
+  {
+   "nombre": "Banken Man",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b86027-g3kRrv9jewmz.png"
+  },
+  {
+   "nombre": "Boros-sama",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n89263-GPItRQ64F27D.png"
+  }
+ ]
+}

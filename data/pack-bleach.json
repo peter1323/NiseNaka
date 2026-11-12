@@ -1,0 +1,126 @@
+{
+ "id": "bleach",
+ "nombre": "Bleach",
+ "personajes": [
+  {
+   "nombre": "Ichigo Kurosaki",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5-a7bkJgjhhigE.png"
+  },
+  {
+   "nombre": "Kisuke Urahara",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b210-mw01NrQfRjzT.png"
+  },
+  {
+   "nombre": "Rukia Kuchiki",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6-25WoBeWMZXBc.png"
+  },
+  {
+   "nombre": "Sousuke Aizen",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1086-qR9218BjZTC0.png"
+  },
+  {
+   "nombre": "Yoruichi Shihouin",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b908-JSYUkJLCw1f0.png"
+  },
+  {
+   "nombre": "Kenpachi Zaraki",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b909-slhoFBon7oiH.jpg"
+  },
+  {
+   "nombre": "Ulquiorra Cifer",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1081-xLTqHfLL2I2W.png"
+  },
+  {
+   "nombre": "Grimmjow Jaegerjaquez",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1080-JUNo2Or0UGZg.jpg"
+  },
+  {
+   "nombre": "Orihime Inoue",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b7-JdR4betokDjR.jpg"
+  },
+  {
+   "nombre": "Toushirou Hitsugaya",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b245-buy3Cfn6IFSB.jpg"
+  },
+  {
+   "nombre": "Byakuya Kuchiki",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b907-kgnDKeMtEN5y.png"
+  },
+  {
+   "nombre": "Jirou Sakuranosuke Shunsui Kyouraku",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1088-6oO10CmxZ1lP.jpg"
+  },
+  {
+   "nombre": "Shinji Hirako",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1084-36qzqGdvxVLI.jpg"
+  },
+  {
+   "nombre": "Gin Ichimaru",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1087-wMTny26FezYB.png"
+  },
+  {
+   "nombre": "Renji Abarai",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b906-ImRjx5HFM8X6.png"
+  },
+  {
+   "nombre": "Uryuu Ishida",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b564-a6LJitrjSfKC.jpg"
+  },
+  {
+   "nombre": "Nelliel Tu Oderschvank",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4730-zvzowqOHaQL2.png"
+  },
+  {
+   "nombre": "Rangiku Matsumoto",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b904-bdfi2xqHicCj.png"
+  },
+  {
+   "nombre": "Soi Fon",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b905-zKwCoIRiYJSr.png"
+  },
+  {
+   "nombre": "Yasutora Sado",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/575.jpg"
+  },
+  {
+   "nombre": "Retsu Unohana",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3845-B0r5OCEkdJOR.png"
+  },
+  {
+   "nombre": "Mayuri Kurotsuchi",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1168-y2jsGtlJVv4z.png"
+  },
+  {
+   "nombre": "Zangetsu",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b911-KgzOcvf4jhOh.png"
+  },
+  {
+   "nombre": "Shuuhei Hisagi",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1095-0vUC9qW8qXey.png"
+  }
+ ]
+}

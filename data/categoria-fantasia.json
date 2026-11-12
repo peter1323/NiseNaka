@@ -1,0 +1,756 @@
+{
+ "id": "fantasia",
+ "nombre": "Fantasía",
+ "personajes": [
+  {
+   "nombre": "Levi",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png"
+  },
+  {
+   "nombre": "Luffy Monkey",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png"
+  },
+  {
+   "nombre": "Killua Zoldyck",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b27-Z5O02kQUydpT.jpg"
+  },
+  {
+   "nombre": "Eren Yeager",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg"
+  },
+  {
+   "nombre": "Zoro Roronoa",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png"
+  },
+  {
+   "nombre": "Emilia",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
+  },
+  {
+   "nombre": "Mikasa Ackerman",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
+  },
+  {
+   "nombre": "Frieren",
+   "anime": "Frieren: Beyond Journey’s End",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
+  },
+  {
+   "nombre": "Itachi Uchiha",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png"
+  },
+  {
+   "nombre": "Kakashi Hatake",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png"
+  },
+  {
+   "nombre": "Kurapika",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b28-ivA7UGnfE40a.png"
+  },
+  {
+   "nombre": "Violet Evergarden",
+   "anime": "Violet Evergarden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90169-4wr1Zehnsac8.png"
+  },
+  {
+   "nombre": "Edward Elric",
+   "anime": "Fullmetal Alchemist: Brotherhood",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg"
+  },
+  {
+   "nombre": "Naruto Uzumaki",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png"
+  },
+  {
+   "nombre": "Tanjirou Kamado",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
+  },
+  {
+   "nombre": "Sakura Matou",
+   "anime": "Fate/Zero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b500-NQrLbnBr1sDv.png"
+  },
+  {
+   "nombre": "Megumin",
+   "anime": "KONOSUBA -God's blessing on this wonderful world!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
+  },
+  {
+   "nombre": "Rem",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88575-Ayu8UPDA8NS6.png"
+  },
+  {
+   "nombre": "Subaru Natsuki",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88573-F8yMTK9GhnTA.png"
+  },
+  {
+   "nombre": "Gon Freecss",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg"
+  },
+  {
+   "nombre": "Sanji",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png"
+  },
+  {
+   "nombre": "Jin-U Seong",
+   "anime": "Solo Leveling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png"
+  },
+  {
+   "nombre": "Robin Nico",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png"
+  },
+  {
+   "nombre": "Inosuke Hashibira",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
+  },
+  {
+   "nombre": "Nezuko Kamado",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
+  },
+  {
+   "nombre": "Roy Mustang",
+   "anime": "Fullmetal Alchemist: Brotherhood",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png"
+  },
+  {
+   "nombre": "Hisoka Morow",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b31-FZckOuu7L1un.png"
+  },
+  {
+   "nombre": "Armin Arlert",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
+  },
+  {
+   "nombre": "Hange Zoe",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+  },
+  {
+   "nombre": "Zenitsu Agatsuma",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png"
+  },
+  {
+   "nombre": "Rimuru Tempest",
+   "anime": "That Time I Got Reincarnated as a Slime",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123962-eL9yGV0NLMF7.png"
+  },
+  {
+   "nombre": "Sasuke Uchiha",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13-SISLEw1oAD7a.png"
+  },
+  {
+   "nombre": "Erwin Smith",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png"
+  },
+  {
+   "nombre": "Rin Toosaka",
+   "anime": "Fate/Zero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b498-lwawtSpLyATL.png"
+  },
+  {
+   "nombre": "Giyuu Tomioka",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+  },
+  {
+   "nombre": "Homura Akemi",
+   "anime": "Puella Magi Madoka Magica",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b38005-T3NR8p2f021x.jpg"
+  },
+  {
+   "nombre": "Artoria Pendragon",
+   "anime": "Fate/Zero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
+  },
+  {
+   "nombre": "Roxy Migurdia",
+   "anime": "Mushoku Tensei: Jobless Reincarnation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88350-QU1iwgZ887U8.png"
+  },
+  {
+   "nombre": "Kyoujurou Rengoku",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
+  },
+  {
+   "nombre": "Yami Sukehiro",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124440-Lpdo6y8cljV6.png"
+  },
+  {
+   "nombre": "Law Trafalgar",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13767-U604OJN9dxCn.jpg"
+  },
+  {
+   "nombre": "Nami",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png"
+  },
+  {
+   "nombre": "Asuna Yuuki",
+   "anime": "Sword Art Online",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
+  },
+  {
+   "nombre": "Ray",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121724-SJTdODjeO7e6.jpg"
+  },
+  {
+   "nombre": "Chrollo Lucilfer",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b58-USOmsz3nursi.jpg"
+  },
+  {
+   "nombre": "Gabi Braun",
+   "anime": "Attack on Titan Final Season",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125659-O37MZQWibV7g.png"
+  },
+  {
+   "nombre": "Asta",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123285-tKijiuQErDS0.png"
+  },
+  {
+   "nombre": "Kazuma Satou",
+   "anime": "KONOSUBA -God's blessing on this wonderful world!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png"
+  },
+  {
+   "nombre": "Meruem",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b23277-EYmIxzL64Mji.png"
+  },
+  {
+   "nombre": "Shinobu Kochou",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png"
+  },
+  {
+   "nombre": "Ace Portgas",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2072-Lc6jEdsueJUK.jpg"
+  },
+  {
+   "nombre": "Kazuto Kirigaya",
+   "anime": "Sword Art Online",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
+  },
+  {
+   "nombre": "Fern",
+   "anime": "Frieren: Beyond Journey’s End",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
+  },
+  {
+   "nombre": "Chopper Tony Tony",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg"
+  },
+  {
+   "nombre": "Shikamaru Nara",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2007-QaesJlIZDifj.jpg"
+  },
+  {
+   "nombre": "Rudeus Greyrat",
+   "anime": "Mushoku Tensei: Jobless Reincarnation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88348-bIe5XnXdRpmX.png"
+  },
+  {
+   "nombre": "Howl",
+   "anime": "Howl‘s Moving Castle",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b507-g9yz1GTLtPla.jpg"
+  },
+  {
+   "nombre": "Sasha Blouse",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg"
+  },
+  {
+   "nombre": "Aqua",
+   "anime": "KONOSUBA -God's blessing on this wonderful world!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
+  },
+  {
+   "nombre": "Tengen Uzui",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136071-99Kexnnn2PiV.png"
+  },
+  {
+   "nombre": "Reiner Braun",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png"
+  },
+  {
+   "nombre": "Gaara",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1662-4E5J0LX9jZKZ.png"
+  },
+  {
+   "nombre": "Ban",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
+  },
+  {
+   "nombre": "Gilgamesh",
+   "anime": "Fate/Zero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png"
+  },
+  {
+   "nombre": "Eris Boreas Greyrat",
+   "anime": "Mushoku Tensei: Jobless Reincarnation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88349-5dsNUah3oBj8.png"
+  },
+  {
+   "nombre": "Alphonse Elric",
+   "anime": "Fullmetal Alchemist: Brotherhood",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg"
+  },
+  {
+   "nombre": "Erza Scarlet",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
+  },
+  {
+   "nombre": "Akame",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png"
+  },
+  {
+   "nombre": "Kiritsugu Emiya",
+   "anime": "Fate/Zero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10010-fNspzan5MzNk.png"
+  },
+  {
+   "nombre": "Norman",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121700-CRwKIlcBcjbv.jpg"
+  },
+  {
+   "nombre": "Jiraiya",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2423-RO5MyoXSA9OL.png"
+  },
+  {
+   "nombre": "Raphtalia",
+   "anime": "The Rising of the Shield Hero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png"
+  },
+  {
+   "nombre": "Death the Kid",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png"
+  },
+  {
+   "nombre": "Esdeath",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
+  },
+  {
+   "nombre": "Mitsuri Kanroji",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png"
+  },
+  {
+   "nombre": "Leorio Paradinight",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b29-RgzoSeKmDYzl.jpg"
+  },
+  {
+   "nombre": "Minato Namikaze",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2535-Xq9WKNPJQEt3.png"
+  },
+  {
+   "nombre": "Jean Kirstein",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png"
+  },
+  {
+   "nombre": "Nanachi",
+   "anime": "Made in Abyss",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122445-5uDu8wMy8Jxi.png"
+  },
+  {
+   "nombre": "Stark",
+   "anime": "Frieren: Beyond Journey’s End",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
+  },
+  {
+   "nombre": "Hinata Hyuuga",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1555-Q41GLTV3FvYF.png"
+  },
+  {
+   "nombre": "Darkness",
+   "anime": "KONOSUBA -God's blessing on this wonderful world!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
+  },
+  {
+   "nombre": "Echidna",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129330-ZUtYw4n7N0uH.png"
+  },
+  {
+   "nombre": "Albedo",
+   "anime": "Overlord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png"
+  },
+  {
+   "nombre": "Kanna Kamui",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120974-cZHsjS8DX9WW.png"
+  },
+  {
+   "nombre": "Shiro",
+   "anime": "No Game, No Life",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
+  },
+  {
+   "nombre": "Rin Okumura",
+   "anime": "Blue Exorcist",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg"
+  },
+  {
+   "nombre": "Naofumi Iwatani",
+   "anime": "The Rising of the Shield Hero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png"
+  },
+  {
+   "nombre": "Natsu Dragneel",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
+  },
+  {
+   "nombre": "Emma",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121725-LQciVJOjnMVh.png"
+  },
+  {
+   "nombre": "Pain",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3180-ITMGBLWNBOgV.png"
+  },
+  {
+   "nombre": "Momonga",
+   "anime": "Overlord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png"
+  },
+  {
+   "nombre": "Madoka Kaname",
+   "anime": "Puella Magi Madoka Magica",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b37832-lzVj5IkUciLd.jpg"
+  },
+  {
+   "nombre": "Ais Wallenstein",
+   "anime": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-50i1Y554Vs3z.png"
+  },
+  {
+   "nombre": "Rock Lee",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b306-oUTOO45xInXt.png"
+  },
+  {
+   "nombre": "Kanao Tsuyuri",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b139038-OcOoDUyLEsRn.png"
+  },
+  {
+   "nombre": "Shinoa Hiiragi",
+   "anime": "Seraph of the End: Vampire Reign",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b83017-XXdnbunnBdTd.png"
+  },
+  {
+   "nombre": "Tohru",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120970-knjWLdlQIs1y.jpg"
+  },
+  {
+   "nombre": "Muichirou Tokitou",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136069-6PLglx4tETUX.png"
+  },
+  {
+   "nombre": "Noelle Silva",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123283-7nJHtKha0LSm.png"
+  },
+  {
+   "nombre": "Maka Albarn",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png"
+  },
+  {
+   "nombre": "Mikaela Hyakuya",
+   "anime": "Seraph of the End: Vampire Reign",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87287-cBUVUJNbvfvT.png"
+  },
+  {
+   "nombre": "Annie Leonhart",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg"
+  },
+  {
+   "nombre": "Madara Uchiha",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b53901-HnRKSoHMG5Vg.png"
+  },
+  {
+   "nombre": "Aguero Agnis Khun",
+   "anime": "Tower of God",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84781-sNnhOZ1SZ66f.png"
+  },
+  {
+   "nombre": "Shino Asada",
+   "anime": "Sword Art Online II",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
+  },
+  {
+   "nombre": "Beatrice",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90181-wRPm0OEaucmw.png"
+  },
+  {
+   "nombre": "Himmel",
+   "anime": "Frieren: Beyond Journey’s End",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-wQFySqYXEqf1.png"
+  },
+  {
+   "nombre": "Hae-In Cha",
+   "anime": "Solo Leveling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png"
+  },
+  {
+   "nombre": "Sora",
+   "anime": "No Game, No Life",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
+  },
+  {
+   "nombre": "Meliodas",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
+  },
+  {
+   "nombre": "Feitan Portor",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/3195.jpg"
+  },
+  {
+   "nombre": "Lucy Heartfilia",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
+  },
+  {
+   "nombre": "Sylphiette",
+   "anime": "Mushoku Tensei: Jobless Reincarnation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png"
+  },
+  {
+   "nombre": "Ram",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88576-NWkotUiJ3mK3.png"
+  },
+  {
+   "nombre": "Akaza",
+   "anime": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b141694-0COi0GVXPuEn.png"
+  },
+  {
+   "nombre": "Winry Rockbell",
+   "anime": "Fullmetal Alchemist: Brotherhood",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
+  },
+  {
+   "nombre": "Riza Hawkeye",
+   "anime": "Fullmetal Alchemist: Brotherhood",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png"
+  },
+  {
+   "nombre": "Soul Eater Evans",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8456-GtNbISpXhkvd.png"
+  },
+  {
+   "nombre": "Crona",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png"
+  },
+  {
+   "nombre": "Milim Nava",
+   "anime": "That Time I Got Reincarnated as a Slime",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128036-lW0dxNwerqw4.png"
+  },
+  {
+   "nombre": "Krista Lenz",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png"
+  },
+  {
+   "nombre": "Ling Yao",
+   "anime": "Fullmetal Alchemist: Brotherhood",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3293-2GiFTmLQnBw8.jpg"
+  },
+  {
+   "nombre": "Gray Fullbuster",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
+  },
+  {
+   "nombre": "Bell Cranel",
+   "anime": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88860-catfcwlvUYst.jpg"
+  },
+  {
+   "nombre": "Iskandar",
+   "anime": "Fate/Zero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b16021-w5Jn1eb807vt.png"
+  },
+  {
+   "nombre": "Kirei Kotomine",
+   "anime": "Fate/Zero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b506-qeg0TqitdCMS.png"
+  },
+  {
+   "nombre": "Yuno",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123284-w6kIFYnTclMd.png"
+  },
+  {
+   "nombre": "Zeke",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125661-FiqFvAtNlL0v.png"
+  },
+  {
+   "nombre": "Pieck Finger",
+   "anime": "Attack on Titan Final Season",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125603-Z2rgiHUGbAmY.png"
+  },
+  {
+   "nombre": "Mine",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png"
+  },
+  {
+   "nombre": "Ymir",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71479-huCD908XIdqv.png"
+  },
+  {
+   "nombre": "Illyasviel von Einzbern",
+   "anime": "Fate/Zero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b503-SmS87yq6l2tD.png"
+  },
+  {
+   "nombre": "Twenty-Fifth Baam",
+   "anime": "Tower of God",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84769-NaLHptr4KXKd.png"
+  },
+  {
+   "nombre": "Hestia",
+   "anime": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87654-UmmuLPwSK2Hd.jpg"
+  },
+  {
+   "nombre": "Tobi",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3149-j6cl8A9yup51.png"
+  },
+  {
+   "nombre": "Guren Ichinose",
+   "anime": "Seraph of the End: Vampire Reign",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88993-YNw36YYleasn.png"
+  },
+  {
+   "nombre": "Greed",
+   "anime": "Fullmetal Alchemist: Brotherhood",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b351-XMQzTuMy2Xtn.jpg"
+  },
+  {
+   "nombre": "Ryuu  Lion",
+   "anime": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88890-lJFKK5czkH9E.jpg"
+  },
+  {
+   "nombre": "Mereoleona Vermillion",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png"
+  },
+  {
+   "nombre": "Obanai Iguro",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg"
+  },
+  {
+   "nombre": "Haku",
+   "anime": "Spirited Away",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b385-pKGCy3oYWxRa.png"
+  },
+  {
+   "nombre": "Sakura Haruno",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png"
+  },
+  {
+   "nombre": "Kobayashi",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120969-dHJBVb3lB8iN.png"
+  },
+  {
+   "nombre": "Bondrewd",
+   "anime": "Made in Abyss",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg"
+  },
+  {
+   "nombre": "Maes Hughes",
+   "anime": "Fullmetal Alchemist: Brotherhood",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b69-MRetSG8Qevvu.png"
+  },
+  {
+   "nombre": "Sayaka Miki",
+   "anime": "Puella Magi Madoka Magica",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b38395-d24OayatTB5h.jpg"
+  },
+  {
+   "nombre": "Julius Novachrono",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg"
+  },
+  {
+   "nombre": "Black☆Star",
+   "anime": "Soul Eater",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8464-oKu98OyJ3eZt.png"
+  },
+  {
+   "nombre": "Kyouko Sakura",
+   "anime": "Puella Magi Madoka Magica",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40006-zOwYYimuiO3m.png"
+  }
+ ]
+}

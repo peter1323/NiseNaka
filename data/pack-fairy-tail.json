@@ -1,0 +1,131 @@
+{
+ "id": "fairy-tail",
+ "nombre": "Fairy Tail",
+ "personajes": [
+  {
+   "nombre": "Erza Scarlet",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
+  },
+  {
+   "nombre": "Natsu Dragneel",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
+  },
+  {
+   "nombre": "Lucy Heartfilia",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
+  },
+  {
+   "nombre": "Gray Fullbuster",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
+  },
+  {
+   "nombre": "Juvia Lockser",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png"
+  },
+  {
+   "nombre": "Narrator",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+  },
+  {
+   "nombre": "Happy",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5188-1jTaic3aJ7Ds.jpg"
+  },
+  {
+   "nombre": "Gajeel Redfox",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b16893-l9HhHQ8j09H5.jpg"
+  },
+  {
+   "nombre": "Mirajane Strauss",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5190-Xql1rGKUv1ql.png"
+  },
+  {
+   "nombre": "Jellal Fernandes",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22751-ITQZWdiz8Ym7.png"
+  },
+  {
+   "nombre": "Wendy Marvell",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b28886-unO1rEi3zdyF.jpg"
+  },
+  {
+   "nombre": "Zeref",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/37720-WfpaYoeW2OkV.jpg"
+  },
+  {
+   "nombre": "Laxus Dreyar",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8294-24LS3f4VMrfs.jpg"
+  },
+  {
+   "nombre": "Mavis Vermillion",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/50163-AUxOytSdbd1K.jpg"
+  },
+  {
+   "nombre": "Levy McGarden",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b29493-XcqFX69oipzX.jpg"
+  },
+  {
+   "nombre": "Sting Eucliffe",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b51171-XAJmBTPvVPv5.jpg"
+  },
+  {
+   "nombre": "Gildarts Clive",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b29502-znlVXVdXEQqg.png"
+  },
+  {
+   "nombre": "Cana Alberona",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8296-QdKicnM0gSGN.jpg"
+  },
+  {
+   "nombre": "Ultear Milkovich",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b23842-0pvskZRARN4y.png"
+  },
+  {
+   "nombre": "Loke",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8295-pFDjOHun6jUr.jpg"
+  },
+  {
+   "nombre": "Rogue Cheney",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b51153-WAt7vK7I0rMy.jpg"
+  },
+  {
+   "nombre": "Mystogan",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8297-JJLl5dOutGHB.png"
+  },
+  {
+   "nombre": "Virgo",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b28116-XRYJ0Z6i8VqC.png"
+  },
+  {
+   "nombre": "Frosch",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/51183.jpg"
+  },
+  {
+   "nombre": "Makarov Dreyar",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/5333.jpg"
+  }
+ ]
+}

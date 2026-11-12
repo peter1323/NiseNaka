@@ -1,0 +1,66 @@
+{
+ "id": "chainsaw-man",
+ "nombre": "Chainsaw Man",
+ "personajes": [
+  {
+   "nombre": "Makima",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png"
+  },
+  {
+   "nombre": "Denji",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130102-FO1VHNnEnLlB.png"
+  },
+  {
+   "nombre": "Power",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png"
+  },
+  {
+   "nombre": "Aki Hayakawa",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137081-TSrUR3mUJL6r.png"
+  },
+  {
+   "nombre": "Pochita",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b170266-bBXPkNJnd3mg.png"
+  },
+  {
+   "nombre": "Kobeni Higashiyama",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b144594-0dbO1NSYeZ12.png"
+  },
+  {
+   "nombre": "Tenshi no Akuma",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b152231-xNV2YsTRzEcS.png"
+  },
+  {
+   "nombre": "Himeno",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b144596-kvL6SD2litJu.png"
+  },
+  {
+   "nombre": "Kishibe",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b144593-hdCTT9t54z0s.png"
+  },
+  {
+   "nombre": "Beam",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157232-5GuWeqoFN9Kq.jpg"
+  },
+  {
+   "nombre": "Bouryoku no Majin",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157231-hV81SwGqxl2R.jpg"
+  },
+  {
+   "nombre": "Nyaako",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b174271-iC0Ul9YfLOk6.png"
+  }
+ ]
+}

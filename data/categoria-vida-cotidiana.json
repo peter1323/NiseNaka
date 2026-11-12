@@ -1,0 +1,756 @@
+{
+ "id": "vida-cotidiana",
+ "nombre": "Vida cotidiana",
+ "personajes": [
+  {
+   "nombre": "Arataka Reigen",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89334-OPj1hCzvrt7X.png"
+  },
+  {
+   "nombre": "Shigeo Kageyama",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89616-dXmdOc7L6SDi.png"
+  },
+  {
+   "nombre": "Violet Evergarden",
+   "anime": "Violet Evergarden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90169-4wr1Zehnsac8.png"
+  },
+  {
+   "nombre": "Kaguya Shinomiya",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
+  },
+  {
+   "nombre": "Marin Kitagawa",
+   "anime": "My Dress-Up Darling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
+  },
+  {
+   "nombre": "Chika Fujiwara",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
+  },
+  {
+   "nombre": "Itsuki Nakano",
+   "anime": "The Quintessential Quintuplets",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126375-dEe9IyQ9By09.png"
+  },
+  {
+   "nombre": "Miko Iino",
+   "anime": "Kaguya-sama: Love is War?",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
+  },
+  {
+   "nombre": "Kusuo Saiki",
+   "anime": "The Disastrous Life of Saiki K.",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png"
+  },
+  {
+   "nombre": "Izumi Miyamura",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66173-g8eU1LGWPB8O.png"
+  },
+  {
+   "nombre": "Yuu Ishigami",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png"
+  },
+  {
+   "nombre": "Yor Forger",
+   "anime": "SPY x FAMILY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138102-ZOAu9jI2d5ke.png"
+  },
+  {
+   "nombre": "Anya Forger",
+   "anime": "SPY x FAMILY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138100-4Li0tWRCa5bQ.png"
+  },
+  {
+   "nombre": "Hitori Gotou",
+   "anime": "BOCCHI THE ROCK!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b257562-Ru35NYPfsqhY.png"
+  },
+  {
+   "nombre": "Hachiman Hikigaya",
+   "anime": "My Teen Romantic Comedy SNAFU",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png"
+  },
+  {
+   "nombre": "Kyouko Hori",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66171-o2vk3689wWFK.png"
+  },
+  {
+   "nombre": "Shouko Nishimiya",
+   "anime": "A Silent Voice",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b80243-RzxE51iUU5eq.png"
+  },
+  {
+   "nombre": "Miku Nakano",
+   "anime": "The Quintessential Quintuplets",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126373-CWeyXb822uDN.png"
+  },
+  {
+   "nombre": "Shouya Ishida",
+   "anime": "A Silent Voice",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b80491-NK6pxb6oH61P.png"
+  },
+  {
+   "nombre": "Ai Hayasaka",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
+  },
+  {
+   "nombre": "Nino Nakano",
+   "anime": "The Quintessential Quintuplets",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126372-DtorHRgQaYUJ.png"
+  },
+  {
+   "nombre": "Kyou Souma",
+   "anime": "Fruits Basket (2019)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b209-NOAbiLvJt1QA.png"
+  },
+  {
+   "nombre": "Loid Forger",
+   "anime": "SPY x FAMILY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png"
+  },
+  {
+   "nombre": "Yukino Yukinoshita",
+   "anime": "My Teen Romantic Comedy SNAFU",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67067-gqhgjlni0Bcf.png"
+  },
+  {
+   "nombre": "Kaori Miyazono",
+   "anime": "Your lie in April",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png"
+  },
+  {
+   "nombre": "Miyuki Shirogane",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121101-Q8HzKP15At2d.png"
+  },
+  {
+   "nombre": "Tooru Honda",
+   "anime": "Fruits Basket (2019)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b207-RQ4EUdTD0K62.png"
+  },
+  {
+   "nombre": "Taiga Aisaka",
+   "anime": "Toradora!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png"
+  },
+  {
+   "nombre": "Shouko Komi",
+   "anime": "Komi Can’t Communicate",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121956-5FbIbcd6gAZW.png"
+  },
+  {
+   "nombre": "Rikka Takanashi",
+   "anime": "Love, Chunibyo & Other Delusions",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65865-AC0ru7cDXUgK.png"
+  },
+  {
+   "nombre": "Houtarou Oreki",
+   "anime": "Hyouka",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b55131-ypodHQCyHbzD.png"
+  },
+  {
+   "nombre": "Nijika Ijichi",
+   "anime": "BOCCHI THE ROCK!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b261674-a8tJYvtzqWgC.png"
+  },
+  {
+   "nombre": "Nazuna Nanakusa",
+   "anime": "Call of the Night",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b168774-zoB9InjmXYq2.png"
+  },
+  {
+   "nombre": "Ryou Yamada",
+   "anime": "BOCCHI THE ROCK!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b264529-BvEusZnJLD2Y.png"
+  },
+  {
+   "nombre": "Legoshi",
+   "anime": "BEASTARS",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125168-cOydxRHEbAYb.png"
+  },
+  {
+   "nombre": "Yui Hirasawa",
+   "anime": "K-ON!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b19565-7gMiEAm7NGNK.png"
+  },
+  {
+   "nombre": "Yui Yuigahama",
+   "anime": "My Teen Romantic Comedy SNAFU",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67069-6B3xnHfJUO0F.png"
+  },
+  {
+   "nombre": "Mio Akiyama",
+   "anime": "K-ON!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b19566-XKsMgf370b4m.png"
+  },
+  {
+   "nombre": "Kanna Kamui",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120974-cZHsjS8DX9WW.png"
+  },
+  {
+   "nombre": "Shun Kaidou",
+   "anime": "The Disastrous Life of Saiki K.",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90112-KVRcvbKBKLxY.png"
+  },
+  {
+   "nombre": "Kosaki Onodera",
+   "anime": "Nisekoi",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b52723-YbLFn4JmoAVQ.png"
+  },
+  {
+   "nombre": "Yotsuba Nakano",
+   "anime": "The Quintessential Quintuplets",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126374-Aal36iSQ5nKz.png"
+  },
+  {
+   "nombre": "Tohru",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120970-knjWLdlQIs1y.jpg"
+  },
+  {
+   "nombre": "Hayase Nagatoro",
+   "anime": "DON'T TOY WITH ME, MISS NAGATORO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124696-du2Kszxelh1S.png"
+  },
+  {
+   "nombre": "Kousei Arima",
+   "anime": "Your lie in April",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png"
+  },
+  {
+   "nombre": "Haruhi Fujioka",
+   "anime": "Ouran High School Host Club",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b18-4mPQwygwffNJ.jpg"
+  },
+  {
+   "nombre": "Tamaki Suou",
+   "anime": "Ouran High School Host Club",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b19-7Ot7WSWZ7LKF.png"
+  },
+  {
+   "nombre": "Tomoya Okazaki",
+   "anime": "Clannad",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4606-61r9h3WUrkA9.png"
+  },
+  {
+   "nombre": "Yuki Souma",
+   "anime": "Fruits Basket (2019)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b208-5TmAqqh82wNe.png"
+  },
+  {
+   "nombre": "Sawako Kuronuma",
+   "anime": "Kimi ni Todoke: From Me to You",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6977-rCtlFRoYgE07.png"
+  },
+  {
+   "nombre": "Eru Chitanda",
+   "anime": "Hyouka",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b55133-S7lRrP0gKXpX.png"
+  },
+  {
+   "nombre": "Tsukasa Yuzaki",
+   "anime": "TONIKAWA: Over The Moon For You",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b131106-ZJOpYOpurcYS.png"
+  },
+  {
+   "nombre": "Mashiro Shiina",
+   "anime": "The Pet Girl of Sakurasou",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b61371-rhWX0wz2DDs3.jpg"
+  },
+  {
+   "nombre": "Hirotaka Nifuji",
+   "anime": "Wotakoi: Love is Hard for Otaku",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122189-ai5CYyRv1CAH.png"
+  },
+  {
+   "nombre": "Azusa Nakano",
+   "anime": "K-ON!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b21173-0RB5dOJdGt9y.png"
+  },
+  {
+   "nombre": "Ikuyo Kita",
+   "anime": "BOCCHI THE ROCK!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b266041-1HKgjJGP2MmM.png"
+  },
+  {
+   "nombre": "Naoka Ueno",
+   "anime": "A Silent Voice",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/124026-KcQmX7heg7im.jpg"
+  },
+  {
+   "nombre": "Tsumugi Kotobuki",
+   "anime": "K-ON!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b19568-pF5UBfB6U8G2.png"
+  },
+  {
+   "nombre": "Chitoge Kirisaki",
+   "anime": "Nisekoi",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b48391-SuJot8cVKjHj.png"
+  },
+  {
+   "nombre": "Ritsu Tainaka",
+   "anime": "K-ON!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b19567-ztMNJBxTNqmZ.png"
+  },
+  {
+   "nombre": "Kou Mabuchi",
+   "anime": "Blue Spring Ride",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b41026-WkbhSjdpZISG.jpg"
+  },
+  {
+   "nombre": "Nagisa Furukawa",
+   "anime": "Clannad",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4604-YFJiWeuGSIYf.png"
+  },
+  {
+   "nombre": "Hatsuharu Souma",
+   "anime": "Fruits Basket (2019)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b369-NDFi2A2BzqO6.png"
+  },
+  {
+   "nombre": "Sakura Yamauchi",
+   "anime": "I Want to Eat Your Pancreas",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127118-XEvgt4yHSkQv.jpg"
+  },
+  {
+   "nombre": "Wakana Gojou",
+   "anime": "My Dress-Up Darling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133678-IitCgjDxQGgu.png"
+  },
+  {
+   "nombre": "Ichika Nakano",
+   "anime": "The Quintessential Quintuplets",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126371-0KQpl80s8kXQ.png"
+  },
+  {
+   "nombre": "Ryuuji Takasu",
+   "anime": "Toradora!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png"
+  },
+  {
+   "nombre": "Kikuri Hiroi",
+   "anime": "BOCCHI THE ROCK!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b291639-VYrixXvuwLqx.png"
+  },
+  {
+   "nombre": "Mirai Kuriyama",
+   "anime": "Beyond the Boundary",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b81751-nUEIrhRFlkKc.png"
+  },
+  {
+   "nombre": "Isla",
+   "anime": "Plastic Memories",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88753-RO3lBZgzwdJF.jpg"
+  },
+  {
+   "nombre": "Ekubo",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89617-HHZ1kziYxc0q.png"
+  },
+  {
+   "nombre": "Hanako Koyanagi",
+   "anime": "Wotakoi: Love is Hard for Otaku",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122191-sigwgpeam2U1.png"
+  },
+  {
+   "nombre": "Kobayashi",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120969-dHJBVb3lB8iN.png"
+  },
+  {
+   "nombre": "Chise Hatori",
+   "anime": "The Ancient Magus' Bride",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88344-zn7wbe8rKgqT.png"
+  },
+  {
+   "nombre": "Narumi Momose",
+   "anime": "Wotakoi: Love is Hard for Otaku",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122190-3VC3pxCguyu7.png"
+  },
+  {
+   "nombre": "Iroha Isshiki",
+   "anime": "My Teen Romantic Comedy SNAFU TOO!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88727-K9H1teOxoSLP.png"
+  },
+  {
+   "nombre": "Hitohito Tadano",
+   "anime": "Komi Can’t Communicate",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b78093-QnJ9wDICvhSR.png"
+  },
+  {
+   "nombre": "Yuzuru Nishimiya",
+   "anime": "A Silent Voice",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89335-3fy5a7Qa9h9J.jpg"
+  },
+  {
+   "nombre": "Yuki Yoshikawa",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66963-JBKCtpgwdgkG.png"
+  },
+  {
+   "nombre": "Anko Uguisu",
+   "anime": "Call of the Night",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b175659-1W8HJJzAZ1dI.png"
+  },
+  {
+   "nombre": "Chizuru Hishiro",
+   "anime": "ReLIFE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89426-9VS3dWDKDs4v.jpg"
+  },
+  {
+   "nombre": "Teruki Hanazawa",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png"
+  },
+  {
+   "nombre": "Momiji Souma",
+   "anime": "Fruits Basket (2019)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b367-Jc6wMVpL76Ib.png"
+  },
+  {
+   "nombre": "Kyouya Ootori",
+   "anime": "Ouran High School Host Club",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b23-8TQAV1BRyqxa.png"
+  },
+  {
+   "nombre": "Hikaru Hitachiin",
+   "anime": "Ouran High School Host Club",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22-Xikbs9JJ9Qop.png"
+  },
+  {
+   "nombre": "Totoro",
+   "anime": "My Neighbor Totoro",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b269-sbPL4w1ygjSe.jpg"
+  },
+  {
+   "nombre": "Shouta Kazehaya",
+   "anime": "Kimi ni Todoke: From Me to You",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n13531-z66ipM6nJioi.png"
+  },
+  {
+   "nombre": "Satan Jacob",
+   "anime": "The Devil is a Part-Timer!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
+  },
+  {
+   "nombre": "Aki Adagaki",
+   "anime": "Masamune-kun's Revenge",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b76364-ATlG8j4fx3vg.png"
+  },
+  {
+   "nombre": "Narrator",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+  },
+  {
+   "nombre": "Riki Nendou",
+   "anime": "The Disastrous Life of Saiki K.",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90108-BJYQbUaMLS7G.png"
+  },
+  {
+   "nombre": "Nanami Aoyama",
+   "anime": "The Pet Girl of Sakurasou",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b64167-qMxw0Sijwc18.png"
+  },
+  {
+   "nombre": "Ami Kawashima",
+   "anime": "Toradora!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13725-Vk30kjvVT82z.png"
+  },
+  {
+   "nombre": "Najimi Osana",
+   "anime": "Komi Can’t Communicate",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126825-J4GTiz4OHDa5.png"
+  },
+  {
+   "nombre": "Haru Yoshida",
+   "anime": "My Little Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n37687-5HRDRk3uvLJT.png"
+  },
+  {
+   "nombre": "Louis",
+   "anime": "BEASTARS",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125170-TIHSOgfQbkbU.png"
+  },
+  {
+   "nombre": "Shizuka Hiratsuka",
+   "anime": "My Teen Romantic Comedy SNAFU",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67077-NaBvItxCYPon.png"
+  },
+  {
+   "nombre": "Meiko Honma",
+   "anime": "Anohana: The Flower We Saw That Day",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40592-mAEyaQyJu5oc.png"
+  },
+  {
+   "nombre": "Minori Kushieda",
+   "anime": "Toradora!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg"
+  },
+  {
+   "nombre": "Kokomi Teruhashi",
+   "anime": "The Disastrous Life of Saiki K.",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90109-hr98ksrKzMOe.png"
+  },
+  {
+   "nombre": "Tarou Kabakura",
+   "anime": "Wotakoi: Love is Hard for Otaku",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122192-qnLmMg3YaGNd.png"
+  },
+  {
+   "nombre": "Bond",
+   "anime": "SPY x FAMILY Cour 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b169679-EFPubVtZFYom.jpg"
+  },
+  {
+   "nombre": "Elias Ainsworth",
+   "anime": "The Ancient Magus' Bride",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121430-n1k9M5RdkXyI.png"
+  },
+  {
+   "nombre": "Saki Hanajima",
+   "anime": "Fruits Basket (2019)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b376-N55Tx44kdB42.jpg"
+  },
+  {
+   "nombre": "Yuuko Aioi",
+   "anime": "Nichijou - My Ordinary Life",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10418-nDUxYpR4dpmA.png"
+  },
+  {
+   "nombre": "Shigure Souma",
+   "anime": "Fruits Basket (2019)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b206-4HokrxTIqu7L.jpg"
+  },
+  {
+   "nombre": "Elma",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120977-x50lrAuIAsHE.png"
+  },
+  {
+   "nombre": "Mitsukuni Haninozuka",
+   "anime": "Ouran High School Host Club",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b20-VNIsuFhxyiJu.png"
+  },
+  {
+   "nombre": "Hatori Souma",
+   "anime": "Fruits Basket (2019)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b368-zJEE8gpxBb5f.jpg"
+  },
+  {
+   "nombre": "Kaoru Hitachiin",
+   "anime": "Ouran High School Host Club",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b24-QssbnrJO2Cfz.png"
+  },
+  {
+   "nombre": "Kou Yamori",
+   "anime": "Call of the Night",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b168866-zf5bb7rmZpxX.png"
+  },
+  {
+   "nombre": "Tomoyo Sakagami",
+   "anime": "Clannad",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4603-pq4b7UGmmOyH.png"
+  },
+  {
+   "nombre": "Kei Shirogane",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126144-4fc2sYUVFKOJ.png"
+  },
+  {
+   "nombre": "Quetzalcoatl",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120975-oOyfRbMSpSpy.png"
+  },
+  {
+   "nombre": "Takashi Morinozuka",
+   "anime": "Ouran High School Host Club",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b21-anlrcOlyRHgO.png"
+  },
+  {
+   "nombre": "Aren Kuboyasu",
+   "anime": "The Disastrous Life of Saiki K.",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127134-gFFW9MmrXPbt.jpg"
+  },
+  {
+   "nombre": "Gilbert Bougainvillea",
+   "anime": "Violet Evergarden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124790-QR7zyemTK0zq.png"
+  },
+  {
+   "nombre": "Remi Ayasaki",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66965-Kfqui6IitXaL.png"
+  },
+  {
+   "nombre": "Hina Amano",
+   "anime": "Weathering With You",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b139710-EnN2wXd5YeDb.png"
+  },
+  {
+   "nombre": "Futaba Yoshioka",
+   "anime": "Blue Spring Ride",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b41025-X4hnr8jZG4vC.png"
+  },
+  {
+   "nombre": "Haruki Shiga",
+   "anime": "I Want to Eat Your Pancreas",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127116-u2fIKMSYDdVj.png"
+  },
+  {
+   "nombre": "Sakamoto",
+   "anime": "Nichijou - My Ordinary Life",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b41069-x6vyw7EIn1ET.png"
+  },
+  {
+   "nombre": "Ritsu Kageyama",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89618-iSTUyCdu1yZ8.png"
+  },
+  {
+   "nombre": "Mio Naganohara",
+   "anime": "Nichijou - My Ordinary Life",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40081-dGRecovyuQMo.png"
+  },
+  {
+   "nombre": "Arata Kaizaki",
+   "anime": "ReLIFE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89425-vLPRybM1gNa7.png"
+  },
+  {
+   "nombre": "Nasa Yuzaki",
+   "anime": "TONIKAWA: Over The Moon For You",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130944-Bi9EfjnNO3LT.png"
+  },
+  {
+   "nombre": "Kyousuke Hori",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89726-NS2ZmYjp1Mnr.jpg"
+  },
+  {
+   "nombre": "Nano Shinonome",
+   "anime": "Nichijou - My Ordinary Life",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10422-sNVCjkRg7lOd.png"
+  },
+  {
+   "nombre": "Seishirou Tsugumi",
+   "anime": "Nisekoi",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b58885-w07G5SNbFBBW.png"
+  },
+  {
+   "nombre": "Fuuko Ibuki",
+   "anime": "Clannad",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4601-ndvzx7vVREJU.jpg"
+  },
+  {
+   "nombre": "Yuuta Togashi",
+   "anime": "Love, Chunibyo & Other Delusions",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65863-blMgFqD1EnPs.png"
+  },
+  {
+   "nombre": "Tooru Ishikawa",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66961-VZV5IwKUwYfp.png"
+  },
+  {
+   "nombre": "Kyou Fujibayashi",
+   "anime": "Clannad",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4605-a0D3NeVbCz1m.jpg"
+  },
+  {
+   "nombre": "Ayane Yano",
+   "anime": "Kimi ni Todoke: From Me to You",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13533-h57wBVMsdCjo.jpg"
+  },
+  {
+   "nombre": "Emilia Justina",
+   "anime": "The Devil is a Part-Timer!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
+  },
+  {
+   "nombre": "Shizuku Mizutani",
+   "anime": "My Little Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b37685-RTNZm8Tb7Sti.jpg"
+  },
+  {
+   "nombre": "Sanae Dekomori",
+   "anime": "Love, Chunibyo & Other Delusions",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67215-J87mEugyhVRO.png"
+  },
+  {
+   "nombre": "Fuutarou Uesugi",
+   "anime": "The Quintessential Quintuplets",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128063-0h9piZcxa2zt.png"
+  },
+  {
+   "nombre": "Benedict Blue",
+   "anime": "Violet Evergarden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124788-upZ5vtGwndzt.jpg"
+  },
+  {
+   "nombre": "Seika Ijichi",
+   "anime": "BOCCHI THE ROCK!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b289054-UnScwd5RkqBk.png"
+  },
+  {
+   "nombre": "Saika Totsuka",
+   "anime": "My Teen Romantic Comedy SNAFU",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67071-3tO9QQA9x0hV.jpg"
+  },
+  {
+   "nombre": "Akio Furukawa",
+   "anime": "Clannad",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b7095-C1tzbivkPU0A.png"
+  },
+  {
+   "nombre": "Ryuu Sanada",
+   "anime": "Kimi ni Todoke: From Me to You",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13534-P70pfoclgBHM.jpg"
+  },
+  {
+   "nombre": "Sajuna Inui",
+   "anime": "My Dress-Up Darling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
+  },
+  {
+   "nombre": "Chizuru Yoshida",
+   "anime": "Kimi ni Todoke: From Me to You",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13532-9xdtRTIdE0UW.jpg"
+  },
+  {
+   "nombre": "Fafnir",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120971-7XdpFZNKMBuM.png"
+  },
+  {
+   "nombre": "Mai Minakami",
+   "anime": "Nichijou - My Ordinary Life",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10421-gPMhyPdWOxiu.png"
+  },
+  {
+   "nombre": "PA-san",
+   "anime": "BOCCHI THE ROCK!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b289055-khOP70WdXl2V.jpg"
+  },
+  {
+   "nombre": "Shinka Nibutani",
+   "anime": "Love, Chunibyo & Other Delusions",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65871-yuJ1aq2vynvC.png"
+  },
+  {
+   "nombre": "Komachi Hikigaya",
+   "anime": "My Teen Romantic Comedy SNAFU",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67075-MYCrPU4NjMXa.png"
+  }
+ ]
+}

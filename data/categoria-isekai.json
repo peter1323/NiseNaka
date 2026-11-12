@@ -1,0 +1,756 @@
+{
+ "id": "isekai",
+ "nombre": "Isekai",
+ "personajes": [
+  {
+   "nombre": "Emilia",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
+  },
+  {
+   "nombre": "Edward Elric",
+   "anime": "Fullmetal Alchemist",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg"
+  },
+  {
+   "nombre": "Megumin",
+   "anime": "KONOSUBA -God's blessing on this wonderful world!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
+  },
+  {
+   "nombre": "Rem",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88575-Ayu8UPDA8NS6.png"
+  },
+  {
+   "nombre": "Subaru Natsuki",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88573-F8yMTK9GhnTA.png"
+  },
+  {
+   "nombre": "Ichigo Kurosaki",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5-a7bkJgjhhigE.png"
+  },
+  {
+   "nombre": "Roy Mustang",
+   "anime": "Fullmetal Alchemist",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png"
+  },
+  {
+   "nombre": "Rimuru Tempest",
+   "anime": "That Time I Got Reincarnated as a Slime",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123962-eL9yGV0NLMF7.png"
+  },
+  {
+   "nombre": "Roxy Migurdia",
+   "anime": "Mushoku Tensei: Jobless Reincarnation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88350-QU1iwgZ887U8.png"
+  },
+  {
+   "nombre": "Asuna Yuuki",
+   "anime": "Sword Art Online",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
+  },
+  {
+   "nombre": "Kazuma Satou",
+   "anime": "KONOSUBA -God's blessing on this wonderful world!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png"
+  },
+  {
+   "nombre": "Kazuto Kirigaya",
+   "anime": "Sword Art Online",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
+  },
+  {
+   "nombre": "Rudeus Greyrat",
+   "anime": "Mushoku Tensei: Jobless Reincarnation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88348-bIe5XnXdRpmX.png"
+  },
+  {
+   "nombre": "Kisuke Urahara",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b210-mw01NrQfRjzT.png"
+  },
+  {
+   "nombre": "Aqua",
+   "anime": "KONOSUBA -God's blessing on this wonderful world!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
+  },
+  {
+   "nombre": "Rukia Kuchiki",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6-25WoBeWMZXBc.png"
+  },
+  {
+   "nombre": "Eris Boreas Greyrat",
+   "anime": "Mushoku Tensei: Jobless Reincarnation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88349-5dsNUah3oBj8.png"
+  },
+  {
+   "nombre": "Alphonse Elric",
+   "anime": "Fullmetal Alchemist",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg"
+  },
+  {
+   "nombre": "Sousuke Aizen",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1086-qR9218BjZTC0.png"
+  },
+  {
+   "nombre": "Yoruichi Shihouin",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b908-JSYUkJLCw1f0.png"
+  },
+  {
+   "nombre": "Erza Scarlet",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
+  },
+  {
+   "nombre": "Cid Kagenou",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136837-3WR22FYet8Hv.jpg"
+  },
+  {
+   "nombre": "Raphtalia",
+   "anime": "The Rising of the Shield Hero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png"
+  },
+  {
+   "nombre": "Tanya Degurechaff",
+   "anime": "Saga of Tanya the Evil",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121052-bQZT3nIvaryX.png"
+  },
+  {
+   "nombre": "Kenpachi Zaraki",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b909-slhoFBon7oiH.jpg"
+  },
+  {
+   "nombre": "Darkness",
+   "anime": "KONOSUBA -God's blessing on this wonderful world!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
+  },
+  {
+   "nombre": "Echidna",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129330-ZUtYw4n7N0uH.png"
+  },
+  {
+   "nombre": "Albedo",
+   "anime": "Overlord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png"
+  },
+  {
+   "nombre": "Kanna Kamui",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120974-cZHsjS8DX9WW.png"
+  },
+  {
+   "nombre": "Shiro",
+   "anime": "No Game, No Life",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
+  },
+  {
+   "nombre": "Naofumi Iwatani",
+   "anime": "The Rising of the Shield Hero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png"
+  },
+  {
+   "nombre": "Natsu Dragneel",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
+  },
+  {
+   "nombre": "Momonga",
+   "anime": "Overlord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png"
+  },
+  {
+   "nombre": "Tohru",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120970-knjWLdlQIs1y.jpg"
+  },
+  {
+   "nombre": "Shino Asada",
+   "anime": "Sword Art Online II",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
+  },
+  {
+   "nombre": "Beatrice",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90181-wRPm0OEaucmw.png"
+  },
+  {
+   "nombre": "Sora",
+   "anime": "No Game, No Life",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
+  },
+  {
+   "nombre": "Ulquiorra Cifer",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1081-xLTqHfLL2I2W.png"
+  },
+  {
+   "nombre": "Lucy Heartfilia",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
+  },
+  {
+   "nombre": "Sylphiette",
+   "anime": "Mushoku Tensei: Jobless Reincarnation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png"
+  },
+  {
+   "nombre": "Grimmjow Jaegerjaquez",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1080-JUNo2Or0UGZg.jpg"
+  },
+  {
+   "nombre": "Ram",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88576-NWkotUiJ3mK3.png"
+  },
+  {
+   "nombre": "Winry Rockbell",
+   "anime": "Fullmetal Alchemist",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
+  },
+  {
+   "nombre": "Riza Hawkeye",
+   "anime": "Fullmetal Alchemist",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png"
+  },
+  {
+   "nombre": "Kanade Tachibana",
+   "anime": "Angel Beats!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
+  },
+  {
+   "nombre": "Yuri Nakamura",
+   "anime": "Angel Beats!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg"
+  },
+  {
+   "nombre": "Milim Nava",
+   "anime": "That Time I Got Reincarnated as a Slime",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128036-lW0dxNwerqw4.png"
+  },
+  {
+   "nombre": "Ai Ooto",
+   "anime": "WONDER EGG PRIORITY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199892-IUa7rBAT4j9H.png"
+  },
+  {
+   "nombre": "Gray Fullbuster",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
+  },
+  {
+   "nombre": "Alice Zuberg",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b75450-vDO1lQup1pe7.jpg"
+  },
+  {
+   "nombre": "Kaori Shirasaki",
+   "anime": "Arifureta: From Commonplace to World's Strongest",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b132849-DWYOwdlxsEqV.png"
+  },
+  {
+   "nombre": "Greed",
+   "anime": "Fullmetal Alchemist",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b351-XMQzTuMy2Xtn.jpg"
+  },
+  {
+   "nombre": "Haku",
+   "anime": "Spirited Away",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b385-pKGCy3oYWxRa.png"
+  },
+  {
+   "nombre": "Kobayashi",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120969-dHJBVb3lB8iN.png"
+  },
+  {
+   "nombre": "Maes Hughes",
+   "anime": "Fullmetal Alchemist",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b69-MRetSG8Qevvu.png"
+  },
+  {
+   "nombre": "Shalltear Bloodfallen",
+   "anime": "Overlord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
+  },
+  {
+   "nombre": "Jibril",
+   "anime": "No Game, No Life",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png"
+  },
+  {
+   "nombre": "Delta",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162248-57Xgk6EmwKRQ.png"
+  },
+  {
+   "nombre": "Sara",
+   "anime": "Mushoku Tensei: Jobless Reincarnation Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b206604-kMvs5P9cXJLK.png"
+  },
+  {
+   "nombre": "Juvia Lockser",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png"
+  },
+  {
+   "nombre": "Rika Kawai",
+   "anime": "WONDER EGG PRIORITY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199890-9WY1MIjTsqkc.jpg"
+  },
+  {
+   "nombre": "Shion",
+   "anime": "That Time I Got Reincarnated as a Slime",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128033-fLbTgW4M2yj3.png"
+  },
+  {
+   "nombre": "Yue",
+   "anime": "Arifureta: From Commonplace to World's Strongest",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b132847-rxYUEsbcLxTm.png"
+  },
+  {
+   "nombre": "Diablo",
+   "anime": "That Time I Got Reincarnated as a Slime",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b131033-0LguIALHCBEH.jpg"
+  },
+  {
+   "nombre": "Scar",
+   "anime": "Fullmetal Alchemist",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66-bLbGWXrmDqfV.png"
+  },
+  {
+   "nombre": "Yunyun",
+   "anime": "KONOSUBA -God's blessing on this wonderful world! 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png"
+  },
+  {
+   "nombre": "Rory Mercury",
+   "anime": "Gate",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/89029-dkTeY6564JNP.png"
+  },
+  {
+   "nombre": "Eugeo",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70899-TwMq5mtH5ifc.jpg"
+  },
+  {
+   "nombre": "Satan Jacob",
+   "anime": "The Devil is a Part-Timer!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
+  },
+  {
+   "nombre": "Otto Suwen",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124110-Gfr3IYI6FwqE.jpg"
+  },
+  {
+   "nombre": "Veldora Tempest",
+   "anime": "That Time I Got Reincarnated as a Slime",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128034-Gg5MrpTFNSv8.png"
+  },
+  {
+   "nombre": "Narrator",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+  },
+  {
+   "nombre": "Hajime Nagumo",
+   "anime": "Arifureta: From Commonplace to World's Strongest",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b132848-HsUfgM0nr2Dz.jpg"
+  },
+  {
+   "nombre": "Shuna",
+   "anime": "That Time I Got Reincarnated as a Slime",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png"
+  },
+  {
+   "nombre": "Benimaru",
+   "anime": "That Time I Got Reincarnated as a Slime",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128038-VgVcqf6NDGJ5.png"
+  },
+  {
+   "nombre": "Happy",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5188-1jTaic3aJ7Ds.jpg"
+  },
+  {
+   "nombre": "Wiz",
+   "anime": "KONOSUBA -God's blessing on this wonderful world!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120655-LfUD7Mb1Mncg.jpg"
+  },
+  {
+   "nombre": "Filo",
+   "anime": "The Rising of the Shield Hero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126828-nZDnMK4Bw7f9.png"
+  },
+  {
+   "nombre": "Reinhard van Astrea",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88577-nrwzPBVwqAfO.png"
+  },
+  {
+   "nombre": "Chihiro Ogino",
+   "anime": "Spirited Away",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png"
+  },
+  {
+   "nombre": "Kaonashi",
+   "anime": "Spirited Away",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-ATUVKng0oyHR.png"
+  },
+  {
+   "nombre": "Ruijerd Superdia",
+   "anime": "Mushoku Tensei: Jobless Reincarnation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png"
+  },
+  {
+   "nombre": "Elma",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120977-x50lrAuIAsHE.png"
+  },
+  {
+   "nombre": "Yuuki Konno",
+   "anime": "Sword Art Online II",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b64523-LPeAiw8Yx517.jpg"
+  },
+  {
+   "nombre": "Yui Yoshioka",
+   "anime": "Angel Beats!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b24515-4v85Z9CqCe0Y.png"
+  },
+  {
+   "nombre": "Quetzalcoatl",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120975-oOyfRbMSpSpy.png"
+  },
+  {
+   "nombre": "Schwi Dola",
+   "anime": "No Game, No Life Zero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123690-dqDSiX7eEypZ.png"
+  },
+  {
+   "nombre": "Felix Argyle",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90184-o1ZFF6osCZX7.png"
+  },
+  {
+   "nombre": "Kaede Honjou",
+   "anime": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b147892-sL0t1VEMhC6p.png"
+  },
+  {
+   "nombre": "Alpha",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162246-IbbxkhNJFDN5.png"
+  },
+  {
+   "nombre": "Gajeel Redfox",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b16893-l9HhHQ8j09H5.jpg"
+  },
+  {
+   "nombre": "Momoe Sawaki",
+   "anime": "WONDER EGG PRIORITY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199891-YNqLCCE8VAHW.png"
+  },
+  {
+   "nombre": "Garfiel Tinsel",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133847-8I2Pjoz232vS.png"
+  },
+  {
+   "nombre": "Arche Eeb Rile Furt",
+   "anime": "Overlord III",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b179058-nF33LbBOrHAn.jpg"
+  },
+  {
+   "nombre": "Shizu",
+   "anime": "That Time I Got Reincarnated as a Slime",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128037-kJ3HzX4s4iDl.png"
+  },
+  {
+   "nombre": "Crusch Karsten",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg"
+  },
+  {
+   "nombre": "Demiurge",
+   "anime": "Overlord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png"
+  },
+  {
+   "nombre": "Souei",
+   "anime": "That Time I Got Reincarnated as a Slime Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128039-cce4njbCcb2M.png"
+  },
+  {
+   "nombre": "Emilia Justina",
+   "anime": "The Devil is a Part-Timer!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
+  },
+  {
+   "nombre": "Puck",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90187-xJXlD84KXl3t.jpg"
+  },
+  {
+   "nombre": "Shiroe",
+   "anime": "Log Horizon",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b81367-nE2CB4jLVPeu.png"
+  },
+  {
+   "nombre": "Akatsuki",
+   "anime": "Log Horizon",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n81369-0vKZMoOH3NZT.jpg"
+  },
+  {
+   "nombre": "Neiru Aonuma",
+   "anime": "WONDER EGG PRIORITY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199893-KpWnNBLyKHaw.png"
+  },
+  {
+   "nombre": "Beta",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162247-R6OrAuT1FwL4.png"
+  },
+  {
+   "nombre": "Ranga",
+   "anime": "That Time I Got Reincarnated as a Slime Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128035-7r8BX1tt8BKg.png"
+  },
+  {
+   "nombre": "Seiya Ryuguin",
+   "anime": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b141625-oYFYH78dmAkz.png"
+  },
+  {
+   "nombre": "Ghislaine Dedoldia",
+   "anime": "Mushoku Tensei: Jobless Reincarnation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b206392-BKJ4J3S2FzpF.png"
+  },
+  {
+   "nombre": "Sebas Tian",
+   "anime": "Overlord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png"
+  },
+  {
+   "nombre": "Fafnir",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120971-7XdpFZNKMBuM.png"
+  },
+  {
+   "nombre": "Yui",
+   "anime": "Sword Art Online",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg"
+  },
+  {
+   "nombre": "Suguha Kirigaya",
+   "anime": "Sword Art Online",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
+  },
+  {
+   "nombre": "Yuzuru Otonashi",
+   "anime": "Angel Beats!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg"
+  },
+  {
+   "nombre": "Julius Euclius",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 3",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90183-LWx59kSa5Vjl.png"
+  },
+  {
+   "nombre": "Rem Galleu",
+   "anime": "How NOT to Summon a Demon Lord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126795-YJDrBD9Rvmiu.png"
+  },
+  {
+   "nombre": "Paul Greyrat",
+   "anime": "Mushoku Tensei: Jobless Reincarnation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88347-YtQTlChhN50m.png"
+  },
+  {
+   "nombre": "Narberal Gamma",
+   "anime": "Overlord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89152-S3WrhOMakSCq.png"
+  },
+  {
+   "nombre": "Wilhelm van Astrea",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90179-dBqDPUn2i7dM.jpg"
+  },
+  {
+   "nombre": "Stephanie Dola",
+   "anime": "No Game, No Life",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png"
+  },
+  {
+   "nombre": "Roswaal Mathers",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90182-Ho0NS06tc6NL.png"
+  },
+  {
+   "nombre": "Petelgeuse Romanee-Conti",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90170-sHsO9ojQDLa3.jpg"
+  },
+  {
+   "nombre": "Dia",
+   "anime": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157691-TY88sUXtm1Br.png"
+  },
+  {
+   "nombre": "Lucifer",
+   "anime": "The Devil is a Part-Timer!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
+  },
+  {
+   "nombre": "Hideki Hinata",
+   "anime": "Angel Beats!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b24503-aMw9BnXmEVrP.png"
+  },
+  {
+   "nombre": "Orsted",
+   "anime": "Mushoku Tensei: Jobless Reincarnation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b187382-NBP6I5OKXHH9.png"
+  },
+  {
+   "nombre": "Ristarte",
+   "anime": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b141624-gTy9Jhhc9UAk.png"
+  },
+  {
+   "nombre": "Satella",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/127242-UVgHhBEnLAJn.png"
+  },
+  {
+   "nombre": "Priscilla Barielle",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 3",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90186-yr2PT4gI2qa3.png"
+  },
+  {
+   "nombre": "Chomusuke",
+   "anime": "KONOSUBA -God's blessing on this wonderful world! 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120654-9yWTm8QyQy0O.jpg"
+  },
+  {
+   "nombre": "Alciel",
+   "anime": "The Devil is a Part-Timer!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
+  },
+  {
+   "nombre": "Luminous Valentine",
+   "anime": "That Time I Got Reincarnated as a Slime Season 2 Part 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b131037-yhL267K48BA4.png"
+  },
+  {
+   "nombre": "Lugh Tuatha Dé",
+   "anime": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157687-F64XEDMqU9hX.png"
+  },
+  {
+   "nombre": "Ryoutarou Tsuboi",
+   "anime": "Sword Art Online",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36830-41SWIDvhqOo4.png"
+  },
+  {
+   "nombre": "Felt",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 3",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88574-Hau8t0GlMvhp.jpg"
+  },
+  {
+   "nombre": "Shia Haulia",
+   "anime": "Arifureta: From Commonplace to World's Strongest",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b132850-MQx1CPfMYGPC.png"
+  },
+  {
+   "nombre": "Tio Klarus",
+   "anime": "Arifureta: From Commonplace to World's Strongest",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b132852-BDazhNHpH8ZA.png"
+  },
+  {
+   "nombre": "Diablo",
+   "anime": "How NOT to Summon a Demon Lord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126793-vBdTPhopqVB1.png"
+  },
+  {
+   "nombre": "Viktoriya Serebryakov",
+   "anime": "Saga of Tanya the Evil",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121057-xoaUSV1sO1CM.jpg"
+  },
+  {
+   "nombre": "Shera L Greenwood",
+   "anime": "How NOT to Summon a Demon Lord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126791-9AfKK44xRloo.png"
+  },
+  {
+   "nombre": "Gobta",
+   "anime": "That Time I Got Reincarnated as a Slime Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129350-qF2RlaSXb8Ro.jpg"
+  },
+  {
+   "nombre": "Epsilon",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162249-eJRpBIC5lAZX.png"
+  },
+  {
+   "nombre": "Maha",
+   "anime": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157688-nOJWSGEB4Xse.jpg"
+  },
+  {
+   "nombre": "Alexia Midgar",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b168799-uAsWFrrfqxTN.png"
+  },
+  {
+   "nombre": "Gamma",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162245-x86QMM6nOj75.png"
+  },
+  {
+   "nombre": "Eris",
+   "anime": "KONOSUBA -God's blessing on this wonderful world!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120658-SJ9YrXEluqaX.jpg"
+  },
+  {
+   "nombre": "Chiho Sasaki",
+   "anime": "The Devil is a Part-Timer!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
+  },
+  {
+   "nombre": "Aisha Greyrat",
+   "anime": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145459-qCq1vKZtxkT3.png"
+  },
+  {
+   "nombre": "Aurora",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b215409-Y1Ti42451ivg.png"
+  },
+  {
+   "nombre": "Riku Dola",
+   "anime": "No Game, No Life Zero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123691-veqBVhK2NhGn.png"
+  },
+  {
+   "nombre": "Frederica Baumann",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b143378-1pXqjZho4dhz.png"
+  },
+  {
+   "nombre": "Aldebaran",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90178-olaN8k9RJRxo.png"
+  }
+ ]
+}

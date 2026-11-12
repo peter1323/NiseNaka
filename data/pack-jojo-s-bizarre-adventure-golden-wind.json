@@ -1,0 +1,71 @@
+{
+ "id": "jojo-s-bizarre-adventure-golden-wind",
+ "nombre": "JoJo's Bizarre Adventure: Golden Wind",
+ "personajes": [
+  {
+   "nombre": "Joutarou Kuujou",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png"
+  },
+  {
+   "nombre": "Giorno Giovanna",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10529-AloL8jjZwjsg.png"
+  },
+  {
+   "nombre": "Bruno Bucciarati",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13045-TIpIF82cMkG9.png"
+  },
+  {
+   "nombre": "Jean-Pierre Polnareff",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4368-1KToX8uSi1U1.png"
+  },
+  {
+   "nombre": "Guido Mista",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13084-DMCv7SP1uRBq.png"
+  },
+  {
+   "nombre": "Narancia Ghirga",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b11895-qLSpMN3gVLHP.png"
+  },
+  {
+   "nombre": "Kouichi Hirose",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b24496-h2oMSeBxyYUc.jpg"
+  },
+  {
+   "nombre": "Leone Abbacchio",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b17525-mlrTtUKPeEOb.png"
+  },
+  {
+   "nombre": "Diavolo",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b27155-ZqYlVLxAZjzV.png"
+  },
+  {
+   "nombre": "Vinegar Doppio",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b27156-FXlIrGAdCwoO.jpg"
+  },
+  {
+   "nombre": "Pannacotta Fugo",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13083-vEmGajGdXqCu.jpg"
+  },
+  {
+   "nombre": "Risotto Nero",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n27152-StrBTCofwNhe.png"
+  },
+  {
+   "nombre": "Trish Una",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b27153-D3ru0eppKXRu.png"
+  }
+ ]
+}

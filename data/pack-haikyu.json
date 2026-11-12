@@ -1,0 +1,101 @@
+{
+ "id": "haikyu",
+ "nombre": "HAIKYU!!",
+ "personajes": [
+  {
+   "nombre": "Shouyou Hinata",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+  },
+  {
+   "nombre": "Tobio Kageyama",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
+  },
+  {
+   "nombre": "Yuu Nishinoya",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
+  },
+  {
+   "nombre": "Kenma Kozume",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
+  },
+  {
+   "nombre": "Tooru Oikawa",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
+  },
+  {
+   "nombre": "Kei Tsukishima",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67329-k7mDdqQ6rJ4w.png"
+  },
+  {
+   "nombre": "Tetsurou Kuroo",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71269-pi9vjyxKPFAu.jpg"
+  },
+  {
+   "nombre": "Koushi Sugawara",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67321-cxP7NdI0JC3H.png"
+  },
+  {
+   "nombre": "Ryuunosuke Tanaka",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67325-yPkbZJkofp5w.jpg"
+  },
+  {
+   "nombre": "Tadashi Yamaguchi",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71609-5Ht0aqB34eEa.png"
+  },
+  {
+   "nombre": "Kiyoko Shimizu",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67689-QaYw1qDMjwKM.png"
+  },
+  {
+   "nombre": "Asahi Azumane",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67333-on5KXeKxZqKs.png"
+  },
+  {
+   "nombre": "Daichi Sawamura",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67323-yFbLDAfJ5ysG.png"
+  },
+  {
+   "nombre": "Keishin Ukai",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70861-mW9IE5G9Ov8J.jpg"
+  },
+  {
+   "nombre": "Hajime Iwaizumi",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b75636-d8LM75218eDS.png"
+  },
+  {
+   "nombre": "Morisuke Yaku",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b74033-pevzERaxK8hB.png"
+  },
+  {
+   "nombre": "Ittetsu Takeda",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n73679-OS9fOsMjSJua.png"
+  },
+  {
+   "nombre": "Takanobu Aone",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b77417-XxLvn0PHaPGG.jpg"
+  },
+  {
+   "nombre": "Chikara Ennoshita",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n67331-skTD3AJ7jrWr.png"
+  }
+ ]
+}

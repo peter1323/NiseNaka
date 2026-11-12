@@ -1,0 +1,86 @@
+{
+ "id": "tokyo-ghoul",
+ "nombre": "Tokyo Ghoul",
+ "personajes": [
+  {
+   "nombre": "Ken Kaneki",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87275-mb13EWZBdbh3.png"
+  },
+  {
+   "nombre": "Touka Kirishima",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87277-oUaqrI1iBzu6.png"
+  },
+  {
+   "nombre": "Juuzou Suzuya",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88412-sIOJUnIkyFRe.png"
+  },
+  {
+   "nombre": "Hideyoshi Nagachika",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88421-F8yaeVfHjwYn.png"
+  },
+  {
+   "nombre": "Kishou Arima",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88946-YbTQAGJAdpoH.jpg"
+  },
+  {
+   "nombre": "Uta",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg"
+  },
+  {
+   "nombre": "Ayato Kirishima",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88411-dI6vqLy4pvHK.png"
+  },
+  {
+   "nombre": "Koutarou Amon",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88407-YwE6D75Xskxl.png"
+  },
+  {
+   "nombre": "Hinami Fueguchi",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88293-4J36uyflNWvb.png"
+  },
+  {
+   "nombre": "Shuu Tsukiyama",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88424-mFPgcZlCuODC.png"
+  },
+  {
+   "nombre": "Rize Kamishiro",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88413-FmAvV0hGSljG.png"
+  },
+  {
+   "nombre": "Nishiki Nishio",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88409-rOaEex2Ml2ah.png"
+  },
+  {
+   "nombre": "Akira Mado",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88838-LWDgYMTqb1pd.png"
+  },
+  {
+   "nombre": "Renji Yomo",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b172074-KyZ7MjpUkz6H.jpg"
+  },
+  {
+   "nombre": "Seidou Takizawa",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125884-x9UNA2Lp31pf.jpg"
+  },
+  {
+   "nombre": "Yoshimura",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136024-cSFppR7s21xh.png"
+  }
+ ]
+}

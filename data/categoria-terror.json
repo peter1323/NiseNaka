@@ -1,0 +1,756 @@
+{
+ "id": "terror",
+ "nombre": "Terror",
+ "personajes": [
+  {
+   "nombre": "Ken Kaneki",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87275-mb13EWZBdbh3.png"
+  },
+  {
+   "nombre": "Guts",
+   "anime": "Berserk",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png"
+  },
+  {
+   "nombre": "Makima",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png"
+  },
+  {
+   "nombre": "Denji",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130102-FO1VHNnEnLlB.png"
+  },
+  {
+   "nombre": "Power",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png"
+  },
+  {
+   "nombre": "Aki Hayakawa",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137081-TSrUR3mUJL6r.png"
+  },
+  {
+   "nombre": "Johan Liebert",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b719-y984mDWyGf5n.jpg"
+  },
+  {
+   "nombre": "Reze",
+   "anime": "Chainsaw Man – The Movie: Reze Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png"
+  },
+  {
+   "nombre": "Ray",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121724-SJTdODjeO7e6.jpg"
+  },
+  {
+   "nombre": "Kenzou Tenma",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b718-b6ZZVp822lw0.png"
+  },
+  {
+   "nombre": "Griffith",
+   "anime": "Berserk",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b424-Jfrsf8I7zBps.png"
+  },
+  {
+   "nombre": "Touka Kirishima",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87277-oUaqrI1iBzu6.png"
+  },
+  {
+   "nombre": "Juuzou Suzuya",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88412-sIOJUnIkyFRe.png"
+  },
+  {
+   "nombre": "Wolfgang Grimmer",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3096-qCXXA8G0J8rk.png"
+  },
+  {
+   "nombre": "Akame",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png"
+  },
+  {
+   "nombre": "Norman",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121700-CRwKIlcBcjbv.jpg"
+  },
+  {
+   "nombre": "Esdeath",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
+  },
+  {
+   "nombre": "Alucard",
+   "anime": "Hellsing Ultimate",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n601-CVySkaFQgsPW.jpg"
+  },
+  {
+   "nombre": "Nanachi",
+   "anime": "Made in Abyss",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122445-5uDu8wMy8Jxi.png"
+  },
+  {
+   "nombre": "Yuno Gasai",
+   "anime": "The Future Diary",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4963-7ZMcCtXW5hkY.png"
+  },
+  {
+   "nombre": "Emma",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121725-LQciVJOjnMVh.png"
+  },
+  {
+   "nombre": "Pochita",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b170266-bBXPkNJnd3mg.png"
+  },
+  {
+   "nombre": "Kobeni Higashiyama",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b144594-0dbO1NSYeZ12.png"
+  },
+  {
+   "nombre": "Akira Fudou",
+   "anime": "Devilman Crybaby",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2456-rTjIXMLPHTu2.jpg"
+  },
+  {
+   "nombre": "Tenshi no Akuma",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b152231-xNV2YsTRzEcS.png"
+  },
+  {
+   "nombre": "Casca",
+   "anime": "Berserk",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b423-AmVFCaJJOBsc.png"
+  },
+  {
+   "nombre": "Kyouko Kirigiri",
+   "anime": "Danganronpa: The Animation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b63845-43rWjycWhYFF.png"
+  },
+  {
+   "nombre": "Himeno",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b144596-kvL6SD2litJu.png"
+  },
+  {
+   "nombre": "Isaac Foster",
+   "anime": "Angels of Death",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123328-NZApzipm9Qwy.png"
+  },
+  {
+   "nombre": "Nagito Komaeda",
+   "anime": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b73227-AY45waaQAos0.png"
+  },
+  {
+   "nombre": "Shinichi Izumi",
+   "anime": "Parasyte -the maxim-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12323-NAoqDYOn2RSo.png"
+  },
+  {
+   "nombre": "Ryo Asuka",
+   "anime": "Devilman Crybaby",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4092-63yxC7cCrWke.png"
+  },
+  {
+   "nombre": "Mei Misaki",
+   "anime": "Another",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b41402-uMQLbpd8uwKH.png"
+  },
+  {
+   "nombre": "Chiaki Nanami",
+   "anime": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b73205-XVUjSJd97PbC.jpg"
+  },
+  {
+   "nombre": "Kaiman",
+   "anime": "Dorohedoro",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b9192-Jly0Soaxc6DX.png"
+  },
+  {
+   "nombre": "Mine",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png"
+  },
+  {
+   "nombre": "Rika Furude",
+   "anime": "When They Cry",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1534-CtOvaSPOMZne.png"
+  },
+  {
+   "nombre": "Nikaido",
+   "anime": "Dorohedoro",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b16057-eFteZol4cg9t.jpg"
+  },
+  {
+   "nombre": "Noi",
+   "anime": "Dorohedoro",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b16059-mUfErMfV09e5.jpg"
+  },
+  {
+   "nombre": "Migi",
+   "anime": "Parasyte -the maxim-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13773-Kuak0WTeTU9z.png"
+  },
+  {
+   "nombre": "Shin",
+   "anime": "Dorohedoro",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b16058-WGqEK3I9bH7c.jpg"
+  },
+  {
+   "nombre": "Rena Ryuuguu",
+   "anime": "When They Cry",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1427-28AR4oy0y2Hw.png"
+  },
+  {
+   "nombre": "Bondrewd",
+   "anime": "Made in Abyss",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg"
+  },
+  {
+   "nombre": "Kishibe",
+   "anime": "Chainsaw Man – The Movie: Reze Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b144593-hdCTT9t54z0s.png"
+  },
+  {
+   "nombre": "Hideyoshi Nagachika",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88421-F8yaeVfHjwYn.png"
+  },
+  {
+   "nombre": "Rei Miyamoto",
+   "anime": "High School of the Dead",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6044-K2II4IU7obFL.png"
+  },
+  {
+   "nombre": "Reg",
+   "anime": "Made in Abyss",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122444-9rGUpcjwygHD.png"
+  },
+  {
+   "nombre": "Miko Yotsuya",
+   "anime": "Mieruko-chan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b139631-JC76pYY2Q51Z.png"
+  },
+  {
+   "nombre": "Beam",
+   "anime": "Chainsaw Man – The Movie: Reze Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157232-5GuWeqoFN9Kq.jpg"
+  },
+  {
+   "nombre": "Kusuriuri",
+   "anime": "Mononoke",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2865-n2zjwVfgOHZq.jpg"
+  },
+  {
+   "nombre": "Sniper Kamen",
+   "anime": "High-Rise Invasion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b131653-V7EuHwSdIpOs.jpg"
+  },
+  {
+   "nombre": "Kishou Arima",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88946-YbTQAGJAdpoH.jpg"
+  },
+  {
+   "nombre": "Ouzen",
+   "anime": "Made in Abyss",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122464-xnYajKbuEa29.jpg"
+  },
+  {
+   "nombre": "Phil",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126475-EqxsU9P6ajKE.jpg"
+  },
+  {
+   "nombre": "Lucy",
+   "anime": "Elfen Lied",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b738-z0w63Laqb6hW.png"
+  },
+  {
+   "nombre": "Heinrich Runge",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b721-VSOxZHBedxtD.png"
+  },
+  {
+   "nombre": "Junko Enoshima",
+   "anime": "Danganronpa: The Animation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65523-OztiX9PhydrG.png"
+  },
+  {
+   "nombre": "Saeko Busujima",
+   "anime": "High School of the Dead",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6043-DNEJrW4QOLG2.png"
+  },
+  {
+   "nombre": "Leone",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65227-PWmfiEVJbCwQ.png"
+  },
+  {
+   "nombre": "Anna Liebert",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b720-VFo5SzZsVfzl.png"
+  },
+  {
+   "nombre": "Tatsumi",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/64749-a2ZdRWW1D5TR.jpg"
+  },
+  {
+   "nombre": "Uta",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg"
+  },
+  {
+   "nombre": "Seras Victoria",
+   "anime": "Hellsing Ultimate",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b624-qdFGCDB5Zhco.png"
+  },
+  {
+   "nombre": "Celestia Ludenberg",
+   "anime": "Danganronpa: The Animation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65525-BoB482T3oEoN.jpg"
+  },
+  {
+   "nombre": "Minene Uryuu",
+   "anime": "The Future Diary",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4966-Bb0hjxjJtidY.jpg"
+  },
+  {
+   "nombre": "Ayato Kirishima",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88411-dI6vqLy4pvHK.png"
+  },
+  {
+   "nombre": "Lubbock",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/65231-2QpM2yw2X86k.png"
+  },
+  {
+   "nombre": "Satou",
+   "anime": "AJIN: Demi-Human",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89797-7FYeQEmgLdcj.png"
+  },
+  {
+   "nombre": "Chelsea",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/65237-6r8wMUJ6pCOF.png"
+  },
+  {
+   "nombre": "Yoshiki Tsujinaka",
+   "anime": "The Summer Hikaru Died",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b281109-SRUQVkT7DYyg.jpg"
+  },
+  {
+   "nombre": "Nimura Furuta",
+   "anime": "Tokyo Ghoul:re",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126031-3tBpl6tvYwaZ.png"
+  },
+  {
+   "nombre": "Shion Sonozaki",
+   "anime": "When They Cry",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1313-wLhW5uDxdhqA.png"
+  },
+  {
+   "nombre": "Hikaru Indou",
+   "anime": "The Summer Hikaru Died",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b281110-WxqeTYKB8XdD.jpg"
+  },
+  {
+   "nombre": "Faputa",
+   "anime": "Made in Abyss: The Golden City of the Scorching Sun",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b160733-86kSKUGyAczO.jpg"
+  },
+  {
+   "nombre": "Koutarou Amon",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88407-YwE6D75Xskxl.png"
+  },
+  {
+   "nombre": "Isabella",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121701-hP5hanKRUH9u.png"
+  },
+  {
+   "nombre": "Ebisu",
+   "anime": "Dorohedoro",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b16063-GIoMZpg8cKd6.jpg"
+  },
+  {
+   "nombre": "Mion Sonozaki",
+   "anime": "When They Cry",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1611-z9SVkC9loi4y.png"
+  },
+  {
+   "nombre": "Hinami Fueguchi",
+   "anime": "Tokyo Ghoul √A",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88293-4J36uyflNWvb.png"
+  },
+  {
+   "nombre": "Shizuka Mikazuki",
+   "anime": "Zom 100: Bucket List of the Dead",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b214582-k5Bcd0DB59ik.jpg"
+  },
+  {
+   "nombre": "Shuu Tsukiyama",
+   "anime": "Tokyo Ghoul √A",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88424-mFPgcZlCuODC.png"
+  },
+  {
+   "nombre": "Riko",
+   "anime": "Made in Abyss",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122443-Md7TtolADEJh.png"
+  },
+  {
+   "nombre": "Rize Kamishiro",
+   "anime": "Tokyo Ghoul:re 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88413-FmAvV0hGSljG.png"
+  },
+  {
+   "nombre": "Satou Matsuzaka",
+   "anime": "Happy Sugar Life",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126754-8qXcvqW1gPNf.png"
+  },
+  {
+   "nombre": "Eto",
+   "anime": "Tokyo Ghoul √A",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90231-7ZeFK1DbrAxw.jpg"
+  },
+  {
+   "nombre": "Rachel Gardner",
+   "anime": "Angels of Death",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123327-sCoETT0pFslx.png"
+  },
+  {
+   "nombre": "Clare",
+   "anime": "Claymore",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2188-yjGSCtaC06Yh.png"
+  },
+  {
+   "nombre": "Integra Fairbrook Wingates Hellsing",
+   "anime": "Hellsing Ultimate",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b603-LGFHd5HrKWFT.png"
+  },
+  {
+   "nombre": "Makoto Naegi",
+   "anime": "Danganronpa: The Animation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b63851-PnzyOWEPVPHD.jpg"
+  },
+  {
+   "nombre": "Monokuma",
+   "anime": "Danganronpa: The Animation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b73235-74a7Y1lzFnDv.jpg"
+  },
+  {
+   "nombre": "Yuuko Kanoe",
+   "anime": "Dusk Maiden of Amnesia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b30273-0uMHhMCNNqTG.jpg"
+  },
+  {
+   "nombre": "Teresa",
+   "anime": "Claymore",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2398-6SjGbti0dhaE.jpg"
+  },
+  {
+   "nombre": "Mima Kirigoe",
+   "anime": "Perfect Blue",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4866-IRnTqmFeMoly.png"
+  },
+  {
+   "nombre": "Touko Fukawa",
+   "anime": "Danganronpa: The Animation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65529-oy5acbdyUy4r.jpg"
+  },
+  {
+   "nombre": "En",
+   "anime": "Dorohedoro",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b16060-d7kczT3iuuWp.png"
+  },
+  {
+   "nombre": "Ibuki Mioda",
+   "anime": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90009-gDZiy2bgRV9q.png"
+  },
+  {
+   "nombre": "Aru Akise",
+   "anime": "The Future Diary",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8306-1plj927kFBCf.jpg"
+  },
+  {
+   "nombre": "Hajime Hinata",
+   "anime": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90007-ybDO4Rv8ndr5.jpg"
+  },
+  {
+   "nombre": "Frederica Bernkastel",
+   "anime": "When They Cry Kai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n11840-VWgfpuaeRXvh.png"
+  },
+  {
+   "nombre": "Sheele",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/65233-f8RXB4LQiNh0.png"
+  },
+  {
+   "nombre": "Byakuya Togami",
+   "anime": "Danganronpa: The Animation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65541-Nha4B0vJIkFA.png"
+  },
+  {
+   "nombre": "Satoko Houjou",
+   "anime": "When They Cry",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1612-lL5sulSea1fZ.png"
+  },
+  {
+   "nombre": "Mumei",
+   "anime": "Kabaneri of the Iron Fortress",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89464-3QoSJw8XzDkH.jpg"
+  },
+  {
+   "nombre": "Nana Hiiragi",
+   "anime": "Talentless Nana",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b166102-mv0gaP8QVFLz.png"
+  },
+  {
+   "nombre": "Judeau",
+   "anime": "Berserk",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b454-zAG2pjevq7OO.png"
+  },
+  {
+   "nombre": "Shoutarou Kaneda",
+   "anime": "Akira",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2588-OfACKXYm2lkV.png"
+  },
+  {
+   "nombre": "Kurumi Ebisuzawa",
+   "anime": "SCHOOL-LIVE!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88359-OzPFOukNIRdj.jpg"
+  },
+  {
+   "nombre": "Kate",
+   "anime": "SHADOWS HOUSE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/127319-YrQfLMfAcJHw.png"
+  },
+  {
+   "nombre": "Keiichi Maebara",
+   "anime": "When They Cry",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1851-stMK6YF2jvhS.png"
+  },
+  {
+   "nombre": "Mikan Tsumiki",
+   "anime": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90008-rwpjqIlTGFEl.jpg"
+  },
+  {
+   "nombre": "Rea Sanka",
+   "anime": "Sankarea: Undying Love",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b32884-8Yei2CrGNNwL.jpg"
+  },
+  {
+   "nombre": "Akira Tendou",
+   "anime": "Zom 100: Bucket List of the Dead",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b214584-4zsaqbOP55bf.png"
+  },
+  {
+   "nombre": "Kuki Urie",
+   "anime": "Tokyo Ghoul:re",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88935-AtMsL0lEmeK6.png"
+  },
+  {
+   "nombre": "Emilico",
+   "anime": "SHADOWS HOUSE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127318-JTyhIyNHR2Be.png"
+  },
+  {
+   "nombre": "Nishiki Nishio",
+   "anime": "Tokyo Ghoul √A",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88409-rOaEex2Ml2ah.png"
+  },
+  {
+   "nombre": "Gundham Tanaka",
+   "anime": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b73213-hVhvcl4Q6oCn.jpg"
+  },
+  {
+   "nombre": "Chihiro Fujisaki",
+   "anime": "Danganronpa: The Animation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66573-a2VZm5cfacP5.png"
+  },
+  {
+   "nombre": "Alexander Anderson",
+   "anime": "Hellsing Ultimate",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b606-uox8devG45Zp.png"
+  },
+  {
+   "nombre": "Saiko Yonebayashi",
+   "anime": "Tokyo Ghoul:re",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88872-uhlmoT4vBxE3.png"
+  },
+  {
+   "nombre": "Yuki Takeya",
+   "anime": "SCHOOL-LIVE!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88093-skekAluBmLLa.jpg"
+  },
+  {
+   "nombre": "Miki Makimura",
+   "anime": "Devilman Crybaby",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b7968-te8U6niaAoKk.png"
+  },
+  {
+   "nombre": "Mayuko Nise",
+   "anime": "High-Rise Invasion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b131650-lCLfS1UtHMGq.png"
+  },
+  {
+   "nombre": "Kana Kimishima",
+   "anime": "Parasyte -the maxim-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b19215-oei5N1hu9w9w.png"
+  },
+  {
+   "nombre": "Eva Heinemann",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6123-kLLVgdI8Elv4.jpg"
+  },
+  {
+   "nombre": "Saya Kisaragi",
+   "anime": "Blood-C",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b41966-dEgkJTt0ZR8A.jpg"
+  },
+  {
+   "nombre": "Ryouko Tamiya",
+   "anime": "Parasyte -the maxim-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b16586-5BBzHsx1GLGC.jpg"
+  },
+  {
+   "nombre": "Aoi Asahina",
+   "anime": "Danganronpa 3: The End of Hope’s Peak High School - Future Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65531-zem6Bi2RRK2Q.jpg"
+  },
+  {
+   "nombre": "Vueroeruko",
+   "anime": "Made in Abyss: The Golden City of the Scorching Sun",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127655-XwilRvsl5lBf.jpg"
+  },
+  {
+   "nombre": "Beatrix Amerhauser",
+   "anime": "Zom 100: Bucket List of the Dead",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b214581-lk2deJ8pNsae.png"
+  },
+  {
+   "nombre": "Saya Takagi",
+   "anime": "High School of the Dead",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6048-v6MbWVJrqsZG.png"
+  },
+  {
+   "nombre": "Mujika",
+   "anime": "The Promised Neverland Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126498-w5eif6lqQLoC.jpg"
+  },
+  {
+   "nombre": "Kyouya Onodera",
+   "anime": "Talentless Nana",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b166103-TtYXCB3f4C5X.jpg"
+  },
+  {
+   "nombre": "Akira Mado",
+   "anime": "Tokyo Ghoul √A",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88838-LWDgYMTqb1pd.png"
+  },
+  {
+   "nombre": "Yuri Honjou",
+   "anime": "High-Rise Invasion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127441-rtIiSFwr2LpZ.jpg"
+  },
+  {
+   "nombre": "Prushka",
+   "anime": "Made in Abyss: Dawn of the Deep Soul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122466-RnolgKgexYDl.png"
+  },
+  {
+   "nombre": "Kei Nagai",
+   "anime": "AJIN: Demi-Human",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120726-lQIFUPMKBLb7.png"
+  },
+  {
+   "nombre": "Fuyuhiko Kuzuryuu",
+   "anime": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90010-aLmjt1jy7XKN.png"
+  },
+  {
+   "nombre": "Takashi Komuro",
+   "anime": "High School of the Dead",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/6045-uXrSnt8CwMFz.jpg"
+  },
+  {
+   "nombre": "Saki Watanabe",
+   "anime": "From the New World",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b57569-nrl0laLbZVFM.png"
+  },
+  {
+   "nombre": "Yukiteru Amano",
+   "anime": "The Future Diary",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4962-CpqPBVJngbq2.png"
+  },
+  {
+   "nombre": "Toshio Ozaki",
+   "anime": "Shiki",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b7583-mDBtMyykBIQm.png"
+  },
+  {
+   "nombre": "Shizuka Marikawa",
+   "anime": "High School of the Dead",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6046-Ay3cdQMsDdFv.png"
+  },
+  {
+   "nombre": "Bouryoku no Majin",
+   "anime": "Chainsaw Man – The Movie: Reze Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157231-hV81SwGqxl2R.jpg"
+  },
+  {
+   "nombre": "Tetsuo Shima",
+   "anime": "Akira",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2589-HR4oPhkLGq6q.png"
+  },
+  {
+   "nombre": "Dieter",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6329-1EP0t4paLi3y.jpg"
+  },
+  {
+   "nombre": "Fujita",
+   "anime": "Dorohedoro",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/16062.jpg"
+  },
+  {
+   "nombre": "Hanyuu Furude",
+   "anime": "When They Cry Kai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3128-ms0vxrk4ZoGN.png"
+  },
+  {
+   "nombre": "Kenichirou Ryuuzaki",
+   "anime": "Zom 100: Bucket List of the Dead",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b214583-akJm3W589tEd.png"
+  },
+  {
+   "nombre": "Renji Yomo",
+   "anime": "Tokyo Ghoul √A",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b172074-KyZ7MjpUkz6H.jpg"
+  },
+  {
+   "nombre": "Satomi Murano",
+   "anime": "Parasyte -the maxim-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b19436-d9ImDTVNQPKt.jpg"
+  }
+ ]
+}

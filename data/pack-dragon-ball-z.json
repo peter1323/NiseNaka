@@ -1,0 +1,106 @@
+{
+ "id": "dragon-ball-z",
+ "nombre": "Dragon Ball Z",
+ "personajes": [
+  {
+   "nombre": "Gokuu Son",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/246-wsRRr6z1kii8.png"
+  },
+  {
+   "nombre": "Vegeta",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b913-NIFkKazWM8VO.png"
+  },
+  {
+   "nombre": "Trunks",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2707-YKWmn4q87oF8.png"
+  },
+  {
+   "nombre": "Gohan Son",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2093-kdFZhqcNSsqW.png"
+  },
+  {
+   "nombre": "Piccolo",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b914-KuS8AWjqBrqa.jpg"
+  },
+  {
+   "nombre": "Bulma",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b678-2YCe13F0tFos.jpg"
+  },
+  {
+   "nombre": "Freeza",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3694-bDfOdSSdFfPv.png"
+  },
+  {
+   "nombre": "Jinzouningen 18-gou",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4318-HfIy9rOIOZXM.png"
+  },
+  {
+   "nombre": "Cell",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/3908.jpg"
+  },
+  {
+   "nombre": "Kuririn",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2159-qtEuMYyOUkwY.jpg"
+  },
+  {
+   "nombre": "Muten Roushi",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6167-aMPt1bHf5YbV.jpg"
+  },
+  {
+   "nombre": "Bardock",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6122-N8XCxV2YPd1r.png"
+  },
+  {
+   "nombre": "Jinzouningen 17-gou",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2147-AQ0iJ9QEmwPf.png"
+  },
+  {
+   "nombre": "Majin Boo",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/1012.jpg"
+  },
+  {
+   "nombre": "Videl",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2111-9XqkV0tpjRPB.png"
+  },
+  {
+   "nombre": "Goten Son",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/2551.jpg"
+  },
+  {
+   "nombre": "Tenshinhan",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5499-Cn9kTD2J9dU5.png"
+  },
+  {
+   "nombre": "Yamcha",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4014-of2ONLvA7T8p.jpg"
+  },
+  {
+   "nombre": "Chi-Chi",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/2102.jpg"
+  },
+  {
+   "nombre": "Lunch",
+   "anime": "Dragon Ball Z",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/2105-u5dq4fBpSho9.png"
+  }
+ ]
+}

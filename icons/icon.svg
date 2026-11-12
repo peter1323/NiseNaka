@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>NiseNaka</title>
+  <rect width="512" height="512" fill="#0d0d0d"/>
+  <!-- Orejas -->
+  <path d="M118 250 132 92 236 168ZM394 250 380 92 276 168Z" fill="#f5f5f5"/>
+  <path d="M142 212 148 128 208 172ZM370 212 364 128 304 172Z" fill="#d7263d"/>
+  <!-- Cara -->
+  <path d="M256 150C330 150 400 190 404 262C406 320 350 372 300 408C280 424 268 436 256 436C244 436 232 424 212 408C162 372 106 320 108 262C112 190 182 150 256 150Z" fill="#f5f5f5"/>
+  <!-- Marca de la frente -->
+  <path d="M256 170 270 200 256 238 242 200Z" fill="#d7263d"/>
+  <path d="M222 184 230 214M290 184 282 214" stroke="#d7263d" stroke-width="8" stroke-linecap="round"/>
+  <!-- Ojos -->
+  <path d="M150 268Q190 250 228 288Q186 292 150 268ZM362 268Q322 250 284 288Q326 292 362 268Z" fill="#0d0d0d"/>
+  <path d="M142 256Q192 232 236 280M370 256Q320 232 276 280" fill="none" stroke="#d7263d" stroke-width="9" stroke-linecap="round"/>
+  <!-- Bigotes -->
+  <path d="M132 318 180 332M150 350 190 354M380 318 332 332M362 350 322 354" stroke="#d7263d" stroke-width="9" stroke-linecap="round"/>
+  <!-- Hocico -->
+  <path d="M238 390Q256 382 274 390L256 414Z" fill="#0d0d0d"/>
+  <path d="M256 414V428" stroke="#d7263d" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,756 @@
+{
+ "id": "misterio",
+ "nombre": "Misterio",
+ "personajes": [
+  {
+   "nombre": "Levi",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png"
+  },
+  {
+   "nombre": "Eren Yeager",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg"
+  },
+  {
+   "nombre": "L Lawliet",
+   "anime": "Death Note",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png"
+  },
+  {
+   "nombre": "Ken Kaneki",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87275-mb13EWZBdbh3.png"
+  },
+  {
+   "nombre": "Mikasa Ackerman",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
+  },
+  {
+   "nombre": "Maomao",
+   "anime": "The Apothecary Diaries",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126824-MqsCncTO1qpv.png"
+  },
+  {
+   "nombre": "Mai Sakurajima",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127222-Jh5hhP7vZ7s1.png"
+  },
+  {
+   "nombre": "Light Yagami",
+   "anime": "Death Note",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png"
+  },
+  {
+   "nombre": "Tanjirou Kamado",
+   "anime": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
+  },
+  {
+   "nombre": "Joseph Joestar",
+   "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6356-RImEfUfHpC58.png"
+  },
+  {
+   "nombre": "Osamu Dazai",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89198-qKmRTw4Y3PRC.png"
+  },
+  {
+   "nombre": "Kiyotaka Ayanokouji",
+   "anime": "Classroom of the Elite Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123212-ewZgUQr9vvEM.png"
+  },
+  {
+   "nombre": "Asuka Langley Souryuu",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b94-d631a3Z2KPvd.png"
+  },
+  {
+   "nombre": "Hitagi Senjougahara",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22037-sY7GWSKYr2Nl.jpg"
+  },
+  {
+   "nombre": "Inosuke Hashibira",
+   "anime": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
+  },
+  {
+   "nombre": "Nezuko Kamado",
+   "anime": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
+  },
+  {
+   "nombre": "Armin Arlert",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
+  },
+  {
+   "nombre": "Joutarou Kuujou",
+   "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png"
+  },
+  {
+   "nombre": "Hange Zoe",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+  },
+  {
+   "nombre": "Zenitsu Agatsuma",
+   "anime": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png"
+  },
+  {
+   "nombre": "Shinobu Oshino",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b23602-Z4MDNYcoAWZu.png"
+  },
+  {
+   "nombre": "Erwin Smith",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png"
+  },
+  {
+   "nombre": "Koyomi Araragi",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22036-Ed3CjwPlDLp4.png"
+  },
+  {
+   "nombre": "Giyuu Tomioka",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+  },
+  {
+   "nombre": "Kana Arima",
+   "anime": "OSHI NO KO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b188783-77orwP7vNuNg.png"
+  },
+  {
+   "nombre": "Rei Ayanami",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
+  },
+  {
+   "nombre": "Kyoujurou Rengoku",
+   "anime": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
+  },
+  {
+   "nombre": "Shinji Ikari",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
+  },
+  {
+   "nombre": "Johan Liebert",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b719-y984mDWyGf5n.jpg"
+  },
+  {
+   "nombre": "Misato Katsuragi",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png"
+  },
+  {
+   "nombre": "Sakuta Azusagawa",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png"
+  },
+  {
+   "nombre": "Ray",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121724-SJTdODjeO7e6.jpg"
+  },
+  {
+   "nombre": "Gabi Braun",
+   "anime": "Attack on Titan Final Season",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125659-O37MZQWibV7g.png"
+  },
+  {
+   "nombre": "Shinobu Kochou",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png"
+  },
+  {
+   "nombre": "Yumeko Jabami",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
+  },
+  {
+   "nombre": "Jousuke Higashikata",
+   "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13085-CkmgXL7SSLxL.jpg"
+  },
+  {
+   "nombre": "Kenzou Tenma",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b718-b6ZZVp822lw0.png"
+  },
+  {
+   "nombre": "Hanako",
+   "anime": "Toilet-bound Hanako-kun",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128651-GaZImkP2Of1R.png"
+  },
+  {
+   "nombre": "Yoshikage Kira",
+   "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12055-eCEkIVV4qoCu.png"
+  },
+  {
+   "nombre": "Touka Kirishima",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87277-oUaqrI1iBzu6.png"
+  },
+  {
+   "nombre": "Sasha Blouse",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg"
+  },
+  {
+   "nombre": "Lain Iwakura",
+   "anime": "Serial Experiments Lain",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2219-K3wzEOVwdUhL.png"
+  },
+  {
+   "nombre": "Tengen Uzui",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136071-99Kexnnn2PiV.png"
+  },
+  {
+   "nombre": "Tsubasa Hanekawa",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22055-EaTsy30ihdgb.png"
+  },
+  {
+   "nombre": "Reiner Braun",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png"
+  },
+  {
+   "nombre": "Juuzou Suzuya",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88412-sIOJUnIkyFRe.png"
+  },
+  {
+   "nombre": "Ranpo Edogawa",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89201-K0X5HNq88Oub.png"
+  },
+  {
+   "nombre": "Ryuk",
+   "anime": "Death Note",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b75-IkEpzO21LgFy.jpg"
+  },
+  {
+   "nombre": "Houtarou Oreki",
+   "anime": "Hyouka",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b55131-ypodHQCyHbzD.png"
+  },
+  {
+   "nombre": "Misa Amane",
+   "anime": "Death Note",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png"
+  },
+  {
+   "nombre": "Wolfgang Grimmer",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3096-qCXXA8G0J8rk.png"
+  },
+  {
+   "nombre": "Giorno Giovanna",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10529-AloL8jjZwjsg.png"
+  },
+  {
+   "nombre": "Rohan Kishibe",
+   "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12659-hgT3g7q7oHnU.png"
+  },
+  {
+   "nombre": "Norman",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121700-CRwKIlcBcjbv.jpg"
+  },
+  {
+   "nombre": "Chuuya Nakahara",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89853-06qMPkrGlgP1.png"
+  },
+  {
+   "nombre": "Bruno Bucciarati",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13045-TIpIF82cMkG9.png"
+  },
+  {
+   "nombre": "Mitsuri Kanroji",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png"
+  },
+  {
+   "nombre": "Legoshi",
+   "anime": "BEASTARS",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125168-cOydxRHEbAYb.png"
+  },
+  {
+   "nombre": "Akane Kurokawa",
+   "anime": "OSHI NO KO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b203384-YuSppFDMw2wn.png"
+  },
+  {
+   "nombre": "Ai Hoshino",
+   "anime": "OSHI NO KO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b172759-cccVhJ2fQA92.png"
+  },
+  {
+   "nombre": "Jean Kirstein",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png"
+  },
+  {
+   "nombre": "Nanachi",
+   "anime": "Made in Abyss",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122445-5uDu8wMy8Jxi.png"
+  },
+  {
+   "nombre": "Yuno Gasai",
+   "anime": "The Future Diary",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4963-7ZMcCtXW5hkY.png"
+  },
+  {
+   "nombre": "Aquamarine Hoshino",
+   "anime": "OSHI NO KO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b183885-HOmw8CqcJdv3.jpg"
+  },
+  {
+   "nombre": "Vanitas",
+   "anime": "The Case Study of Vanitas",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89590-K3RdKR4VnYM4.png"
+  },
+  {
+   "nombre": "Emma",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121725-LQciVJOjnMVh.png"
+  },
+  {
+   "nombre": "Sebastian Michaelis",
+   "anime": "Black Butler",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10863-DsfonbP2CATa.png"
+  },
+  {
+   "nombre": "Kaworu Nagisa",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg"
+  },
+  {
+   "nombre": "Gabimaru",
+   "anime": "Hell’s Paradise",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137260-xmSis8FmwhEE.png"
+  },
+  {
+   "nombre": "Rio Futaba",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127633-FcCwWK5sQRhK.png"
+  },
+  {
+   "nombre": "Shinoa Hiiragi",
+   "anime": "Seraph of the End: Vampire Reign",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b83017-XXdnbunnBdTd.png"
+  },
+  {
+   "nombre": "Muichirou Tokitou",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136069-6PLglx4tETUX.png"
+  },
+  {
+   "nombre": "Ryuunosuke Akutagawa",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89199-h8tHKG8vKPNZ.png"
+  },
+  {
+   "nombre": "Nadeko Sengoku",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22050-RUw3vyGYdr9W.jpg"
+  },
+  {
+   "nombre": "Mikaela Hyakuya",
+   "anime": "Seraph of the End: Vampire Reign",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87287-cBUVUJNbvfvT.png"
+  },
+  {
+   "nombre": "Annie Leonhart",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg"
+  },
+  {
+   "nombre": "Aguero Agnis Khun",
+   "anime": "Tower of God",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84781-sNnhOZ1SZ66f.png"
+  },
+  {
+   "nombre": "Jinshi",
+   "anime": "The Apothecary Diaries",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127278-0qCQciTkPOMS.jpg"
+  },
+  {
+   "nombre": "Mayoi Hachikuji",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22052-beyfl4AyMGhn.png"
+  },
+  {
+   "nombre": "Jean-Pierre Polnareff",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4368-1KToX8uSi1U1.png"
+  },
+  {
+   "nombre": "Eru Chitanda",
+   "anime": "Hyouka",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b55133-S7lRrP0gKXpX.png"
+  },
+  {
+   "nombre": "Kyouko Kirigiri",
+   "anime": "Danganronpa: The Animation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b63845-43rWjycWhYFF.png"
+  },
+  {
+   "nombre": "Guido Mista",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13084-DMCv7SP1uRBq.png"
+  },
+  {
+   "nombre": "Suzune Horikita",
+   "anime": "Classroom of the Elite Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123213-jUfrGBXfW7BL.png"
+  },
+  {
+   "nombre": "Mary Saotome",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122687-jl1wk9rjO57e.png"
+  },
+  {
+   "nombre": "Akaza",
+   "anime": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b141694-0COi0GVXPuEn.png"
+  },
+  {
+   "nombre": "Izaya Orihara",
+   "anime": "Durarara!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b24596-IKSguezbPH9D.png"
+  },
+  {
+   "nombre": "Suruga Kanbaru",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/22054-n6Jsvp80bUhD.jpg"
+  },
+  {
+   "nombre": "Nene Yashiro",
+   "anime": "Toilet-bound Hanako-kun",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128652-2LLhX7bBtwyC.png"
+  },
+  {
+   "nombre": "Ruby Hoshino",
+   "anime": "OSHI NO KO",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b183884-iyo3BmTuhJ0l.jpg"
+  },
+  {
+   "nombre": "Decim",
+   "anime": "Death Parade",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png"
+  },
+  {
+   "nombre": "Krista Lenz",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png"
+  },
+  {
+   "nombre": "Noé Archiviste",
+   "anime": "The Case Study of Vanitas",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89835-xnAJMex6Uq0U.png"
+  },
+  {
+   "nombre": "Ciel Phantomhive",
+   "anime": "Black Butler",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12531-joBTjTP3fonc.png"
+  },
+  {
+   "nombre": "Shizuo Heiwajima",
+   "anime": "Durarara!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b24595-GIy3ql42WQfY.png"
+  },
+  {
+   "nombre": "Ai Ooto",
+   "anime": "WONDER EGG PRIORITY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199892-IUa7rBAT4j9H.png"
+  },
+  {
+   "nombre": "Atsushi Nakajima",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89197-vB5kP72ruckV.png"
+  },
+  {
+   "nombre": "Mei Misaki",
+   "anime": "Another",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b41402-uMQLbpd8uwKH.png"
+  },
+  {
+   "nombre": "Zeke",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125661-FiqFvAtNlL0v.png"
+  },
+  {
+   "nombre": "Kaede Azusagawa",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png"
+  },
+  {
+   "nombre": "Sagiri",
+   "anime": "Hell’s Paradise",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137263-I2krXFEFOHjL.png"
+  },
+  {
+   "nombre": "Narancia Ghirga",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b11895-qLSpMN3gVLHP.png"
+  },
+  {
+   "nombre": "Pieck Finger",
+   "anime": "Attack on Titan Final Season",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125603-Z2rgiHUGbAmY.png"
+  },
+  {
+   "nombre": "Ymir",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71479-huCD908XIdqv.png"
+  },
+  {
+   "nombre": "Tomoe Koga",
+   "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg"
+  },
+  {
+   "nombre": "Twenty-Fifth Baam",
+   "anime": "Tower of God",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84769-NaLHptr4KXKd.png"
+  },
+  {
+   "nombre": "Kou Minamoto",
+   "anime": "Toilet-bound Hanako-kun",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137222-ojZAO84oI2Hp.png"
+  },
+  {
+   "nombre": "Guren Ichinose",
+   "anime": "Seraph of the End: Vampire Reign",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88993-YNw36YYleasn.png"
+  },
+  {
+   "nombre": "Kei Karuizawa",
+   "anime": "Classroom of the Elite Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b141122-6Zk52eU3VK3O.png"
+  },
+  {
+   "nombre": "Obanai Iguro",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg"
+  },
+  {
+   "nombre": "Meme Oshino",
+   "anime": "Bakemonogatari",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22552-CZz1T3AjRyVd.png"
+  },
+  {
+   "nombre": "Satoru Fujinuma",
+   "anime": "ERASED",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89275-xCGzh6jAGe2v.png"
+  },
+  {
+   "nombre": "Celty Sturluson",
+   "anime": "Durarara!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b28331-At0Nz4p6qZHx.jpg"
+  },
+  {
+   "nombre": "Lucy Montgomery",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n132222-Ue3zZMq9aqMg.jpg"
+  },
+  {
+   "nombre": "Okuyasu Nijimura",
+   "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n28991-IYMZXahuCel5.png"
+  },
+  {
+   "nombre": "Bondrewd",
+   "anime": "Made in Abyss",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg"
+  },
+  {
+   "nombre": "Sanemi Shinazugawa",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137774-O1iYrnGLB71l.png"
+  },
+  {
+   "nombre": "Hideyoshi Nagachika",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88421-F8yaeVfHjwYn.png"
+  },
+  {
+   "nombre": "Yuuichirou Hyakuya",
+   "anime": "Seraph of the End: Vampire Reign",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b83015-XmUdY42WSKRG.png"
+  },
+  {
+   "nombre": "Sousuke Mitsuba",
+   "anime": "Toilet-bound Hanako-kun",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b141671-ukMBUI4c2p53.png"
+  },
+  {
+   "nombre": "Reg",
+   "anime": "Made in Abyss",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122444-9rGUpcjwygHD.png"
+  },
+  {
+   "nombre": "Rika Kawai",
+   "anime": "WONDER EGG PRIORITY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199890-9WY1MIjTsqkc.jpg"
+  },
+  {
+   "nombre": "Mihael Keehl",
+   "anime": "Death Note",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b463-QBLeLf6XxVg6.png"
+  },
+  {
+   "nombre": "Nate River",
+   "anime": "Death Note",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n464-6KeJpU6g7Hwj.jpg"
+  },
+  {
+   "nombre": "Yuzuriha",
+   "anime": "Hell’s Paradise",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137270-PTFen9fxyo4H.png"
+  },
+  {
+   "nombre": "Kishou Arima",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88946-YbTQAGJAdpoH.jpg"
+  },
+  {
+   "nombre": "Jeanne",
+   "anime": "The Case Study of Vanitas",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89836-xLr4mkxojjc3.png"
+  },
+  {
+   "nombre": "Ouzen",
+   "anime": "Made in Abyss",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122464-xnYajKbuEa29.jpg"
+  },
+  {
+   "nombre": "Grell Sutcliff",
+   "anime": "Black Butler",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12960-TU6by6WTq5By.png"
+  },
+  {
+   "nombre": "Phil",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126475-EqxsU9P6ajKE.jpg"
+  },
+  {
+   "nombre": "Midari Ikishima",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
+  },
+  {
+   "nombre": "Kirari Momobami",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
+  },
+  {
+   "nombre": "Connie Springer",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png"
+  },
+  {
+   "nombre": "Akiko Yosano",
+   "anime": "Bungo Stray Dogs",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89208-Zjsz22lCmrIE.png"
+  },
+  {
+   "nombre": "Undertaker",
+   "anime": "Black Butler",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b14957-OUduj1a2m4eC.png"
+  },
+  {
+   "nombre": "Kouichi Hirose",
+   "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b24496-h2oMSeBxyYUc.jpg"
+  },
+  {
+   "nombre": "Kayo Hinazuki",
+   "anime": "ERASED",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/89276-LjlYvXfOnjHB.jpg"
+  },
+  {
+   "nombre": "Heinrich Runge",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b721-VSOxZHBedxtD.png"
+  },
+  {
+   "nombre": "Narrator",
+   "anime": "Attack on Titan Season 3 Part 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+  },
+  {
+   "nombre": "Junko Enoshima",
+   "anime": "Danganronpa: The Animation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65523-OztiX9PhydrG.png"
+  },
+  {
+   "nombre": "Leone Abbacchio",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b17525-mlrTtUKPeEOb.png"
+  },
+  {
+   "nombre": "Anna Liebert",
+   "anime": "Monster",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b720-VFo5SzZsVfzl.png"
+  },
+  {
+   "nombre": "Fyodor Dostoyevsky",
+   "anime": "Bungo Stray Dogs 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138067-oHmQo5cOSZMN.png"
+  },
+  {
+   "nombre": "Louis",
+   "anime": "BEASTARS",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125170-TIHSOgfQbkbU.png"
+  },
+  {
+   "nombre": "Uta",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg"
+  },
+  {
+   "nombre": "Celestia Ludenberg",
+   "anime": "Danganronpa: The Animation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65525-BoB482T3oEoN.jpg"
+  },
+  {
+   "nombre": "Mio Kofune",
+   "anime": "Summer Time Rendering",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b155706-guouOSwrSqso.jpg"
+  },
+  {
+   "nombre": "Rouran",
+   "anime": "The Apothecary Diaries",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b244995-dv4lX99O8aCZ.jpg"
+  },
+  {
+   "nombre": "Minene Uryuu",
+   "anime": "The Future Diary",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4966-Bb0hjxjJtidY.jpg"
+  },
+  {
+   "nombre": "Sakunosuke Oda",
+   "anime": "Bungo Stray Dogs 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120625-i2xfexhHTwMQ.png"
+  }
+ ]
+}

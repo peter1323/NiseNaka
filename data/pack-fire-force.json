@@ -1,0 +1,106 @@
+{
+ "id": "fire-force",
+ "nombre": "Fire Force",
+ "personajes": [
+  {
+   "nombre": "Benimaru Shinmon",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130848-AuuIm6GR8ody.jpg"
+  },
+  {
+   "nombre": "Iris",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n130716-5564jUgQxK9a.png"
+  },
+  {
+   "nombre": "Shinra Kusakabe",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n120462-oSWdz2MhkbDE.png"
+  },
+  {
+   "nombre": "Arthur Boyle",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n130715-IYNBAHBQa14y.png"
+  },
+  {
+   "nombre": "Maki Oze",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130713-TgLx8rgtGpXV.png"
+  },
+  {
+   "nombre": "Tamaki Kotatsu",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130751-J8rhd4d3TxF4.png"
+  },
+  {
+   "nombre": "Joker",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b135385-gfcFoxReUVzq.png"
+  },
+  {
+   "nombre": "Princess Hibana",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130783-10kVdsVrwpuO.png"
+  },
+  {
+   "nombre": "Akitaru Oubi",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130712-N38fiCh2y0CX.png"
+  },
+  {
+   "nombre": "Takehisa Hinawa",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n130714-pLzE3rXtP1C4.png"
+  },
+  {
+   "nombre": "Shou Kusakabe",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b150194-2OLsrSRrq9cS.jpg"
+  },
+  {
+   "nombre": "Vulcan Joseph",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b143289-WgHxKJbuheic.png"
+  },
+  {
+   "nombre": "Charon",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b171898-sOFT5nvhIsET.jpg"
+  },
+  {
+   "nombre": "Viktor Licht",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130862-jScLEFMkfo27.png"
+  },
+  {
+   "nombre": "Leonard Burns",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130785-zvGvLqecFUYX.png"
+  },
+  {
+   "nombre": "Arrow",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b154079-GpsGmipLzbB2.png"
+  },
+  {
+   "nombre": "Haumea",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b160044-Vef7Nz9J4OX9.png"
+  },
+  {
+   "nombre": "Lisa Isaribi",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b150322-c5usQsoIu6bs.png"
+  },
+  {
+   "nombre": "Konro Sagamiya",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130852-aT7x3aoIkmOv.png"
+  },
+  {
+   "nombre": "Karim Flam",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n130790-98TypEQSKtHj.png"
+  }
+ ]
+}

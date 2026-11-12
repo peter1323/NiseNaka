@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NiseNaka</title>
+  <meta name="description" content="Juego de impostor de anime para jugar en grupo con un solo móvil.">
+  <meta name="theme-color" content="#0d0d0d">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <h1>Nise<span>Naka</span></h1>
+
+    <!-- 1. Jugadores -->
+    <section id="inicio">
+      <h2>Jugadores</h2>
+      <div class="contador">
+        <button id="menos" type="button" aria-label="Quitar jugador">−</button>
+        <span id="numJugadores" aria-live="polite">4</span>
+        <button id="mas" type="button" aria-label="Añadir jugador">+</button>
+      </div>
+      <div id="nombres"></div>
+      <p id="errorNombres" class="error" role="alert"></p>
+      <button id="aPersonajes" class="principal" type="button">Siguiente</button>
+    </section>
+
+    <!-- 2. Personajes -->
+    <section id="personajes" hidden>
+      <h2>Personajes</h2>
+      <p class="nota">Elige una o varias categorías, o un pack de un anime.</p>
+      <h3>Categorías</h3>
+      <div id="listaCategorias" class="chips"></div>
+      <h3>Packs de anime</h3>
+      <div id="listaPacks" class="chips"></div>
+      <label class="opcion">
+        <input type="checkbox" id="dificil">
+        <span><strong>Modo difícil</strong><br>El impostor recibe otro personaje parecido y no sabe que es el impostor.</span>
+      </label>
+      <p id="errorSeleccion" class="error" role="alert"></p>
+      <button id="empezar" class="principal" type="button">Empezar partida</button>
+      <button id="volverInicio" type="button">Volver</button>
+    </section>
+
+    <!-- 3. Reparto -->
+    <section id="reparto" hidden>
+      <p class="nota">Pasa el móvil a</p>
+      <h2 id="repartoNombre"></h2>
+      <div id="carta" class="carta" hidden>
+        <img id="cartaImg" alt="">
+        <h3 id="cartaNombre"></h3>
+        <p id="cartaAnime"></p>
+      </div>
+      <button id="verCarta" class="principal" type="button">Ver mi carta</button>
+      <button id="ocultarCarta" class="principal" type="button" hidden>Ocultar y pasar</button>
+    </section>
+
+    <!-- 4. Ronda de pistas -->
+    <section id="pistas" hidden>
+      <h2>Ronda de pistas</h2>
+      <p class="nota">Decid vuestras pistas en voz alta, en este orden:</p>
+      <ol id="orden"></ol>
+      <button id="irAVotar" class="principal" type="button">Ir a votar</button>
+    </section>
+
+    <!-- 5. Votación -->
+    <section id="votacion" hidden>
+      <p class="nota">Vota en secreto</p>
+      <h2 id="votaNombre"></h2>
+      <p>¿Quién es el impostor?</p>
+      <div id="opcionesVoto" class="lista"></div>
+    </section>
+
+    <!-- 6. Resultado -->
+    <section id="resultado" hidden>
+      <h2 id="resTitulo"></h2>
+      <p class="nota">El impostor era</p>
+      <p id="resImpostor" class="destacado"></p>
+      <p class="nota">El personaje era</p>
+      <div class="carta">
+        <img id="resImg" alt="">
+        <h3 id="resNombre"></h3>
+        <p id="resAnime"></p>
+      </div>
+      <p id="resFalso" class="nota"></p>
+      <h3>Votos</h3>
+      <ul id="resVotos" class="tabla"></ul>
+      <h3>Marcador</h3>
+      <ul id="resPuntos" class="tabla"></ul>
+      <p class="nota">+1 por votar al impostor · +2 al impostor si no lo descubren</p>
+      <button id="otraRonda" class="principal" type="button">Otra ronda</button>
+      <button id="nuevaPartida" type="button">Nueva partida</button>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

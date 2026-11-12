@@ -1,0 +1,81 @@
+{
+ "id": "blue-lock",
+ "nombre": "BLUE LOCK",
+ "personajes": [
+  {
+   "nombre": "Meguru Bachira",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162213-4czykzdxmWG6.png"
+  },
+  {
+   "nombre": "Seishirou Nagi",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162969-WGnGyVQrFi0X.png"
+  },
+  {
+   "nombre": "Yoichi Isagi",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b140856-wVzKSyvU7R5B.png"
+  },
+  {
+   "nombre": "Hyouma Chigiri",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b167444-JTHkkJAX4E3q.png"
+  },
+  {
+   "nombre": "Rin Itoshi",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b169395-oYTkJnimI3Eu.png"
+  },
+  {
+   "nombre": "Shouei Barou",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b169401-jeepvEsqW4Ns.png"
+  },
+  {
+   "nombre": "Rensuke Kunigami",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162214-9x9Q3A9rxpx8.png"
+  },
+  {
+   "nombre": "Reo Mikage",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b169394-8KDqHUN1VyGC.png"
+  },
+  {
+   "nombre": "Sae Itoshi",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b169397-wC55onsv5u8t.jpg"
+  },
+  {
+   "nombre": "Ryuusei Shidou",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b186875-JGHisZO21JxJ.png"
+  },
+  {
+   "nombre": "Jinpachi Ego",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b140857-DOTyKBCufon9.png"
+  },
+  {
+   "nombre": "Gin Gagamaru",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b169404-90OF8t2ukD9H.jpg"
+  },
+  {
+   "nombre": "Anri Teieri",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b169405-RFVC95ooQp13.png"
+  },
+  {
+   "nombre": "Tabito Karasu",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b187524-HlZ4yDd2eGcT.png"
+  },
+  {
+   "nombre": "Kenyu Yukimiya",
+   "anime": "BLUE LOCK",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b191409-qU7sRhVmpgRQ.png"
+  }
+ ]
+}

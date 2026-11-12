@@ -1,0 +1,111 @@
+{
+ "id": "attack-on-titan",
+ "nombre": "Attack on Titan",
+ "personajes": [
+  {
+   "nombre": "Levi",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png"
+  },
+  {
+   "nombre": "Eren Yeager",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg"
+  },
+  {
+   "nombre": "Mikasa Ackerman",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
+  },
+  {
+   "nombre": "Armin Arlert",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
+  },
+  {
+   "nombre": "Hange Zoe",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+  },
+  {
+   "nombre": "Erwin Smith",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png"
+  },
+  {
+   "nombre": "Sasha Blouse",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg"
+  },
+  {
+   "nombre": "Reiner Braun",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png"
+  },
+  {
+   "nombre": "Jean Kirstein",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png"
+  },
+  {
+   "nombre": "Annie Leonhart",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg"
+  },
+  {
+   "nombre": "Krista Lenz",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png"
+  },
+  {
+   "nombre": "Ymir",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71479-huCD908XIdqv.png"
+  },
+  {
+   "nombre": "Connie Springer",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png"
+  },
+  {
+   "nombre": "Bertolt Hoover",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46488-wm6HvkdkHoZu.jpg"
+  },
+  {
+   "nombre": "Dot Pixis",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b62485-I0U5Cat3z65K.png"
+  },
+  {
+   "nombre": "Petra Ral",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n62501-CfTtAAgs64nE.jpg"
+  },
+  {
+   "nombre": "Grisha Yeager",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b62477-3AHBGul9bXK8.jpg"
+  },
+  {
+   "nombre": "Hitch Dreyse",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b86017-m6vXFRKWMwUo.jpg"
+  },
+  {
+   "nombre": "Marco Bott",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b62479-mYcTkU1RXymL.jpg"
+  },
+  {
+   "nombre": "Hannes",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46492-5kRaMLDCVD0B.jpg"
+  },
+  {
+   "nombre": "Carla Yeager",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n62475-CExspVnLfweu.png"
+  }
+ ]
+}

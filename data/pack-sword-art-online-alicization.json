@@ -1,0 +1,71 @@
+{
+ "id": "sword-art-online-alicization",
+ "nombre": "Sword Art Online: Alicization",
+ "personajes": [
+  {
+   "nombre": "Asuna Yuuki",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
+  },
+  {
+   "nombre": "Kazuto Kirigaya",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
+  },
+  {
+   "nombre": "Shino Asada",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
+  },
+  {
+   "nombre": "Alice Zuberg",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b75450-vDO1lQup1pe7.jpg"
+  },
+  {
+   "nombre": "Eugeo",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70899-TwMq5mtH5ifc.jpg"
+  },
+  {
+   "nombre": "Yui",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg"
+  },
+  {
+   "nombre": "Suguha Kirigaya",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
+  },
+  {
+   "nombre": "Ryoutarou Tsuboi",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36830-41SWIDvhqOo4.png"
+  },
+  {
+   "nombre": "Rika Shinozaki",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b43906-15QwTm2ZFDse.png"
+  },
+  {
+   "nombre": "Keiko Ayano",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b37681-GDtOAN6NiJ9M.jpg"
+  },
+  {
+   "nombre": "Quinella",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123195-s4QPQ0OkqaKa.png"
+  },
+  {
+   "nombre": "Bercouli",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126740-BQk6zlwPE7Kn.png"
+  },
+  {
+   "nombre": "Andrew Gilbert Mills",
+   "anime": "Sword Art Online: Alicization",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b54099-fOi8orxVTHt1.png"
+  }
+ ]
+}

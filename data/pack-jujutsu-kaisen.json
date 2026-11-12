@@ -1,0 +1,116 @@
+{
+ "id": "jujutsu-kaisen",
+ "nombre": "JUJUTSU KAISEN",
+ "personajes": [
+  {
+   "nombre": "Satoru Gojou",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png"
+  },
+  {
+   "nombre": "Yuuji Itadori",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png"
+  },
+  {
+   "nombre": "Megumi Fushiguro",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png"
+  },
+  {
+   "nombre": "Kento Nanami",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+  },
+  {
+   "nombre": "Nobara Kugisaki",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png"
+  },
+  {
+   "nombre": "Maki Zenin",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b134167-5TCytk45YByD.png"
+  },
+  {
+   "nombre": "Sukuna",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133701-rCQuDpHr3UZL.png"
+  },
+  {
+   "nombre": "Toge Inumaki",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
+  },
+  {
+   "nombre": "Suguru Getou",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133699-FCnXaISgazAi.png"
+  },
+  {
+   "nombre": "Aoi Toudou",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137975-6TH7PiLWJaqy.png"
+  },
+  {
+   "nombre": "Chousou",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157116-2jYQf3y8NeTZ.png"
+  },
+  {
+   "nombre": "Mahito",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133702-Y7JRG5vAvjIL.png"
+  },
+  {
+   "nombre": "Kasumi Miwa",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b156848-Rf0tuoQCNyZV.png"
+  },
+  {
+   "nombre": "Panda",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137974-9qnK3DPrvLKh.jpg"
+  },
+  {
+   "nombre": "Shouko Ieiri",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b158154-UCqbiULli62P.png"
+  },
+  {
+   "nombre": "Mei Mei",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157215-I3TQJu8nkDwD.jpg"
+  },
+  {
+   "nombre": "Junpei Yoshino",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157214-ROBNoXVEXRNy.jpg"
+  },
+  {
+   "nombre": "Utahime Iori",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157864-rejVYNx0kQZr.jpg"
+  },
+  {
+   "nombre": "Yuki Tsukumo",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b196502-aBvtPFr9lGm2.png"
+  },
+  {
+   "nombre": "Mai Zenin",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b134168-FdWz5w2LqpeF.jpg"
+  },
+  {
+   "nombre": "Koukichi Muta",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b210154-nIn9DX39GFKP.jpg"
+  },
+  {
+   "nombre": "Jougo",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b156991-niYjdp9CxO4w.png"
+  }
+ ]
+}

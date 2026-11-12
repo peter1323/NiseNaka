@@ -1,0 +1,111 @@
+{
+ "id": "gintama",
+ "nombre": "Gintama",
+ "personajes": [
+  {
+   "nombre": "Gintoki Sakata",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b672-cP5VPriN67xJ.png"
+  },
+  {
+   "nombre": "Kagura",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b674-w8wCh0A5Qa8R.png"
+  },
+  {
+   "nombre": "Kotarou Katsura",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1533-tSqUrj2DOK5p.png"
+  },
+  {
+   "nombre": "Toushirou Hijikata",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2650-zgkj5l8mIOnn.png"
+  },
+  {
+   "nombre": "Sougo Okita",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2282-X0uYqwmwxiPo.png"
+  },
+  {
+   "nombre": "Shinsuke Takasugi",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2948-Er1xnL05k1oU.png"
+  },
+  {
+   "nombre": "Narrator",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+  },
+  {
+   "nombre": "Tsukuyo",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b18823-EHKT9u7r91s0.png"
+  },
+  {
+   "nombre": "Taizou Hasegawa",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3760-bxdyoPARX4Sx.png"
+  },
+  {
+   "nombre": "Shinpachi Shimura",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b673-nScArSMt85kd.jpg"
+  },
+  {
+   "nombre": "Kamui",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12946-wqrTLWsy7dW5.jpg"
+  },
+  {
+   "nombre": "Isao Kondou",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2943-QVEHBh0T6hPC.jpg"
+  },
+  {
+   "nombre": "Elizabeth",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2946-Wr6RcgisCsbi.jpg"
+  },
+  {
+   "nombre": "Tatsuma Sakamoto",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2945-HS6t9u16Tdce.jpg"
+  },
+  {
+   "nombre": "Sadaharu",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n2651-e8BTqVZl8lK2.jpg"
+  },
+  {
+   "nombre": "Tama",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6615-KlhhQlhWbO1A.jpg"
+  },
+  {
+   "nombre": "Kyuubei Yagyuu",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n6110-2TQFGi833X4t.jpg"
+  },
+  {
+   "nombre": "Ayame Sarutobi",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n1759-hbviRHbxGNmx.jpg"
+  },
+  {
+   "nombre": "Shouyou Yoshida",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b28144-QsZ8pBkqo4rj.jpg"
+  },
+  {
+   "nombre": "Tae Shimura",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n2944-XzeaielhUwAV.jpg"
+  },
+  {
+   "nombre": "Shigeshige Tokugawa",
+   "anime": "Gintama",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/7157.jpg"
+  }
+ ]
+}

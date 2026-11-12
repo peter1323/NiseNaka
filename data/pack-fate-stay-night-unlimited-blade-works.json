@@ -1,0 +1,66 @@
+{
+ "id": "fate-stay-night-unlimited-blade-works",
+ "nombre": "Fate/stay night: Unlimited Blade Works",
+ "personajes": [
+  {
+   "nombre": "Sakura Matou",
+   "anime": "Fate/stay night: Unlimited Blade Works",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b500-NQrLbnBr1sDv.png"
+  },
+  {
+   "nombre": "Rin Toosaka",
+   "anime": "Fate/stay night: Unlimited Blade Works",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b498-lwawtSpLyATL.png"
+  },
+  {
+   "nombre": "Artoria Pendragon",
+   "anime": "Fate/stay night: Unlimited Blade Works",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
+  },
+  {
+   "nombre": "Gilgamesh",
+   "anime": "Fate/stay night: Unlimited Blade Works",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png"
+  },
+  {
+   "nombre": "Kiritsugu Emiya",
+   "anime": "Fate/stay night: Unlimited Blade Works",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10010-fNspzan5MzNk.png"
+  },
+  {
+   "nombre": "Shirou Emiya",
+   "anime": "Fate/stay night: Unlimited Blade Works",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b496-GI0waavDjyk3.png"
+  },
+  {
+   "nombre": "Archer",
+   "anime": "Fate/stay night: Unlimited Blade Works",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2087-l5WP4W4vmfJJ.png"
+  },
+  {
+   "nombre": "Kirei Kotomine",
+   "anime": "Fate/stay night: Unlimited Blade Works",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b506-qeg0TqitdCMS.png"
+  },
+  {
+   "nombre": "Illyasviel von Einzbern",
+   "anime": "Fate/stay night: Unlimited Blade Works",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b503-SmS87yq6l2tD.png"
+  },
+  {
+   "nombre": "Cú  Chulainn",
+   "anime": "Fate/stay night: Unlimited Blade Works",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b499-gS5RAdupSKWQ.png"
+  },
+  {
+   "nombre": "Medusa",
+   "anime": "Fate/stay night: Unlimited Blade Works",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b502-Nc5U3ghTR7Gy.png"
+  },
+  {
+   "nombre": "Medea",
+   "anime": "Fate/stay night: Unlimited Blade Works",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3440-134Ip9KiQeZL.png"
+  }
+ ]
+}

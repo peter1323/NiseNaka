@@ -1,0 +1,756 @@
+{
+ "id": "accion",
+ "nombre": "Acción",
+ "personajes": [
+  {
+   "nombre": "Satoru Gojou",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png"
+  },
+  {
+   "nombre": "Levi",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png"
+  },
+  {
+   "nombre": "Luffy Monkey",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png"
+  },
+  {
+   "nombre": "Killua Zoldyck",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b27-Z5O02kQUydpT.jpg"
+  },
+  {
+   "nombre": "Eren Yeager",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg"
+  },
+  {
+   "nombre": "Zoro Roronoa",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png"
+  },
+  {
+   "nombre": "Lelouch Lamperouge",
+   "anime": "Code Geass: Lelouch of the Rebellion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
+  },
+  {
+   "nombre": "Emilia",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
+  },
+  {
+   "nombre": "Ken Kaneki",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87275-mb13EWZBdbh3.png"
+  },
+  {
+   "nombre": "Mikasa Ackerman",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
+  },
+  {
+   "nombre": "Arataka Reigen",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89334-OPj1hCzvrt7X.png"
+  },
+  {
+   "nombre": "Thorfinn Karlsefni",
+   "anime": "Vinland Saga",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10138-zOPrka0ddZOR.png"
+  },
+  {
+   "nombre": "Makima",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png"
+  },
+  {
+   "nombre": "Itachi Uchiha",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png"
+  },
+  {
+   "nombre": "Kakashi Hatake",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png"
+  },
+  {
+   "nombre": "Yuuji Itadori",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png"
+  },
+  {
+   "nombre": "Denji",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130102-FO1VHNnEnLlB.png"
+  },
+  {
+   "nombre": "Kurapika",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b28-ivA7UGnfE40a.png"
+  },
+  {
+   "nombre": "Shigeo Kageyama",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89616-dXmdOc7L6SDi.png"
+  },
+  {
+   "nombre": "Power",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png"
+  },
+  {
+   "nombre": "Edward Elric",
+   "anime": "Fullmetal Alchemist: Brotherhood",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg"
+  },
+  {
+   "nombre": "Naruto Uzumaki",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png"
+  },
+  {
+   "nombre": "Tanjirou Kamado",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
+  },
+  {
+   "nombre": "Megumi Fushiguro",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png"
+  },
+  {
+   "nombre": "Joseph Joestar",
+   "anime": "JoJo's Bizarre Adventure (TV)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6356-RImEfUfHpC58.png"
+  },
+  {
+   "nombre": "Shouto Todoroki",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
+  },
+  {
+   "nombre": "Askeladd",
+   "anime": "Vinland Saga",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13020-ZdiYlNmpRUNS.png"
+  },
+  {
+   "nombre": "Katsuki Bakugou",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
+  },
+  {
+   "nombre": "Rem",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88575-Ayu8UPDA8NS6.png"
+  },
+  {
+   "nombre": "Subaru Natsuki",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88573-F8yMTK9GhnTA.png"
+  },
+  {
+   "nombre": "Ichigo",
+   "anime": "DARLING in the FRANXX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
+  },
+  {
+   "nombre": "Gon Freecss",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg"
+  },
+  {
+   "nombre": "Senkuu Ishigami",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-XUO1g7wRqkaT.png"
+  },
+  {
+   "nombre": "Sanji",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png"
+  },
+  {
+   "nombre": "Saitama",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg"
+  },
+  {
+   "nombre": "Jin-U Seong",
+   "anime": "Solo Leveling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png"
+  },
+  {
+   "nombre": "Robin Nico",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png"
+  },
+  {
+   "nombre": "Ichigo Kurosaki",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5-a7bkJgjhhigE.png"
+  },
+  {
+   "nombre": "Asuka Langley Souryuu",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b94-d631a3Z2KPvd.png"
+  },
+  {
+   "nombre": "Aki Hayakawa",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137081-TSrUR3mUJL6r.png"
+  },
+  {
+   "nombre": "Zero Two",
+   "anime": "DARLING in the FRANXX",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-2gAVq76HPfL2.png"
+  },
+  {
+   "nombre": "Inosuke Hashibira",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
+  },
+  {
+   "nombre": "Nezuko Kamado",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
+  },
+  {
+   "nombre": "Roy Mustang",
+   "anime": "Fullmetal Alchemist: Brotherhood",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png"
+  },
+  {
+   "nombre": "Yor Forger",
+   "anime": "SPY x FAMILY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138102-ZOAu9jI2d5ke.png"
+  },
+  {
+   "nombre": "Spike Spiegel",
+   "anime": "Cowboy Bebop",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1-ChxaldmieFlQ.png"
+  },
+  {
+   "nombre": "Hisoka Morow",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b31-FZckOuu7L1un.png"
+  },
+  {
+   "nombre": "Armin Arlert",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
+  },
+  {
+   "nombre": "Hange Zoe",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+  },
+  {
+   "nombre": "Izuku Midoriya",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
+  },
+  {
+   "nombre": "Zenitsu Agatsuma",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png"
+  },
+  {
+   "nombre": "Kento Nanami",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+  },
+  {
+   "nombre": "Rimuru Tempest",
+   "anime": "That Time I Got Reincarnated as a Slime",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123962-eL9yGV0NLMF7.png"
+  },
+  {
+   "nombre": "Nobara Kugisaki",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png"
+  },
+  {
+   "nombre": "Sasuke Uchiha",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13-SISLEw1oAD7a.png"
+  },
+  {
+   "nombre": "Anya Forger",
+   "anime": "SPY x FAMILY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138100-4Li0tWRCa5bQ.png"
+  },
+  {
+   "nombre": "Maki Zenin",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b134167-5TCytk45YByD.png"
+  },
+  {
+   "nombre": "Erwin Smith",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png"
+  },
+  {
+   "nombre": "Yato",
+   "anime": "Noragami",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png"
+  },
+  {
+   "nombre": "Giyuu Tomioka",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+  },
+  {
+   "nombre": "Sukuna",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133701-rCQuDpHr3UZL.png"
+  },
+  {
+   "nombre": "Yuuta Okkotsu",
+   "anime": "JUJUTSU KAISEN Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg"
+  },
+  {
+   "nombre": "Rei Ayanami",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
+  },
+  {
+   "nombre": "Kyoujurou Rengoku",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
+  },
+  {
+   "nombre": "Shinji Ikari",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
+  },
+  {
+   "nombre": "Misato Katsuragi",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png"
+  },
+  {
+   "nombre": "C.C.",
+   "anime": "Code Geass: Lelouch of the Rebellion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-UhmlFtRFrnWa.png"
+  },
+  {
+   "nombre": "Yami Sukehiro",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124440-Lpdo6y8cljV6.png"
+  },
+  {
+   "nombre": "Karma Akabane",
+   "anime": "Assassination Classroom",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
+  },
+  {
+   "nombre": "Law Trafalgar",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13767-U604OJN9dxCn.jpg"
+  },
+  {
+   "nombre": "Nami",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png"
+  },
+  {
+   "nombre": "Loid Forger",
+   "anime": "SPY x FAMILY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png"
+  },
+  {
+   "nombre": "Manjirou Sano",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png"
+  },
+  {
+   "nombre": "Asuna Yuuki",
+   "anime": "Sword Art Online",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
+  },
+  {
+   "nombre": "Toge Inumaki",
+   "anime": "JUJUTSU KAISEN",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
+  },
+  {
+   "nombre": "Koro-sensei",
+   "anime": "Assassination Classroom",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png"
+  },
+  {
+   "nombre": "Chrollo Lucilfer",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b58-USOmsz3nursi.jpg"
+  },
+  {
+   "nombre": "Gabi Braun",
+   "anime": "Attack on Titan Final Season",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125659-O37MZQWibV7g.png"
+  },
+  {
+   "nombre": "Asta",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123285-tKijiuQErDS0.png"
+  },
+  {
+   "nombre": "Dio Brando",
+   "anime": "JoJo's Bizarre Adventure (TV)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4004-w0OtWuvjhftG.png"
+  },
+  {
+   "nombre": "Meruem",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b23277-EYmIxzL64Mji.png"
+  },
+  {
+   "nombre": "Shinobu Kochou",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png"
+  },
+  {
+   "nombre": "Ace Portgas",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2072-Lc6jEdsueJUK.jpg"
+  },
+  {
+   "nombre": "Kazuto Kirigaya",
+   "anime": "Sword Art Online",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
+  },
+  {
+   "nombre": "Chopper Tony Tony",
+   "anime": "ONE PIECE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg"
+  },
+  {
+   "nombre": "Shouta Aizawa",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
+  },
+  {
+   "nombre": "Tatsumaki",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
+  },
+  {
+   "nombre": "Shikamaru Nara",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2007-QaesJlIZDifj.jpg"
+  },
+  {
+   "nombre": "Kisuke Urahara",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b210-mw01NrQfRjzT.png"
+  },
+  {
+   "nombre": "Touka Kirishima",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87277-oUaqrI1iBzu6.png"
+  },
+  {
+   "nombre": "Suguru Getou",
+   "anime": "JUJUTSU KAISEN Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133699-FCnXaISgazAi.png"
+  },
+  {
+   "nombre": "Sasha Blouse",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg"
+  },
+  {
+   "nombre": "Tengen Uzui",
+   "anime": "Demon Slayer: Kimetsu no Yaiba",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136071-99Kexnnn2PiV.png"
+  },
+  {
+   "nombre": "Reiner Braun",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png"
+  },
+  {
+   "nombre": "Touji Fushiguro",
+   "anime": "JUJUTSU KAISEN Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162722-btzdghBizxKS.jpg"
+  },
+  {
+   "nombre": "Gaara",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1662-4E5J0LX9jZKZ.png"
+  },
+  {
+   "nombre": "Ban",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
+  },
+  {
+   "nombre": "Rukia Kuchiki",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b6-25WoBeWMZXBc.png"
+  },
+  {
+   "nombre": "Alphonse Elric",
+   "anime": "Fullmetal Alchemist: Brotherhood",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg"
+  },
+  {
+   "nombre": "Juuzou Suzuya",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88412-sIOJUnIkyFRe.png"
+  },
+  {
+   "nombre": "Aoi Toudou",
+   "anime": "JUJUTSU KAISEN Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137975-6TH7PiLWJaqy.png"
+  },
+  {
+   "nombre": "Sousuke Aizen",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1086-qR9218BjZTC0.png"
+  },
+  {
+   "nombre": "Yoruichi Shihouin",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b908-JSYUkJLCw1f0.png"
+  },
+  {
+   "nombre": "Akame",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png"
+  },
+  {
+   "nombre": "Chifuyu Matsuno",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145344-q4BqRljEBYNc.png"
+  },
+  {
+   "nombre": "Ken Ryuuguji",
+   "anime": "Tokyo Revengers",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png"
+  },
+  {
+   "nombre": "Toshinori Yagi",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg"
+  },
+  {
+   "nombre": "Nagisa Shiota",
+   "anime": "Assassination Classroom",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
+  },
+  {
+   "nombre": "Faye Valentine",
+   "anime": "Cowboy Bebop",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png"
+  },
+  {
+   "nombre": "Benimaru Shinmon",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130848-AuuIm6GR8ody.jpg"
+  },
+  {
+   "nombre": "Jiraiya",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2423-RO5MyoXSA9OL.png"
+  },
+  {
+   "nombre": "Raphtalia",
+   "anime": "The Rising of the Shield Hero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png"
+  },
+  {
+   "nombre": "Esdeath",
+   "anime": "Akame ga Kill!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
+  },
+  {
+   "nombre": "Mitsuri Kanroji",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png"
+  },
+  {
+   "nombre": "Genos",
+   "anime": "One-Punch Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
+  },
+  {
+   "nombre": "Leorio Paradinight",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b29-RgzoSeKmDYzl.jpg"
+  },
+  {
+   "nombre": "Eijirou Kirishima",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-R2WJlNuj3aEs.jpg"
+  },
+  {
+   "nombre": "Garou",
+   "anime": "One-Punch Man Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
+  },
+  {
+   "nombre": "Chousou",
+   "anime": "JUJUTSU KAISEN Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157116-2jYQf3y8NeTZ.png"
+  },
+  {
+   "nombre": "Minato Namikaze",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2535-Xq9WKNPJQEt3.png"
+  },
+  {
+   "nombre": "Jean Kirstein",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png"
+  },
+  {
+   "nombre": "Kenpachi Zaraki",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b909-slhoFBon7oiH.jpg"
+  },
+  {
+   "nombre": "Himiko Toga",
+   "anime": "My Hero Academia Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125619-iQxQoGHJvjRJ.png"
+  },
+  {
+   "nombre": "Hinata Hyuuga",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1555-Q41GLTV3FvYF.png"
+  },
+  {
+   "nombre": "Iris",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n130716-5564jUgQxK9a.png"
+  },
+  {
+   "nombre": "Shinra Kusakabe",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n120462-oSWdz2MhkbDE.png"
+  },
+  {
+   "nombre": "Rin Okumura",
+   "anime": "Blue Exorcist",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg"
+  },
+  {
+   "nombre": "Shirley Fenette",
+   "anime": "Code Geass: Lelouch of the Rebellion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
+  },
+  {
+   "nombre": "Naofumi Iwatani",
+   "anime": "The Rising of the Shield Hero",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png"
+  },
+  {
+   "nombre": "Ochako Uraraka",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89221-gSF2a4gPbG4m.png"
+  },
+  {
+   "nombre": "Pain",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3180-ITMGBLWNBOgV.png"
+  },
+  {
+   "nombre": "Dabi",
+   "anime": "My Hero Academia Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126378-RFSljq5koy5U.png"
+  },
+  {
+   "nombre": "Kaworu Nagisa",
+   "anime": "Neon Genesis Evangelion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg"
+  },
+  {
+   "nombre": "Pochita",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b170266-bBXPkNJnd3mg.png"
+  },
+  {
+   "nombre": "Tomura Shigaraki",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89226-qGXqFthO4SM3.jpg"
+  },
+  {
+   "nombre": "Rock Lee",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b306-oUTOO45xInXt.png"
+  },
+  {
+   "nombre": "Kobeni Higashiyama",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b144594-0dbO1NSYeZ12.png"
+  },
+  {
+   "nombre": "Kanao Tsuyuri",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b139038-OcOoDUyLEsRn.png"
+  },
+  {
+   "nombre": "Gen Asagiri",
+   "anime": "Dr. STONE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png"
+  },
+  {
+   "nombre": "Muichirou Tokitou",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136069-6PLglx4tETUX.png"
+  },
+  {
+   "nombre": "Arthur Boyle",
+   "anime": "Fire Force",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n130715-IYNBAHBQa14y.png"
+  },
+  {
+   "nombre": "Noelle Silva",
+   "anime": "Black Clover",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123283-7nJHtKha0LSm.png"
+  },
+  {
+   "nombre": "Annie Leonhart",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg"
+  },
+  {
+   "nombre": "Madara Uchiha",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b53901-HnRKSoHMG5Vg.png"
+  },
+  {
+   "nombre": "Shino Asada",
+   "anime": "Sword Art Online II",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
+  },
+  {
+   "nombre": "Beatrice",
+   "anime": "Re:ZERO -Starting Life in Another World-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90181-wRPm0OEaucmw.png"
+  },
+  {
+   "nombre": "Hae-In Cha",
+   "anime": "Solo Leveling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png"
+  },
+  {
+   "nombre": "Tenshi no Akuma",
+   "anime": "Chainsaw Man",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b152231-xNV2YsTRzEcS.png"
+  },
+  {
+   "nombre": "Meliodas",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
+  },
+  {
+   "nombre": "Ulquiorra Cifer",
+   "anime": "Bleach",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1081-xLTqHfLL2I2W.png"
+  }
+ ]
+}

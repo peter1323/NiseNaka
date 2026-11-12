@@ -1,0 +1,371 @@
+{
+ "id": "manhwa",
+ "nombre": "Manhwa",
+ "personajes": [
+  {
+   "nombre": "Jin-U Seong",
+   "anime": "Solo Leveling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png"
+  },
+  {
+   "nombre": "Aguero Agnis Khun",
+   "anime": "Tower of God",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84781-sNnhOZ1SZ66f.png"
+  },
+  {
+   "nombre": "Dok-Ja Kim",
+   "anime": "Omniscient Reader",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b180887-s9sJWFuO18J8.png"
+  },
+  {
+   "nombre": "Hae-In Cha",
+   "anime": "Solo Leveling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png"
+  },
+  {
+   "nombre": "Mo-Ri Jin",
+   "anime": "The God of High School",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124136-mdvrdRyKVn4R.png"
+  },
+  {
+   "nombre": "Twenty-Fifth Baam",
+   "anime": "Tower of God",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84769-NaLHptr4KXKd.png"
+  },
+  {
+   "nombre": "Su-Yeong Han",
+   "anime": "Omniscient Reader",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b180901-vEAE20MjhHA0.png"
+  },
+  {
+   "nombre": "Lloyd Frontera",
+   "anime": "The Greatest Estate Developer",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b269308-XTwR7eKuYRl2.png"
+  },
+  {
+   "nombre": "Jung-Hyeok Yu",
+   "anime": "Omniscient Reader",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b180892-P9NUpKANX4W5.png"
+  },
+  {
+   "nombre": "Igris",
+   "anime": "Solo Leveling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145722-qSJ71S6vpeeM.png"
+  },
+  {
+   "nombre": "Rak Wraithraiser",
+   "anime": "Tower of God",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84783-m1qgQvKVAoNn.jpg"
+  },
+  {
+   "nombre": "Endorsi Jahad",
+   "anime": "Tower of God",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124138-2WCq8CD8FEsv.png"
+  },
+  {
+   "nombre": "Yuri Ha Jahad",
+   "anime": "Tower of God",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84777-xeZZ3a9YM2Cn.png"
+  },
+  {
+   "nombre": "Beru",
+   "anime": "Solo Leveling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b159849-p0Szb7KzD2DD.png"
+  },
+  {
+   "nombre": "Dae-Wi Han",
+   "anime": "The God of High School",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b143291-E0gdqrvHUWiP.png"
+  },
+  {
+   "nombre": "Penelope Eckhart",
+   "anime": "Villains Are Destined to Die",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b169632-YCq6ateRLXbM.png"
+  },
+  {
+   "nombre": "Athanasia de Alger Obelia",
+   "anime": "Who Made Me a Princess",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b143632-3JXSQ2OelHv4.png"
+  },
+  {
+   "nombre": "Lucas",
+   "anime": "Who Made Me a Princess",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136777-8ZGIYEBxjjkX.png"
+  },
+  {
+   "nombre": "Kayden Break",
+   "anime": "Eleceed",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b193144-2Pl6tSHDcsYT.png"
+  },
+  {
+   "nombre": "Ja-Hyeon Jo",
+   "anime": "Wind Breaker",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137282-xHqKiX6ihlWA.png"
+  },
+  {
+   "nombre": "Cale  Henituse",
+   "anime": "Lout of Count’s Family",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b187471-3jj8DcFWYjYu.png"
+  },
+  {
+   "nombre": "Raeliana McMillan",
+   "anime": "The Reason Why Raeliana Ended Up at the Duke's Mansion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b147510-Z9O3wnkPFAhw.jpg"
+  },
+  {
+   "nombre": "Gong-Ja Kim",
+   "anime": "SSS-Class Revival Hunter",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b203172-oVJDo9hlWshz.png"
+  },
+  {
+   "nombre": "Claude de Alger Obelia",
+   "anime": "Who Made Me a Princess",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136776-36ItTDd9ZSlL.png"
+  },
+  {
+   "nombre": "Noah Wynknight",
+   "anime": "The Reason Why Raeliana Ended Up at the Duke's Mansion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b147511-oDqLy4YLv99L.jpg"
+  },
+  {
+   "nombre": "Cadis Etrama di Raizel",
+   "anime": "Noblesse",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b48967-JZb8UWYqYKFP.jpg"
+  },
+  {
+   "nombre": "Yu-Bin Hong",
+   "anime": "Wind Breaker",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137281-IMQXieFJ5KBr.png"
+  },
+  {
+   "nombre": "Mi-Ra Yu",
+   "anime": "The God of High School",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b153293-qepIpM9aw3nw.png"
+  },
+  {
+   "nombre": "Yu",
+   "anime": "The Boxer",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b174319-YCsHl8DS97Vt.jpg"
+  },
+  {
+   "nombre": "I-Jin Yu",
+   "anime": "Teenage Mercenary",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b196891-MvIgbsIz8gEj.jpg"
+  },
+  {
+   "nombre": "Esil Radiru",
+   "anime": "Solo Leveling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b164675-ZrAxmOOwGSa6.png"
+  },
+  {
+   "nombre": "Hwaryun",
+   "anime": "Tower of God",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b135467-AyW5hucXmmea.jpg"
+  },
+  {
+   "nombre": "Callisto Regulus",
+   "anime": "Villains Are Destined to Die",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b169636-SpY8Kw9K5sjx.png"
+  },
+  {
+   "nombre": "Urek Mazino",
+   "anime": "Tower of God",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124137-ZMkbYja3ty77.png"
+  },
+  {
+   "nombre": "Mu-Won Jin",
+   "anime": "The Legend of the Northern Blade",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b188800-Ak9ufC5L3rU0.png"
+  },
+  {
+   "nombre": "Cheong-Myeong",
+   "anime": "Return of the Blossoming Blade",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b270715-ZEDoSMIA6xPK.png"
+  },
+  {
+   "nombre": "Eun-Tae Lee",
+   "anime": "Lookism",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b140382-xGPRVRMFyRJp.png"
+  },
+  {
+   "nombre": "Raviel Ivansia",
+   "anime": "SSS-Class Revival Hunter",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b307960-AJZpFVvSpOfK.jpg"
+  },
+  {
+   "nombre": "Il-Pyo Park",
+   "anime": "The God of High School",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b161450-eu1N5cZ5dGLv.png"
+  },
+  {
+   "nombre": "Frankenstein",
+   "anime": "Noblesse",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b48753-li5DHzOcqkuT.jpg"
+  },
+  {
+   "nombre": "Jae-Yeol Hong",
+   "anime": "Lookism",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b140381-nbphgP8PnenT.png"
+  },
+  {
+   "nombre": "Javier Asrahan",
+   "anime": "The Greatest Estate Developer",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b269320-1xcSV3Ozya6l.png"
+  },
+  {
+   "nombre": "Alicia Magentano",
+   "anime": "The Greatest Estate Developer",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b269322-6OqlC7IaVfWN.png"
+  },
+  {
+   "nombre": "Hyung-Suk Park",
+   "anime": "Lookism",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b140380-tjsV0mcDviFy.png"
+  },
+  {
+   "nombre": "Uriel",
+   "anime": "Omniscient Reader",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b187671-VHdLqYhm0nIp.jpg"
+  },
+  {
+   "nombre": "Adam  Taylor",
+   "anime": "The Reason Why Raeliana Ended Up at the Duke's Mansion",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b169775-gaAbJcfxt4zC.png"
+  },
+  {
+   "nombre": "Ju-Hui Lee",
+   "anime": "Solo Leveling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png"
+  },
+  {
+   "nombre": "Shelly",
+   "anime": "Wind Breaker",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b140299-ttuDsrg2LofB.png"
+  },
+  {
+   "nombre": "Hyun-Su Cha",
+   "anime": "Sweet Home",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127415-iNPETf5ihn9j.jpg"
+  },
+  {
+   "nombre": "Jin Seon",
+   "anime": "Bastard",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126821-WcuV5GMptoO4.jpg"
+  },
+  {
+   "nombre": "Ji-U Seo",
+   "anime": "Eleceed",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b192792-O8m2jxFRt3pC.png"
+  },
+  {
+   "nombre": "Jin-A Seong",
+   "anime": "Solo Leveling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138791-IngjgBQqGMWc.png"
+  },
+  {
+   "nombre": "Lero-Ro",
+   "anime": "Tower of God",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137948-NYeFyFDeIoHd.png"
+  },
+  {
+   "nombre": "Jin-Ho Yu",
+   "anime": "Solo Leveling",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136076-D7eiE3pA9U8g.jpg"
+  },
+  {
+   "nombre": "Geu Sonyeon",
+   "anime": "The Horizon",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b184330-Iz1UIX3ytdZL.jpg"
+  },
+  {
+   "nombre": "Han-Nam Kang",
+   "anime": "Wind Breaker",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b140300-OsTZ4hRHhVNF.png"
+  },
+  {
+   "nombre": "Tae-Hoon Seong",
+   "anime": "Viral Hit",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b193930-X5jkpJb3cMNK.png"
+  },
+  {
+   "nombre": "Commissioner Q",
+   "anime": "The God of High School",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b175441-fs9d51Mh1njC.jpg"
+  },
+  {
+   "nombre": "Yun-Ho Baek",
+   "anime": "Solo Leveling: Ragnarok",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136077-IIMqRmMK5Fgs.png"
+  },
+  {
+   "nombre": "Hee-Won Jung",
+   "anime": "Omniscient Reader",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b189848-SD6SN8SRLagc.png"
+  },
+  {
+   "nombre": "Desir Herrman",
+   "anime": "A Returner's Magic Should Be Special",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b141151-flvE2X91gtFN.png"
+  },
+  {
+   "nombre": "Jong-In Choi",
+   "anime": "Solo Leveling: Ragnarok",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138794-dZNdO0pvZ659.png"
+  },
+  {
+   "nombre": "Jin-Cheol U",
+   "anime": "Solo Leveling: Ragnarok",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136819-okbPuuFAefYX.png"
+  },
+  {
+   "nombre": "Felix Robane",
+   "anime": "Who Made Me a Princess",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b143631-q4scGCgW1eLm.png"
+  },
+  {
+   "nombre": "Sang-A Yu",
+   "anime": "Omniscient Reader",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b190233-FSfFRBbPcTkg.png"
+  },
+  {
+   "nombre": "Ji-Yeong Yu",
+   "anime": "Eleceed",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b203359-vnehUltk1dbX.png"
+  },
+  {
+   "nombre": "Alice Von Ataraxia",
+   "anime": "I’m the Max-Level Newbie",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b282566-k1qoh9xKrSr9.png"
+  },
+  {
+   "nombre": "Azest Kingscrown",
+   "anime": "A Returner's Magic Should Be Special",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b141154-EZh6Auf1rv50.png"
+  },
+  {
+   "nombre": "Jong-Geon Park",
+   "anime": "Lookism",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b176781-Rdf6CSyKSb0t.jpg"
+  },
+  {
+   "nombre": "Ho-Bin Yu",
+   "anime": "Viral Hit",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b193869-l1YoNFjOmrU7.png"
+  },
+  {
+   "nombre": "Yeo-Un Cheon",
+   "anime": "Nano Machine",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b267544-Rij5JmLpbnQa.png"
+  },
+  {
+   "nombre": "Yeon-U Cha",
+   "anime": "Second Life Ranker",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b140547-8Oey7AgpfM8P.jpg"
+  },
+  {
+   "nombre": "Il-Hwan Seong",
+   "anime": "Solo Leveling: Ragnarok",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138790-i3DFMscWID9D.jpg"
+  }
+ ]
+}

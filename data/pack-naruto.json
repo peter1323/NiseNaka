@@ -1,0 +1,126 @@
+{
+ "id": "naruto",
+ "nombre": "Naruto",
+ "personajes": [
+  {
+   "nombre": "Itachi Uchiha",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png"
+  },
+  {
+   "nombre": "Kakashi Hatake",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png"
+  },
+  {
+   "nombre": "Naruto Uzumaki",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png"
+  },
+  {
+   "nombre": "Sasuke Uchiha",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13-SISLEw1oAD7a.png"
+  },
+  {
+   "nombre": "Shikamaru Nara",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2007-QaesJlIZDifj.jpg"
+  },
+  {
+   "nombre": "Gaara",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1662-4E5J0LX9jZKZ.png"
+  },
+  {
+   "nombre": "Jiraiya",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2423-RO5MyoXSA9OL.png"
+  },
+  {
+   "nombre": "Hinata Hyuuga",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1555-Q41GLTV3FvYF.png"
+  },
+  {
+   "nombre": "Pain",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3180-ITMGBLWNBOgV.png"
+  },
+  {
+   "nombre": "Rock Lee",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b306-oUTOO45xInXt.png"
+  },
+  {
+   "nombre": "Sakura Haruno",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png"
+  },
+  {
+   "nombre": "Guy Might",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b307-xieUEdhdTVwQ.png"
+  },
+  {
+   "nombre": "Neji Hyuuga",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1694-TL4obouDwJ7k.jpg"
+  },
+  {
+   "nombre": "Tsunade Senju",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2767-r61Cj9v8I0wl.png"
+  },
+  {
+   "nombre": "Orochimaru",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n2455-V9tLMS3TIgJW.png"
+  },
+  {
+   "nombre": "Zabuza Momochi",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b728-zHw77BzLzQKT.jpg"
+  },
+  {
+   "nombre": "Temari",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2174-XTX0TtzkZCnO.png"
+  },
+  {
+   "nombre": "Deidara",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1902-JsEFRFwjmtZJ.png"
+  },
+  {
+   "nombre": "Kurama",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b7407-D8MYzhbuy8zu.jpg"
+  },
+  {
+   "nombre": "Hashirama Senju",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n12464-fcgqkCPZoREw.png"
+  },
+  {
+   "nombre": "Ino Yamanaka",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2009-H7n38Ns1fr0Y.jpg"
+  },
+  {
+   "nombre": "Haku",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2039-9NXBvh6H15LD.png"
+  },
+  {
+   "nombre": "Tobirama Senju",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n12465-y8ByDAvzC5cA.png"
+  },
+  {
+   "nombre": "Kiba Inuzuka",
+   "anime": "Naruto",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n3495-dtw0gHa5SOo6.png"
+  }
+ ]
+}

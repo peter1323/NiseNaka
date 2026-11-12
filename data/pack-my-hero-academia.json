@@ -1,0 +1,131 @@
+{
+ "id": "my-hero-academia",
+ "nombre": "My Hero Academia",
+ "personajes": [
+  {
+   "nombre": "Shouto Todoroki",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
+  },
+  {
+   "nombre": "Katsuki Bakugou",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
+  },
+  {
+   "nombre": "Izuku Midoriya",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
+  },
+  {
+   "nombre": "Shouta Aizawa",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
+  },
+  {
+   "nombre": "Toshinori Yagi",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg"
+  },
+  {
+   "nombre": "Eijirou Kirishima",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-R2WJlNuj3aEs.jpg"
+  },
+  {
+   "nombre": "Ochako Uraraka",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89221-gSF2a4gPbG4m.png"
+  },
+  {
+   "nombre": "Tomura Shigaraki",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89226-qGXqFthO4SM3.jpg"
+  },
+  {
+   "nombre": "Denki Kaminari",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89249-Ygc30RlYoFta.png"
+  },
+  {
+   "nombre": "Tsuyu Asui",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89223-5762vburxnlz.png"
+  },
+  {
+   "nombre": "Kyouka Jirou",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89897-5vU7N3ayiKRr.png"
+  },
+  {
+   "nombre": "Fumikage Tokoyami",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89898-yAYDmPQPSOTV.png"
+  },
+  {
+   "nombre": "Momo Yaoyorozu",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89241-Q8KzAfX4Qe2y.png"
+  },
+  {
+   "nombre": "Mina Ashido",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89247-hu5MCqfoN82E.png"
+  },
+  {
+   "nombre": "Tenya Iida",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89222-TL8MQM3wJgEB.png"
+  },
+  {
+   "nombre": "Nemuri Kayama",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127427-urv42J2E7TZ2.png"
+  },
+  {
+   "nombre": "Hanta Sero",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89895-DpFrgTelc9Qx.png"
+  },
+  {
+   "nombre": "Yuu Takeyama",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121529-Uu4aQdOP4G98.png"
+  },
+  {
+   "nombre": "Yuuga Aoyama",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127042-a6dlcC3ZYSDx.png"
+  },
+  {
+   "nombre": "Tooru Hagakure",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89900-QOH8tvJgtFVj.png"
+  },
+  {
+   "nombre": "All For One",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/125956-jzhb8Z4peLb8.jpg"
+  },
+  {
+   "nombre": "Hizashi Yamada",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127425-POL7I9NC4emH.png"
+  },
+  {
+   "nombre": "Minoru Mineta",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89244-VVwK9loDHeTV.png"
+  },
+  {
+   "nombre": "Mezou Shouji",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89899-vIokiJ5jMESf.png"
+  },
+  {
+   "nombre": "Mashirao Ojiro",
+   "anime": "My Hero Academia",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89896-3QzT5nSEPjcr.png"
+  }
+ ]
+}

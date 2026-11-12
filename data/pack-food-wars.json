@@ -1,0 +1,66 @@
+{
+ "id": "food-wars",
+ "nombre": "Food Wars!",
+ "personajes": [
+  {
+   "nombre": "Souma Yukihira",
+   "anime": "Food Wars!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b75216-KDU8333eIcqf.jpg"
+  },
+  {
+   "nombre": "Erina Nakiri",
+   "anime": "Food Wars!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b75284-4Hiyq7DOwvy7.png"
+  },
+  {
+   "nombre": "Alice Nakiri",
+   "anime": "Food Wars!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88956-RbwleCQc741G.png"
+  },
+  {
+   "nombre": "Megumi Tadokoro",
+   "anime": "Food Wars!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b76026-cQAQTlZFfG2e.png"
+  },
+  {
+   "nombre": "Satoshi Isshiki",
+   "anime": "Food Wars!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-mMDe3GSAgP6V.png"
+  },
+  {
+   "nombre": "Ikumi Mito",
+   "anime": "Food Wars!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png"
+  },
+  {
+   "nombre": "Ryou Kurokiba",
+   "anime": "Food Wars!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88972-GW5lYeUkHjlm.png"
+  },
+  {
+   "nombre": "Jouichirou Yukihira",
+   "anime": "Food Wars!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/77495-81D8lngS6l3G.png"
+  },
+  {
+   "nombre": "Takumi Aldini",
+   "anime": "Food Wars!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b85777-up7wugPUGKBv.jpg"
+  },
+  {
+   "nombre": "Akira Hayama",
+   "anime": "Food Wars!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/122706-OBGbtM9Lwt00.jpg"
+  },
+  {
+   "nombre": "Koujirou Shinomiya",
+   "anime": "Food Wars!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/85781.jpg"
+  },
+  {
+   "nombre": "Ryouko Sakaki",
+   "anime": "Food Wars!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b85727-OnAFVVOOQYoW.png"
+  }
+ ]
+}

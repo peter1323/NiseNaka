@@ -1,0 +1,71 @@
+{
+ "id": "horimiya",
+ "nombre": "Horimiya",
+ "personajes": [
+  {
+   "nombre": "Izumi Miyamura",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66173-g8eU1LGWPB8O.png"
+  },
+  {
+   "nombre": "Kyouko Hori",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66171-o2vk3689wWFK.png"
+  },
+  {
+   "nombre": "Yuki Yoshikawa",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66963-JBKCtpgwdgkG.png"
+  },
+  {
+   "nombre": "Remi Ayasaki",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66965-Kfqui6IitXaL.png"
+  },
+  {
+   "nombre": "Kyousuke Hori",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89726-NS2ZmYjp1Mnr.jpg"
+  },
+  {
+   "nombre": "Tooru Ishikawa",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66961-VZV5IwKUwYfp.png"
+  },
+  {
+   "nombre": "Akane Yanagi",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72453-f9gRbQBUjKo6.png"
+  },
+  {
+   "nombre": "Shuu Iura",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66967-driczOA04cxe.png"
+  },
+  {
+   "nombre": "Sakura Kouno",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72449-wTynovkFnQpC.png"
+  },
+  {
+   "nombre": "Honoka Sawada",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72459-NbyXnBAjLxKT.png"
+  },
+  {
+   "nombre": "Kakeru Sengoku",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72447-SH9Hth8ZGJam.png"
+  },
+  {
+   "nombre": "Souta Hori",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66969-w9HNa7igeTeF.png"
+  },
+  {
+   "nombre": "Kouichi Shindou",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72461-4zzQ6cShYe8l.png"
+  }
+ ]
+}

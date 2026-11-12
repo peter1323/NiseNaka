@@ -1,0 +1,66 @@
+{
+ "id": "the-eminence-in-shadow",
+ "nombre": "The Eminence in Shadow",
+ "personajes": [
+  {
+   "nombre": "Cid Kagenou",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136837-3WR22FYet8Hv.jpg"
+  },
+  {
+   "nombre": "Delta",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162248-57Xgk6EmwKRQ.png"
+  },
+  {
+   "nombre": "Alpha",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162246-IbbxkhNJFDN5.png"
+  },
+  {
+   "nombre": "Beta",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162247-R6OrAuT1FwL4.png"
+  },
+  {
+   "nombre": "Epsilon",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162249-eJRpBIC5lAZX.png"
+  },
+  {
+   "nombre": "Alexia Midgar",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b168799-uAsWFrrfqxTN.png"
+  },
+  {
+   "nombre": "Gamma",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162245-x86QMM6nOj75.png"
+  },
+  {
+   "nombre": "Aurora",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b215409-Y1Ti42451ivg.png"
+  },
+  {
+   "nombre": "Claire Kagenou",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b168798-IrHBKh5xbRsr.png"
+  },
+  {
+   "nombre": "Rose Oriana",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b168800-eb3FqWq0IdyV.png"
+  },
+  {
+   "nombre": "Zeta",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b264565-acUMiD3pz2ZU.png"
+  },
+  {
+   "nombre": "Beatrix",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b229656-fVc5WjlFefhD.png"
+  }
+ ]
+}

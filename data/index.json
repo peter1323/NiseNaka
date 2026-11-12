@@ -1,0 +1,342 @@
+{
+ "categorias": [
+  {
+   "id": "accion",
+   "nombre": "Acción",
+   "archivo": "categoria-accion.json",
+   "total": 150
+  },
+  {
+   "id": "aventura",
+   "nombre": "Aventura",
+   "archivo": "categoria-aventura.json",
+   "total": 150
+  },
+  {
+   "id": "comedia",
+   "nombre": "Comedia",
+   "archivo": "categoria-comedia.json",
+   "total": 150
+  },
+  {
+   "id": "drama",
+   "nombre": "Drama",
+   "archivo": "categoria-drama.json",
+   "total": 150
+  },
+  {
+   "id": "fantasia",
+   "nombre": "Fantasía",
+   "archivo": "categoria-fantasia.json",
+   "total": 150
+  },
+  {
+   "id": "romance",
+   "nombre": "Romance",
+   "archivo": "categoria-romance.json",
+   "total": 150
+  },
+  {
+   "id": "isekai",
+   "nombre": "Isekai",
+   "archivo": "categoria-isekai.json",
+   "total": 150
+  },
+  {
+   "id": "ciencia-ficcion",
+   "nombre": "Ciencia ficción",
+   "archivo": "categoria-ciencia-ficcion.json",
+   "total": 150
+  },
+  {
+   "id": "sobrenatural",
+   "nombre": "Sobrenatural",
+   "archivo": "categoria-sobrenatural.json",
+   "total": 150
+  },
+  {
+   "id": "misterio",
+   "nombre": "Misterio",
+   "archivo": "categoria-misterio.json",
+   "total": 150
+  },
+  {
+   "id": "psicologico",
+   "nombre": "Psicológico",
+   "archivo": "categoria-psicologico.json",
+   "total": 150
+  },
+  {
+   "id": "terror",
+   "nombre": "Terror",
+   "archivo": "categoria-terror.json",
+   "total": 150
+  },
+  {
+   "id": "deportes",
+   "nombre": "Deportes",
+   "archivo": "categoria-deportes.json",
+   "total": 150
+  },
+  {
+   "id": "vida-cotidiana",
+   "nombre": "Vida cotidiana",
+   "archivo": "categoria-vida-cotidiana.json",
+   "total": 150
+  },
+  {
+   "id": "mecha",
+   "nombre": "Mecha",
+   "archivo": "categoria-mecha.json",
+   "total": 102
+  },
+  {
+   "id": "manhwa",
+   "nombre": "Manhwa",
+   "archivo": "categoria-manhwa.json",
+   "total": 73
+  }
+ ],
+ "packs": [
+  {
+   "id": "attack-on-titan",
+   "nombre": "Attack on Titan",
+   "archivo": "pack-attack-on-titan.json",
+   "total": 21
+  },
+  {
+   "id": "demon-slayer-kimetsu-no-yaiba",
+   "nombre": "Demon Slayer: Kimetsu no Yaiba",
+   "archivo": "pack-demon-slayer-kimetsu-no-yaiba.json",
+   "total": 25
+  },
+  {
+   "id": "jujutsu-kaisen",
+   "nombre": "JUJUTSU KAISEN",
+   "archivo": "pack-jujutsu-kaisen.json",
+   "total": 22
+  },
+  {
+   "id": "my-hero-academia",
+   "nombre": "My Hero Academia",
+   "archivo": "pack-my-hero-academia.json",
+   "total": 25
+  },
+  {
+   "id": "hunter-x-hunter-2011",
+   "nombre": "Hunter x Hunter (2011)",
+   "archivo": "pack-hunter-x-hunter-2011.json",
+   "total": 25
+  },
+  {
+   "id": "one-punch-man",
+   "nombre": "One-Punch Man",
+   "archivo": "pack-one-punch-man.json",
+   "total": 12
+  },
+  {
+   "id": "one-piece",
+   "nombre": "ONE PIECE",
+   "archivo": "pack-one-piece.json",
+   "total": 25
+  },
+  {
+   "id": "tokyo-ghoul",
+   "nombre": "Tokyo Ghoul",
+   "archivo": "pack-tokyo-ghoul.json",
+   "total": 16
+  },
+  {
+   "id": "fullmetal-alchemist-brotherhood",
+   "nombre": "Fullmetal Alchemist: Brotherhood",
+   "archivo": "pack-fullmetal-alchemist-brotherhood.json",
+   "total": 20
+  },
+  {
+   "id": "naruto",
+   "nombre": "Naruto",
+   "archivo": "pack-naruto.json",
+   "total": 24
+  },
+  {
+   "id": "chainsaw-man",
+   "nombre": "Chainsaw Man",
+   "archivo": "pack-chainsaw-man.json",
+   "total": 12
+  },
+  {
+   "id": "re-zero-starting-life-in-another-world",
+   "nombre": "Re:ZERO -Starting Life in Another World-",
+   "archivo": "pack-re-zero-starting-life-in-another-world.json",
+   "total": 22
+  },
+  {
+   "id": "black-clover",
+   "nombre": "Black Clover",
+   "archivo": "pack-black-clover.json",
+   "total": 24
+  },
+  {
+   "id": "haikyu",
+   "nombre": "HAIKYU!!",
+   "archivo": "pack-haikyu.json",
+   "total": 19
+  },
+  {
+   "id": "dr-stone",
+   "nombre": "Dr. STONE",
+   "archivo": "pack-dr-stone.json",
+   "total": 14
+  },
+  {
+   "id": "horimiya",
+   "nombre": "Horimiya",
+   "archivo": "pack-horimiya.json",
+   "total": 13
+  },
+  {
+   "id": "akame-ga-kill",
+   "nombre": "Akame ga Kill!",
+   "archivo": "pack-akame-ga-kill.json",
+   "total": 14
+  },
+  {
+   "id": "the-seven-deadly-sins",
+   "nombre": "The Seven Deadly Sins",
+   "archivo": "pack-the-seven-deadly-sins.json",
+   "total": 13
+  },
+  {
+   "id": "bleach",
+   "nombre": "Bleach",
+   "archivo": "pack-bleach.json",
+   "total": 24
+  },
+  {
+   "id": "frieren-beyond-journey-s-end",
+   "nombre": "Frieren: Beyond Journey’s End",
+   "archivo": "pack-frieren-beyond-journey-s-end.json",
+   "total": 13
+  },
+  {
+   "id": "fire-force",
+   "nombre": "Fire Force",
+   "archivo": "pack-fire-force.json",
+   "total": 20
+  },
+  {
+   "id": "that-time-i-got-reincarnated-as-a-slime",
+   "nombre": "That Time I Got Reincarnated as a Slime",
+   "archivo": "pack-that-time-i-got-reincarnated-as-a-slime.json",
+   "total": 14
+  },
+  {
+   "id": "mushoku-tensei-jobless-reincarnation",
+   "nombre": "Mushoku Tensei: Jobless Reincarnation",
+   "archivo": "pack-mushoku-tensei-jobless-reincarnation.json",
+   "total": 15
+  },
+  {
+   "id": "tokyo-revengers",
+   "nombre": "Tokyo Revengers",
+   "archivo": "pack-tokyo-revengers.json",
+   "total": 19
+  },
+  {
+   "id": "bungo-stray-dogs",
+   "nombre": "Bungo Stray Dogs",
+   "archivo": "pack-bungo-stray-dogs.json",
+   "total": 16
+  },
+  {
+   "id": "overlord",
+   "nombre": "Overlord",
+   "archivo": "pack-overlord.json",
+   "total": 14
+  },
+  {
+   "id": "food-wars",
+   "nombre": "Food Wars!",
+   "archivo": "pack-food-wars.json",
+   "total": 12
+  },
+  {
+   "id": "soul-eater",
+   "nombre": "Soul Eater",
+   "archivo": "pack-soul-eater.json",
+   "total": 16
+  },
+  {
+   "id": "fairy-tail",
+   "nombre": "Fairy Tail",
+   "archivo": "pack-fairy-tail.json",
+   "total": 25
+  },
+  {
+   "id": "blue-lock",
+   "nombre": "BLUE LOCK",
+   "archivo": "pack-blue-lock.json",
+   "total": 15
+  },
+  {
+   "id": "the-eminence-in-shadow",
+   "nombre": "The Eminence in Shadow",
+   "archivo": "pack-the-eminence-in-shadow.json",
+   "total": 12
+  },
+  {
+   "id": "solo-leveling-season-2-arise-from-the-shadow",
+   "nombre": "Solo Leveling Season 2 -Arise from the Shadow-",
+   "archivo": "pack-solo-leveling-season-2-arise-from-the-shadow.json",
+   "total": 13
+  },
+  {
+   "id": "fruits-basket-2019",
+   "nombre": "Fruits Basket (2019)",
+   "archivo": "pack-fruits-basket-2019.json",
+   "total": 15
+  },
+  {
+   "id": "jojo-s-bizarre-adventure-golden-wind",
+   "nombre": "JoJo's Bizarre Adventure: Golden Wind",
+   "archivo": "pack-jojo-s-bizarre-adventure-golden-wind.json",
+   "total": 13
+  },
+  {
+   "id": "gintama",
+   "nombre": "Gintama",
+   "archivo": "pack-gintama.json",
+   "total": 21
+  },
+  {
+   "id": "sword-art-online-alicization",
+   "nombre": "Sword Art Online: Alicization",
+   "archivo": "pack-sword-art-online-alicization.json",
+   "total": 13
+  },
+  {
+   "id": "kuroko-s-basketball",
+   "nombre": "Kuroko's Basketball",
+   "archivo": "pack-kuroko-s-basketball.json",
+   "total": 12
+  },
+  {
+   "id": "fate-stay-night-unlimited-blade-works",
+   "nombre": "Fate/stay night: Unlimited Blade Works",
+   "archivo": "pack-fate-stay-night-unlimited-blade-works.json",
+   "total": 12
+  },
+  {
+   "id": "dragon-ball-z",
+   "nombre": "Dragon Ball Z",
+   "archivo": "pack-dragon-ball-z.json",
+   "total": 20
+  },
+  {
+   "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-ii",
+   "nombre": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
+   "archivo": "pack-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-ii.json",
+   "total": 13
+  }
+ ]
+}
