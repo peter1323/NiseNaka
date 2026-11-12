@@ -68,7 +68,10 @@ section > button { display: block; width: 100%; margin-top: 12px; }
 .chips button { padding: 8px 14px; border-radius: 999px; font-size: 0.95rem; }
 .chips button[aria-pressed="true"] { background: var(--blanco); border-color: var(--blanco); color: var(--negro); font-weight: 700; }
 
-.opcion { display: flex; align-items: center; gap: 12px; margin-top: 24px; padding: 12px 14px; background: var(--gris); border-radius: 12px; text-align: left; font-size: 0.95rem; cursor: pointer; }
+.buscador { display: flex; gap: 8px; }
+.buscador input { flex: 1; min-width: 0; }
+
+.opcion { display: flex; align-items: center; gap: 12px; margin-top: 12px; padding: 12px 14px; background: var(--gris); border-radius: 12px; text-align: left; font-size: 0.95rem; cursor: pointer; }
 .opcion input { flex: none; width: 24px; height: 24px; padding: 0; accent-color: var(--rojo); }
 
 /* Carta */

@@ -67,12 +67,12 @@ function pintarChips(caja, lista, esPack) {
     const chip = boton(grupo.nombre, () => {
       const activo = chip.getAttribute('aria-pressed') === 'true';
       // Se puede elegir varias categorías o un solo pack, no las dos cosas.
-      const aLimpiar = esPack ? '.chips button' : '#listaPacks button';
+      const aLimpiar = esPack ? '.chips button' : '#listaPacks button, #listaBusqueda button';
       document.querySelectorAll(aLimpiar).forEach((c) => c.setAttribute('aria-pressed', 'false'));
       chip.setAttribute('aria-pressed', String(!activo));
     });
     chip.setAttribute('aria-pressed', 'false');
-    chip.dataset.archivo = grupo.archivo;
+    chip.grupo = grupo;
     caja.append(chip);
   }
 }
@@ -87,16 +87,60 @@ async function cargarIndice() {
   }
 }
 
+// Buscador: crea un pack al momento con cualquier anime de AniList (necesita internet).
+const MIN_BUSQUEDA = 6; // personajes mínimos para que un anime buscado sirva
+const CONSULTA_BUSQUEDA = `
+query ($nombre: String) {
+  Page(perPage: 6) {
+    media(search: $nombre, type: ANIME, isAdult: false) {
+      title { romaji english }
+      characters(sort: FAVOURITES_DESC, perPage: 25) {
+        edges { role node { name { full } image { large } } }
+      }
+    }
+  }
+}`;
+
+$('buscador').onsubmit = async (evento) => {
+  evento.preventDefault();
+  const nombre = $('busqueda').value.trim();
+  if (!nombre) return;
+  $('listaBusqueda').replaceChildren();
+  $('estadoBusqueda').textContent = 'Buscando…';
+  try {
+    const res = await fetch('https://graphql.anilist.co', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+      body: JSON.stringify({ query: CONSULTA_BUSQUEDA, variables: { nombre } }),
+    });
+    const json = await res.json();
+    if (!res.ok || json.errors) throw new Error('AniList');
+    const grupos = json.data.Page.media.map((m) => {
+      const anime = m.title.english || m.title.romaji;
+      const validos = m.characters.edges.filter((e) => (e.role === 'MAIN' || e.role === 'SUPPORTING')
+        && e.node.name.full && e.node.image.large && !e.node.image.large.includes('default'));
+      return { nombre: anime, personajes: validos.map((e) => ({ nombre: e.node.name.full.trim(), anime, imagen: e.node.image.large })) };
+    }).filter((g) => g.personajes.length >= MIN_BUSQUEDA);
+    pintarChips($('listaBusqueda'), grupos, true);
+    $('estadoBusqueda').textContent = grupos.length
+      ? 'Toca un anime para jugar con él.'
+      : 'No hay ningún anime con suficientes personajes para ese nombre.';
+  } catch {
+    $('estadoBusqueda').textContent = 'No se ha podido buscar. Hace falta conexión a internet.';
+  }
+};
+
 $('volverInicio').onclick = () => mostrar('inicio');
 
 $('empezar').onclick = async () => {
-  const archivos = [...document.querySelectorAll('.chips button[aria-pressed="true"]')].map((c) => c.dataset.archivo);
-  if (!archivos.length) {
+  const elegidos = [...document.querySelectorAll('.chips button[aria-pressed="true"]')].map((c) => c.grupo);
+  if (!elegidos.length) {
     $('errorSeleccion').textContent = 'Elige al menos una categoría o un pack.';
     return;
   }
   try {
-    const grupos = await Promise.all(archivos.map(async (a) => (await fetch(`data/${a}`)).json()));
+    // Los animes buscados ya traen sus personajes; el resto se lee de /data.
+    const grupos = await Promise.all(elegidos.map(async (g) => g.personajes ? g : (await fetch(`data/${g.archivo}`)).json()));
     // Un personaje puede estar en varias categorías: se queda una sola vez.
     const unicos = new Map();
     for (const p of grupos.flatMap((g) => g.personajes)) unicos.set(clave(p), p);
@@ -181,7 +225,9 @@ $('verCarta').onclick = () => {
   } else if (esImpostor) {
     $('cartaImg').hidden = true;
     $('cartaNombre').textContent = 'Eres el impostor';
-    $('cartaAnime').textContent = 'Disimula y descubre el personaje.';
+    $('cartaAnime').textContent = $('pista').checked
+      ? `Pista: el personaje es de ${ronda.personaje.anime}.`
+      : 'Disimula y descubre el personaje.';
   } else {
     pintarCarta('carta', ronda.personaje);
   }

@@ -21,7 +21,7 @@ Se puede instalar como aplicación desde el menú del navegador («Instalar» o 
 ## Cómo se juega
 
 1. **Jugadores.** Indica cuántos sois (mínimo 3) y escribe los nombres.
-2. **Personajes.** Elige una o varias categorías por género, o un pack de un anime concreto.
+2. **Personajes.** Elige una o varias categorías por género, un pack de un anime concreto o busca cualquier otro anime por su nombre.
 3. **Reparto.** El móvil va pasando de jugador en jugador. Cada uno pulsa «Ver mi carta», mira en secreto su personaje (o el aviso de que es el impostor) y pulsa «Ocultar y pasar».
 4. **Ronda de pistas.** En voz alta y en el orden que marca la app, cada jugador dice una pista sobre el personaje sin ser demasiado evidente. El impostor tiene que improvisar. No hay temporizador.
 5. **Votación.** Cada jugador vota en el móvil a quién cree que es el impostor.
@@ -36,6 +36,8 @@ Se puede instalar como aplicación desde el menú del navegador («Instalar» o 
 
 - Un solo móvil para todo el grupo.
 - Categorías por género (acción, romance, isekai…), una de manhwa y packs de los animes más populares.
+- **Buscador de anime:** escribe el nombre de cualquier anime y se crea un pack al momento (necesita internet).
+- **Pista para el impostor** (opcional): el impostor ve de qué anime es el personaje.
 - **Modo difícil:** el impostor recibe otro personaje del mismo anime o categoría y no sabe que es el impostor.
 - Marcador de puntos entre rondas, con «Otra ronda» y «Nueva partida».
 - No se repiten personajes durante la misma sesión.

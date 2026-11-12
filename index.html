@@ -36,9 +36,20 @@
       <div id="listaCategorias" class="chips"></div>
       <h3>Packs de anime</h3>
       <div id="listaPacks" class="chips"></div>
+      <h3>Buscar otro anime</h3>
+      <form id="buscador" class="buscador">
+        <input id="busqueda" type="search" placeholder="Nombre del anime" aria-label="Nombre del anime" maxlength="60" autocomplete="off">
+        <button type="submit">Buscar</button>
+      </form>
+      <p id="estadoBusqueda" class="nota" role="status">Necesita conexión a internet.</p>
+      <div id="listaBusqueda" class="chips"></div>
       <label class="opcion">
         <input type="checkbox" id="dificil">
         <span><strong>Modo difícil</strong><br>El impostor recibe otro personaje parecido y no sabe que es el impostor.</span>
+      </label>
+      <label class="opcion">
+        <input type="checkbox" id="pista">
+        <span><strong>Pista para el impostor</strong><br>El impostor ve de qué anime es el personaje. No se aplica en modo difícil.</span>
       </label>
       <p id="errorSeleccion" class="error" role="alert"></p>
       <button id="empezar" class="principal" type="button">Empezar partida</button>
