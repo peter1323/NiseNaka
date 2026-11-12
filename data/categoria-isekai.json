@@ -8,11 +8,6 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
   },
   {
-   "nombre": "Edward Elric",
-   "anime": "Fullmetal Alchemist",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg"
-  },
-  {
    "nombre": "Megumin",
    "anime": "KONOSUBA -God's blessing on this wonderful world!",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
@@ -31,11 +26,6 @@
    "nombre": "Ichigo Kurosaki",
    "anime": "Bleach",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5-a7bkJgjhhigE.png"
-  },
-  {
-   "nombre": "Roy Mustang",
-   "anime": "Fullmetal Alchemist",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png"
   },
   {
    "nombre": "Rimuru Tempest",
@@ -86,11 +76,6 @@
    "nombre": "Eris Boreas Greyrat",
    "anime": "Mushoku Tensei: Jobless Reincarnation",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88349-5dsNUah3oBj8.png"
-  },
-  {
-   "nombre": "Alphonse Elric",
-   "anime": "Fullmetal Alchemist",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg"
   },
   {
    "nombre": "Sousuke Aizen",
@@ -213,16 +198,6 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88576-NWkotUiJ3mK3.png"
   },
   {
-   "nombre": "Winry Rockbell",
-   "anime": "Fullmetal Alchemist",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
-  },
-  {
-   "nombre": "Riza Hawkeye",
-   "anime": "Fullmetal Alchemist",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png"
-  },
-  {
    "nombre": "Kanade Tachibana",
    "anime": "Angel Beats!",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
@@ -258,11 +233,6 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b132849-DWYOwdlxsEqV.png"
   },
   {
-   "nombre": "Greed",
-   "anime": "Fullmetal Alchemist",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b351-XMQzTuMy2Xtn.jpg"
-  },
-  {
    "nombre": "Haku",
    "anime": "Spirited Away",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b385-pKGCy3oYWxRa.png"
@@ -271,11 +241,6 @@
    "nombre": "Kobayashi",
    "anime": "Miss Kobayashi's Dragon Maid",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120969-dHJBVb3lB8iN.png"
-  },
-  {
-   "nombre": "Maes Hughes",
-   "anime": "Fullmetal Alchemist",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b69-MRetSG8Qevvu.png"
   },
   {
    "nombre": "Shalltear Bloodfallen",
@@ -321,11 +286,6 @@
    "nombre": "Diablo",
    "anime": "That Time I Got Reincarnated as a Slime",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b131033-0LguIALHCBEH.jpg"
-  },
-  {
-   "nombre": "Scar",
-   "anime": "Fullmetal Alchemist",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66-bLbGWXrmDqfV.png"
   },
   {
    "nombre": "Yunyun",
@@ -483,6 +443,11 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg"
   },
   {
+   "nombre": "Tomoe",
+   "anime": "TSUKIMICHI -Moonlit Fantasy-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138138-Nz9jNIHBVeRC.png"
+  },
+  {
    "nombre": "Demiurge",
    "anime": "Overlord",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png"
@@ -551,6 +516,11 @@
    "nombre": "Yui",
    "anime": "Sword Art Online",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg"
+  },
+  {
+   "nombre": "Mio",
+   "anime": "TSUKIMICHI -Moonlit Fantasy-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138139-RyExQ4tdSsLG.png"
   },
   {
    "nombre": "Suguha Kirigaya",
@@ -658,6 +628,11 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157687-F64XEDMqU9hX.png"
   },
   {
+   "nombre": "Makoto Misumi",
+   "anime": "TSUKIMICHI -Moonlit Fantasy-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138137-yBtJdBlRziS9.png"
+  },
+  {
    "nombre": "Ryoutarou Tsuboi",
    "anime": "Sword Art Online",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36830-41SWIDvhqOo4.png"
@@ -751,6 +726,31 @@
    "nombre": "Aldebaran",
    "anime": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90178-olaN8k9RJRxo.png"
+  },
+  {
+   "nombre": "Aura Bella Fiora",
+   "anime": "Overlord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89129-2Qrm5TnoKYct.png"
+  },
+  {
+   "nombre": "Lupusregina Beta",
+   "anime": "Overlord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/126870-DKc1B7cvoUu7.jpg"
+  },
+  {
+   "nombre": "Rika Shinozaki",
+   "anime": "Sword Art Online",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b43906-15QwTm2ZFDse.png"
+  },
+  {
+   "nombre": "Daikenja",
+   "anime": "That Time I Got Reincarnated as a Slime Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129347-m1xftx27rHwl.jpg"
+  },
+  {
+   "nombre": "Elsa Granhiert",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90180-YXbXfcSlalav.png"
   }
  ]
 }
