@@ -83,14 +83,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
   },
   {
-   "nombre": "Armin Arlert",
-   "anime": "Attack on Titan",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
-  },
-  {
    "nombre": "Joutarou Kuujou",
    "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png"
+  },
+  {
+   "nombre": "Armin Arlert",
+   "anime": "Attack on Titan",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
   },
   {
    "nombre": "Hange Zoe",
@@ -98,14 +98,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
   },
   {
-   "nombre": "Zenitsu Agatsuma",
-   "anime": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png"
-  },
-  {
    "nombre": "Shinobu Oshino",
    "anime": "Bakemonogatari",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b23602-Z4MDNYcoAWZu.png"
+  },
+  {
+   "nombre": "Zenitsu Agatsuma",
+   "anime": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png"
   },
   {
    "nombre": "Erwin Smith",
@@ -173,14 +173,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png"
   },
   {
-   "nombre": "Yumeko Jabami",
-   "anime": "Kakegurui",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
-  },
-  {
    "nombre": "Jousuke Higashikata",
    "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13085-CkmgXL7SSLxL.jpg"
+  },
+  {
+   "nombre": "Yumeko Jabami",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
   },
   {
    "nombre": "Kenzou Tenma",
@@ -288,14 +288,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png"
   },
   {
-   "nombre": "Legoshi",
-   "anime": "BEASTARS",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125168-cOydxRHEbAYb.png"
-  },
-  {
    "nombre": "Akane Kurokawa",
    "anime": "OSHI NO KO",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b203384-YuSppFDMw2wn.png"
+  },
+  {
+   "nombre": "Legoshi",
+   "anime": "BEASTARS",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125168-cOydxRHEbAYb.png"
   },
   {
    "nombre": "Ai Hoshino",
@@ -538,19 +538,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137222-ojZAO84oI2Hp.png"
   },
   {
-   "nombre": "Guren Ichinose",
-   "anime": "Seraph of the End: Vampire Reign",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88993-YNw36YYleasn.png"
-  },
-  {
    "nombre": "Kei Karuizawa",
    "anime": "Classroom of the Elite Season 2",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b141122-6Zk52eU3VK3O.png"
   },
   {
-   "nombre": "Obanai Iguro",
-   "anime": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg"
+   "nombre": "Guren Ichinose",
+   "anime": "Seraph of the End: Vampire Reign",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88993-YNw36YYleasn.png"
   },
   {
    "nombre": "Meme Oshino",
@@ -561,6 +556,16 @@
    "nombre": "Satoru Fujinuma",
    "anime": "ERASED",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89275-xCGzh6jAGe2v.png"
+  },
+  {
+   "nombre": "Obanai Iguro",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg"
+  },
+  {
+   "nombre": "Bondrewd",
+   "anime": "Made in Abyss",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg"
   },
   {
    "nombre": "Celty Sturluson",
@@ -576,11 +581,6 @@
    "nombre": "Okuyasu Nijimura",
    "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n28991-IYMZXahuCel5.png"
-  },
-  {
-   "nombre": "Bondrewd",
-   "anime": "Made in Abyss",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg"
   },
   {
    "nombre": "Sanemi Shinazugawa",

@@ -298,14 +298,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84063-lwuOWMuDZOtc.jpg"
   },
   {
-   "nombre": "Kaname Chidori",
-   "anime": "Full Metal Panic!",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b272-PAyS6eeHE4v9.png"
-  },
-  {
    "nombre": "Shuu Ouma",
    "anime": "Guilty Crown",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b43278-qtyFTwAaLiLb.jpg"
+  },
+  {
+   "nombre": "Kaname Chidori",
+   "anime": "Full Metal Panic!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b272-PAyS6eeHE4v9.png"
   },
   {
    "nombre": "Laura Bodewig",
@@ -378,11 +378,6 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89235-M9QkD8sxB4Hm.jpg"
   },
   {
-   "nombre": "Kotetsu Kaburagi",
-   "anime": "Tiger & Bunny",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40851-BChYgBB31gyx.png"
-  },
-  {
    "nombre": "Lloyd Asplund",
    "anime": "Code Geass: Lelouch of the Rebellion R2",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1130-0yBifno91R4e.png"
@@ -391,6 +386,11 @@
    "nombre": "Nunnally Lamperouge",
    "anime": "Code Geass: Lelouch of the Rebellion R2",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1110-TSlN2WkhDJ1T.png"
+  },
+  {
+   "nombre": "Kotetsu Kaburagi",
+   "anime": "Tiger & Bunny",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40851-BChYgBB31gyx.png"
   },
   {
    "nombre": "Atom",
@@ -423,14 +423,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b631-xqEfTlpqQUy3.png"
   },
   {
-   "nombre": "Angelise Ikaruga Misurugi",
-   "anime": "Cross Ange: Rondo of Angel and Dragon",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/88525-5uHEpN5SVtW2.jpg"
-  },
-  {
    "nombre": "Boota",
    "anime": "Gurren Lagann",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/4700.jpg"
+  },
+  {
+   "nombre": "Angelise Ikaruga Misurugi",
+   "anime": "Cross Ange: Rondo of Angel and Dragon",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/88525-5uHEpN5SVtW2.jpg"
   },
   {
    "nombre": "Fido",

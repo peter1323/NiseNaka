@@ -148,14 +148,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13020-ZdiYlNmpRUNS.png"
   },
   {
-   "nombre": "Katsuki Bakugou",
-   "anime": "My Hero Academia Season 3",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
-  },
-  {
    "nombre": "Rem",
    "anime": "Re:ZERO -Starting Life in Another World-",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88575-Ayu8UPDA8NS6.png"
+  },
+  {
+   "nombre": "Katsuki Bakugou",
+   "anime": "My Hero Academia Season 3",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
   },
   {
    "nombre": "Subaru Natsuki",
@@ -193,11 +193,6 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137081-TSrUR3mUJL6r.png"
   },
   {
-   "nombre": "Shouyou Hinata",
-   "anime": "HAIKYU!!",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
-  },
-  {
    "nombre": "Zero Two",
    "anime": "DARLING in the FRANXX",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-2gAVq76HPfL2.png"
@@ -211,6 +206,11 @@
    "nombre": "Nezuko Kamado",
    "anime": "Demon Slayer: Kimetsu no Yaiba",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
+  },
+  {
+   "nombre": "Shouyou Hinata",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
   },
   {
    "nombre": "Roy Mustang",
@@ -328,14 +328,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b80491-NK6pxb6oH61P.png"
   },
   {
-   "nombre": "Yuu Nishinoya",
-   "anime": "HAIKYU!!",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
-  },
-  {
    "nombre": "Sakuta Azusagawa",
    "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png"
+  },
+  {
+   "nombre": "Yuu Nishinoya",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
   },
   {
    "nombre": "Karma Akabane",
@@ -358,14 +358,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png"
   },
   {
-   "nombre": "Kenma Kozume",
-   "anime": "HAIKYU!!",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
-  },
-  {
    "nombre": "Ray",
    "anime": "The Promised Neverland",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121724-SJTdODjeO7e6.jpg"
+  },
+  {
+   "nombre": "Kenma Kozume",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
   },
   {
    "nombre": "Toge Inumaki",
@@ -388,24 +388,19 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png"
   },
   {
-   "nombre": "Tooru Oikawa",
-   "anime": "HAIKYU!!",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
-  },
-  {
    "nombre": "Kaori Miyazono",
    "anime": "Your lie in April",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png"
   },
   {
+   "nombre": "Tooru Oikawa",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
+  },
+  {
    "nombre": "Ace Portgas",
    "anime": "ONE PIECE",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2072-Lc6jEdsueJUK.jpg"
-  },
-  {
-   "nombre": "Yumeko Jabami",
-   "anime": "Kakegurui",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
   },
   {
    "nombre": "Fern",
@@ -416,6 +411,11 @@
    "nombre": "Chopper Tony Tony",
    "anime": "ONE PIECE",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg"
+  },
+  {
+   "nombre": "Yumeko Jabami",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
   },
   {
    "nombre": "Shouta Aizawa",
@@ -453,14 +453,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg"
   },
   {
-   "nombre": "Kei Tsukishima",
-   "anime": "HAIKYU!!",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67329-k7mDdqQ6rJ4w.png"
-  },
-  {
    "nombre": "Tengen Uzui",
    "anime": "Demon Slayer: Kimetsu no Yaiba",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136071-99Kexnnn2PiV.png"
+  },
+  {
+   "nombre": "Kei Tsukishima",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67329-k7mDdqQ6rJ4w.png"
   },
   {
    "nombre": "Reiner Braun",
@@ -533,11 +533,6 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png"
   },
   {
-   "nombre": "Tetsurou Kuroo",
-   "anime": "HAIKYU!!",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71269-pi9vjyxKPFAu.jpg"
-  },
-  {
    "nombre": "Benimaru Shinmon",
    "anime": "Fire Force",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b130848-AuuIm6GR8ody.jpg"
@@ -546,6 +541,11 @@
    "nombre": "Jiraiya",
    "anime": "Naruto",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2423-RO5MyoXSA9OL.png"
+  },
+  {
+   "nombre": "Tetsurou Kuroo",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71269-pi9vjyxKPFAu.jpg"
   },
   {
    "nombre": "Esdeath",
@@ -558,14 +558,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-R2WJlNuj3aEs.jpg"
   },
   {
-   "nombre": "Chousou",
-   "anime": "JUJUTSU KAISEN Season 2",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157116-2jYQf3y8NeTZ.png"
-  },
-  {
    "nombre": "Minato Namikaze",
    "anime": "Naruto: Shippuden",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2535-Xq9WKNPJQEt3.png"
+  },
+  {
+   "nombre": "Chousou",
+   "anime": "JUJUTSU KAISEN Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157116-2jYQf3y8NeTZ.png"
   },
   {
    "nombre": "Jean Kirstein",
@@ -578,14 +578,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125619-iQxQoGHJvjRJ.png"
   },
   {
-   "nombre": "Stark",
-   "anime": "Frieren: Beyond Journey’s End",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
-  },
-  {
    "nombre": "Hinata Hyuuga",
    "anime": "Naruto",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1555-Q41GLTV3FvYF.png"
+  },
+  {
+   "nombre": "Stark",
+   "anime": "Frieren: Beyond Journey’s End",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
   },
   {
    "nombre": "Iris",
@@ -618,9 +618,9 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/88951-bRm610RrrXp9.jpg"
   },
   {
-   "nombre": "Koushi Sugawara",
-   "anime": "HAIKYU!!",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67321-cxP7NdI0JC3H.png"
+   "nombre": "Pain",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3180-ITMGBLWNBOgV.png"
   },
   {
    "nombre": "Ochako Uraraka",
@@ -628,9 +628,9 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89221-gSF2a4gPbG4m.png"
   },
   {
-   "nombre": "Pain",
-   "anime": "Naruto: Shippuden",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3180-ITMGBLWNBOgV.png"
+   "nombre": "Koushi Sugawara",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67321-cxP7NdI0JC3H.png"
   },
   {
    "nombre": "Dabi",
@@ -673,14 +673,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n130715-IYNBAHBQa14y.png"
   },
   {
-   "nombre": "Annie Leonhart",
-   "anime": "Attack on Titan Season 2",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg"
-  },
-  {
    "nombre": "Madara Uchiha",
    "anime": "Naruto: Shippuden",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b53901-HnRKSoHMG5Vg.png"
+  },
+  {
+   "nombre": "Annie Leonhart",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg"
   },
   {
    "nombre": "Kousei Arima",

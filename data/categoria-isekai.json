@@ -178,14 +178,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1081-xLTqHfLL2I2W.png"
   },
   {
-   "nombre": "Lucy Heartfilia",
-   "anime": "Fairy Tail",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
-  },
-  {
    "nombre": "Sylphiette",
    "anime": "Mushoku Tensei: Jobless Reincarnation",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png"
+  },
+  {
+   "nombre": "Lucy Heartfilia",
+   "anime": "Fairy Tail",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
   },
   {
    "nombre": "Grimmjow Jaegerjaquez",
@@ -303,14 +303,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70899-TwMq5mtH5ifc.jpg"
   },
   {
-   "nombre": "Satan Jacob",
-   "anime": "The Devil is a Part-Timer!",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
-  },
-  {
    "nombre": "Otto Suwen",
    "anime": "Re:ZERO -Starting Life in Another World-",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124110-Gfr3IYI6FwqE.jpg"
+  },
+  {
+   "nombre": "Satan Jacob",
+   "anime": "The Devil is a Part-Timer!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
   },
   {
    "nombre": "Veldora Tempest",
@@ -363,14 +363,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png"
   },
   {
-   "nombre": "Kaonashi",
-   "anime": "Spirited Away",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-ATUVKng0oyHR.png"
-  },
-  {
    "nombre": "Ruijerd Superdia",
    "anime": "Mushoku Tensei: Jobless Reincarnation",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png"
+  },
+  {
+   "nombre": "Kaonashi",
+   "anime": "Spirited Away",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-ATUVKng0oyHR.png"
   },
   {
    "nombre": "Elma",
@@ -478,14 +478,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n81369-0vKZMoOH3NZT.jpg"
   },
   {
-   "nombre": "Neiru Aonuma",
-   "anime": "WONDER EGG PRIORITY",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199893-KpWnNBLyKHaw.png"
-  },
-  {
    "nombre": "Beta",
    "anime": "The Eminence in Shadow",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162247-R6OrAuT1FwL4.png"
+  },
+  {
+   "nombre": "Neiru Aonuma",
+   "anime": "WONDER EGG PRIORITY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199893-KpWnNBLyKHaw.png"
   },
   {
    "nombre": "Ranga",
@@ -518,6 +518,11 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg"
   },
   {
+   "nombre": "Julius Euclius",
+   "anime": "Re:ZERO -Starting Life in Another World- Season 3",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90183-LWx59kSa5Vjl.png"
+  },
+  {
    "nombre": "Mio",
    "anime": "TSUKIMICHI -Moonlit Fantasy-",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138139-RyExQ4tdSsLG.png"
@@ -531,11 +536,6 @@
    "nombre": "Yuzuru Otonashi",
    "anime": "Angel Beats!",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg"
-  },
-  {
-   "nombre": "Julius Euclius",
-   "anime": "Re:ZERO -Starting Life in Another World- Season 3",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90183-LWx59kSa5Vjl.png"
   },
   {
    "nombre": "Rem Galleu",
@@ -578,14 +578,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157691-TY88sUXtm1Br.png"
   },
   {
-   "nombre": "Lucifer",
-   "anime": "The Devil is a Part-Timer!",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
-  },
-  {
    "nombre": "Hideki Hinata",
    "anime": "Angel Beats!",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b24503-aMw9BnXmEVrP.png"
+  },
+  {
+   "nombre": "Lucifer",
+   "anime": "The Devil is a Part-Timer!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
   },
   {
    "nombre": "Orsted",
@@ -608,14 +608,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90186-yr2PT4gI2qa3.png"
   },
   {
-   "nombre": "Chomusuke",
-   "anime": "KONOSUBA -God's blessing on this wonderful world! 2",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120654-9yWTm8QyQy0O.jpg"
-  },
-  {
    "nombre": "Alciel",
    "anime": "The Devil is a Part-Timer!",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
+  },
+  {
+   "nombre": "Chomusuke",
+   "anime": "KONOSUBA -God's blessing on this wonderful world! 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120654-9yWTm8QyQy0O.jpg"
   },
   {
    "nombre": "Luminous Valentine",
@@ -653,14 +653,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b132852-BDazhNHpH8ZA.png"
   },
   {
-   "nombre": "Diablo",
-   "anime": "How NOT to Summon a Demon Lord",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126793-vBdTPhopqVB1.png"
-  },
-  {
    "nombre": "Viktoriya Serebryakov",
    "anime": "Saga of Tanya the Evil",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121057-xoaUSV1sO1CM.jpg"
+  },
+  {
+   "nombre": "Diablo",
+   "anime": "How NOT to Summon a Demon Lord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126793-vBdTPhopqVB1.png"
   },
   {
    "nombre": "Shera L Greenwood",
@@ -698,14 +698,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120658-SJ9YrXEluqaX.jpg"
   },
   {
-   "nombre": "Chiho Sasaki",
-   "anime": "The Devil is a Part-Timer!",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
-  },
-  {
    "nombre": "Aisha Greyrat",
    "anime": "Mushoku Tensei: Jobless Reincarnation Cour 2",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145459-qCq1vKZtxkT3.png"
+  },
+  {
+   "nombre": "Chiho Sasaki",
+   "anime": "The Devil is a Part-Timer!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
   },
   {
    "nombre": "Aurora",

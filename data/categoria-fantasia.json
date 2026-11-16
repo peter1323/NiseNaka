@@ -313,14 +313,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1662-4E5J0LX9jZKZ.png"
   },
   {
-   "nombre": "Ban",
-   "anime": "The Seven Deadly Sins",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
-  },
-  {
    "nombre": "Gilgamesh",
    "anime": "Fate/Zero",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png"
+  },
+  {
+   "nombre": "Ban",
+   "anime": "The Seven Deadly Sins",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
   },
   {
    "nombre": "Eris Boreas Greyrat",
@@ -336,6 +336,11 @@
    "nombre": "Erza Scarlet",
    "anime": "Fairy Tail",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
+  },
+  {
+   "nombre": "Cid Kagenou",
+   "anime": "The Eminence in Shadow",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136837-3WR22FYet8Hv.jpg"
   },
   {
    "nombre": "Akame",
@@ -398,14 +403,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122445-5uDu8wMy8Jxi.png"
   },
   {
-   "nombre": "Stark",
-   "anime": "Frieren: Beyond Journey’s End",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
-  },
-  {
    "nombre": "Hinata Hyuuga",
    "anime": "Naruto",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1555-Q41GLTV3FvYF.png"
+  },
+  {
+   "nombre": "Stark",
+   "anime": "Frieren: Beyond Journey’s End",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
   },
   {
    "nombre": "Darkness",
@@ -513,14 +518,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87287-cBUVUJNbvfvT.png"
   },
   {
-   "nombre": "Annie Leonhart",
-   "anime": "Attack on Titan Season 2",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg"
-  },
-  {
    "nombre": "Madara Uchiha",
    "anime": "Naruto: Shippuden",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b53901-HnRKSoHMG5Vg.png"
+  },
+  {
+   "nombre": "Annie Leonhart",
+   "anime": "Attack on Titan Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg"
   },
   {
    "nombre": "Aguero Agnis Khun",
@@ -558,9 +563,9 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
   },
   {
-   "nombre": "Feitan Portor",
-   "anime": "Hunter x Hunter (2011)",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/3195.jpg"
+   "nombre": "Sylphiette",
+   "anime": "Mushoku Tensei: Jobless Reincarnation",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png"
   },
   {
    "nombre": "Lucy Heartfilia",
@@ -568,9 +573,9 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
   },
   {
-   "nombre": "Sylphiette",
-   "anime": "Mushoku Tensei: Jobless Reincarnation",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png"
+   "nombre": "Feitan Portor",
+   "anime": "Hunter x Hunter (2011)",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/3195.jpg"
   },
   {
    "nombre": "Ram",
@@ -703,11 +708,6 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png"
   },
   {
-   "nombre": "Obanai Iguro",
-   "anime": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg"
-  },
-  {
    "nombre": "Haku",
    "anime": "Spirited Away",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b385-pKGCy3oYWxRa.png"
@@ -718,14 +718,19 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png"
   },
   {
-   "nombre": "Kobayashi",
-   "anime": "Miss Kobayashi's Dragon Maid",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120969-dHJBVb3lB8iN.png"
+   "nombre": "Obanai Iguro",
+   "anime": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg"
   },
   {
    "nombre": "Bondrewd",
    "anime": "Made in Abyss",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg"
+  },
+  {
+   "nombre": "Kobayashi",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120969-dHJBVb3lB8iN.png"
   },
   {
    "nombre": "Maes Hughes",
@@ -746,11 +751,6 @@
    "nombre": "Black☆Star",
    "anime": "Soul Eater",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b8464-oKu98OyJ3eZt.png"
-  },
-  {
-   "nombre": "Kyouko Sakura",
-   "anime": "Puella Magi Madoka Magica",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40006-zOwYYimuiO3m.png"
   }
  ]
 }

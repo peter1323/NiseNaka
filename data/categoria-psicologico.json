@@ -283,14 +283,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
   },
   {
-   "nombre": "Legoshi",
-   "anime": "BEASTARS",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125168-cOydxRHEbAYb.png"
-  },
-  {
    "nombre": "Akane Kurokawa",
    "anime": "OSHI NO KO",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b203384-YuSppFDMw2wn.png"
+  },
+  {
+   "nombre": "Legoshi",
+   "anime": "BEASTARS",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125168-cOydxRHEbAYb.png"
   },
   {
    "nombre": "Ai Hoshino",
@@ -323,14 +323,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b183885-HOmw8CqcJdv3.jpg"
   },
   {
-   "nombre": "Emma",
-   "anime": "The Promised Neverland",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121725-LQciVJOjnMVh.png"
-  },
-  {
    "nombre": "David Martinez",
    "anime": "Cyberpunk: Edgerunners",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b284158-z1uGKC3IYVa1.png"
+  },
+  {
+   "nombre": "Emma",
+   "anime": "The Promised Neverland",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121725-LQciVJOjnMVh.png"
   },
   {
    "nombre": "Rebecca",
@@ -428,7 +428,7 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12323-NAoqDYOn2RSo.png"
   },
   {
-   "nombre": "Ryo Asuka",
+   "nombre": "Ryou Asuka",
    "anime": "Devilman Crybaby",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4092-63yxC7cCrWke.png"
   },
@@ -553,14 +553,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126475-EqxsU9P6ajKE.jpg"
   },
   {
-   "nombre": "Midari Ikishima",
-   "anime": "Kakegurui",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
-  },
-  {
    "nombre": "Shorter Wong",
    "anime": "BANANA FISH",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b29577-CAvEPpTeLyLg.png"
+  },
+  {
+   "nombre": "Midari Ikishima",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
   },
   {
    "nombre": "Teruki Hanazawa",
@@ -658,14 +658,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b82037-xvKHWk4AE4df.png"
   },
   {
-   "nombre": "Ayato Kirishima",
-   "anime": "Tokyo Ghoul",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88411-dI6vqLy4pvHK.png"
-  },
-  {
    "nombre": "MEM-cho",
    "anime": "OSHI NO KO",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b205434-AuBcR4M05f6s.png"
+  },
+  {
+   "nombre": "Ayato Kirishima",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88411-dI6vqLy4pvHK.png"
   },
   {
    "nombre": "Honami Ichinose",
@@ -703,14 +703,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124691-S9GyfwMAkkJ9.jpg"
   },
   {
-   "nombre": "Gugu",
-   "anime": "To Your Eternity",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136554-qySbbPp9nunx.jpg"
-  },
-  {
    "nombre": "Felix Argyle",
    "anime": "Re:ZERO -Starting Life in Another World-",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90184-o1ZFF6osCZX7.png"
+  },
+  {
+   "nombre": "Gugu",
+   "anime": "To Your Eternity",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136554-qySbbPp9nunx.jpg"
   },
   {
    "nombre": "Nimura Furuta",
@@ -733,19 +733,19 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88407-YwE6D75Xskxl.png"
   },
   {
-   "nombre": "Ririka Momobami",
-   "anime": "Kakegurui",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122777-pdh3z3WbnvlL.png"
-  },
-  {
    "nombre": "Isabella",
    "anime": "The Promised Neverland",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121701-hP5hanKRUH9u.png"
   },
   {
-   "nombre": "Runa Yomozuki",
+   "nombre": "Ririka Momobami",
    "anime": "Kakegurui",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/122698-8UvXcLs1LGYY.jpg"
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122777-pdh3z3WbnvlL.png"
+  },
+  {
+   "nombre": "Hinami Fueguchi",
+   "anime": "Tokyo Ghoul √A",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88293-4J36uyflNWvb.png"
   },
   {
    "nombre": "Ritsu Kageyama",

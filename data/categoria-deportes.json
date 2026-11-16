@@ -93,14 +93,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b310-3GLKM2I3EiRf.png"
   },
   {
-   "nombre": "Ryuunosuke Tanaka",
-   "anime": "HAIKYU!! 2nd Season",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67325-yPkbZJkofp5w.jpg"
-  },
-  {
    "nombre": "Daiki Aomine",
    "anime": "Kuroko's Basketball",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36820-bW2c6TbIqgKO.jpg"
+  },
+  {
+   "nombre": "Ryuunosuke Tanaka",
+   "anime": "HAIKYU!! 2nd Season",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67325-yPkbZJkofp5w.jpg"
   },
   {
    "nombre": "Chisa Kotegawa",
@@ -113,14 +113,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-1SOeKdgkjBef.png"
   },
   {
-   "nombre": "Victor Nikiforov",
-   "anime": "Yuri!!! on ICE",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90225-5NweNvd4YiDr.png"
-  },
-  {
    "nombre": "Ippo Makunouchi",
    "anime": "Hajime no Ippo: The Fighting!",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b15-AAj73hDX9bor.jpg"
+  },
+  {
+   "nombre": "Victor Nikiforov",
+   "anime": "Yuri!!! on ICE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90225-5NweNvd4YiDr.png"
   },
   {
    "nombre": "Rin Matsuoka",
@@ -128,14 +128,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b83019-wCHpG1RDVVNC.png"
   },
   {
-   "nombre": "Yuuri Plisetsky",
-   "anime": "Yuri!!! on ICE",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90224-sSpYZe1avAKW.jpg"
-  },
-  {
    "nombre": "Iori Kitahara",
    "anime": "Grand Blue Dreaming",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123182-tuQ2yf5IEx02.jpg"
+  },
+  {
+   "nombre": "Yuuri Plisetsky",
+   "anime": "Yuri!!! on ICE",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90224-sSpYZe1avAKW.jpg"
   },
   {
    "nombre": "Keiji Akaashi",
@@ -148,14 +148,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b845-yzHSqt8WpnO5.png"
   },
   {
-   "nombre": "Atsumu Miya",
-   "anime": "HAIKYU!! TO THE TOP",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b139486-pc8YX5srjNy4.png"
-  },
-  {
    "nombre": "Diego Brando",
    "anime": "STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b20148-mVGqsVJ2t27v.png"
+  },
+  {
+   "nombre": "Atsumu Miya",
+   "anime": "HAIKYU!! TO THE TOP",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b139486-pc8YX5srjNy4.png"
   },
   {
    "nombre": "Satori Tendou",
@@ -163,14 +163,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126073-iGqIQigXLkge.png"
   },
   {
-   "nombre": "Miya Chinen",
-   "anime": "SK8 the Infinity",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b195121-FehldtuXxYXh.png"
-  },
-  {
    "nombre": "Oguri Cap",
    "anime": "Umamusume: Pretty Derby",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b96114-uqnjPK9012rB.png"
+  },
+  {
+   "nombre": "Miya Chinen",
+   "anime": "SK8 the Infinity",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b195121-FehldtuXxYXh.png"
   },
   {
    "nombre": "Seijuurou Akashi",
@@ -188,11 +188,6 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b195118-Q2toyBV5TqOO.png"
   },
   {
-   "nombre": "Tadashi Yamaguchi",
-   "anime": "HAIKYU!! 2nd Season",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71609-5Ht0aqB34eEa.png"
-  },
-  {
    "nombre": "Ryouta Kise",
    "anime": "Kuroko's Basketball",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b21332-aPRs1Xq7ZHoV.jpg"
@@ -201,6 +196,11 @@
    "nombre": "Takumi Fujiwara",
    "anime": "Initial D 1st Stage",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2819-FaPLslMytO9p.png"
+  },
+  {
+   "nombre": "Tadashi Yamaguchi",
+   "anime": "HAIKYU!! 2nd Season",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b71609-5Ht0aqB34eEa.png"
   },
   {
    "nombre": "Haruka Nanase",
@@ -273,14 +273,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b20326-OgUY6upSqUv3.jpg"
   },
   {
-   "nombre": "Keishin Ukai",
-   "anime": "HAIKYU!! 2nd Season",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70861-mW9IE5G9Ov8J.jpg"
-  },
-  {
    "nombre": "Taichi Mashima",
    "anime": "Chihayafuru",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b47167-YVdJ5jYLKSbj.png"
+  },
+  {
+   "nombre": "Keishin Ukai",
+   "anime": "HAIKYU!! 2nd Season",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70861-mW9IE5G9Ov8J.jpg"
   },
   {
    "nombre": "Kouhei Imamura",
@@ -508,14 +508,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b62945-X9Y608pYoTZK.png"
   },
   {
-   "nombre": "Saeko Tanaka",
-   "anime": "HAIKYU!! 3rd Season",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/90142-VAiRfafRcLYN.jpg"
-  },
-  {
    "nombre": "Hana Ichijou",
    "anime": "Aoashi",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b162035-goi3gRhYZErH.jpg"
+  },
+  {
+   "nombre": "Saeko Tanaka",
+   "anime": "HAIKYU!! 3rd Season",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/90142-VAiRfafRcLYN.jpg"
   },
   {
    "nombre": "Tamamo Cross",
@@ -528,14 +528,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10446-D1EvOLDWrSko.jpg"
   },
   {
-   "nombre": "Maki Katsuragi",
-   "anime": "Stars Align",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b132304-3gka73JUiph6.png"
-  },
-  {
    "nombre": "Satsuki Momoi",
    "anime": "Kuroko's Basketball",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36821-8vtlTiKYRNVz.jpg"
+  },
+  {
+   "nombre": "Maki Katsuragi",
+   "anime": "Stars Align",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b132304-3gka73JUiph6.png"
   },
   {
    "nombre": "Lucy Steel",
@@ -573,14 +573,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b45975-zylmDribWTAi.png"
   },
   {
-   "nombre": "Kisumi  Shigino",
-   "anime": "Free! -Eternal Summer-",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88489-MBmQa3emPr07.jpg"
-  },
-  {
    "nombre": "Shinobu Wakamiya",
    "anime": "Chihayafuru",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b54963-GDcdo1GZ79YV.jpg"
+  },
+  {
+   "nombre": "Kisumi  Shigino",
+   "anime": "Free! -Eternal Summer-",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88489-MBmQa3emPr07.jpg"
   },
   {
    "nombre": "Makkachin",
@@ -608,9 +608,9 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b169404-90OF8t2ukD9H.jpg"
   },
   {
-   "nombre": "Morisuke Yaku",
-   "anime": "HAIKYU!! LAND VS. AIR",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b74033-pevzERaxK8hB.png"
+   "nombre": "Keisuke Takahashi",
+   "anime": "Initial D 1st Stage",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2822-HsgCNP5rMXHU.png"
   },
   {
    "nombre": "Kazunari Takao",
@@ -618,9 +618,9 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b53563-6ZzDEnRCQQTR.jpg"
   },
   {
-   "nombre": "Keisuke Takahashi",
-   "anime": "Initial D 1st Stage",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2822-HsgCNP5rMXHU.png"
+   "nombre": "Morisuke Yaku",
+   "anime": "HAIKYU!! LAND VS. AIR",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b74033-pevzERaxK8hB.png"
   },
   {
    "nombre": "Ittetsu Takeda",
@@ -628,24 +628,19 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n73679-OS9fOsMjSJua.png"
   },
   {
-   "nombre": "Sakurako Busujima",
-   "anime": "Grand Blue Dreaming Season 2",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157207-W4FWkSYmnG7z.png"
-  },
-  {
    "nombre": "Kyou Kasahara",
    "anime": "Blue Box",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b218647-A2ngPlh7Yucn.png"
   },
   {
+   "nombre": "Sakurako Busujima",
+   "anime": "Grand Blue Dreaming Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157207-W4FWkSYmnG7z.png"
+  },
+  {
    "nombre": "Arata Wataya",
    "anime": "Chihayafuru",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b47165-722YcHeGJdUO.png"
-  },
-  {
-   "nombre": "Eita Semi",
-   "anime": "HAIKYU!! 3rd Season",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137535-VpffRHdhc1Mg.png"
   },
   {
    "nombre": "Naruzou Machio",
@@ -656,6 +651,11 @@
    "nombre": "Chinatsu Hiyama",
    "anime": "Welcome to the Ballroom",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121254-rdQkUGJ8DWHn.png"
+  },
+  {
+   "nombre": "Eita Semi",
+   "anime": "HAIKYU!! 3rd Season",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137535-VpffRHdhc1Mg.png"
   },
   {
    "nombre": "Gou Matsuoka",
@@ -683,14 +683,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4110-DpRhFgHxH3YQ.png"
   },
   {
-   "nombre": "Chiyomi Anzai",
-   "anime": "Girls und Panzer",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72661-dUmCzPlazRsD.png"
-  },
-  {
    "nombre": "Hiroto Kiyama",
    "anime": "Inazuma Eleven",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b31943-6l9496U8O08O.png"
+  },
+  {
+   "nombre": "Chiyomi Anzai",
+   "anime": "Girls und Panzer",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72661-dUmCzPlazRsD.png"
   },
   {
    "nombre": "Kakeru Kurahara",
@@ -718,6 +718,11 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b187546-2PxDNNaVD3OX.png"
   },
   {
+   "nombre": "Ainosuke Shindou",
+   "anime": "SK8 the Infinity",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b195122-sRbKtiUYxVWL.png"
+  },
+  {
    "nombre": "Sonoshee McLaren",
    "anime": "Redline",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/33474-RjixX3cpJQ0b.jpg"
@@ -726,11 +731,6 @@
    "nombre": "Haruichi Kominato",
    "anime": "Ace of the Diamond",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b69295-KjGUCNotOXN6.png"
-  },
-  {
-   "nombre": "Ainosuke Shindou",
-   "anime": "SK8 the Infinity",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b195122-sRbKtiUYxVWL.png"
   },
   {
    "nombre": "Miho Nishizumi",
@@ -743,14 +743,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128729-93C82wnqJzmH.jpg"
   },
   {
-   "nombre": "Tsutomu Goshiki",
-   "anime": "HAIKYU!! The Dumpster Battle",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137534-5xZ2PLMFH76M.png"
-  },
-  {
    "nombre": "Tatara Fujita",
    "anime": "Welcome to the Ballroom",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121253-hcPyHkcvdWH3.jpg"
+  },
+  {
+   "nombre": "Tsutomu Goshiki",
+   "anime": "HAIKYU!! The Dumpster Battle",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137534-5xZ2PLMFH76M.png"
   }
  ]
 }

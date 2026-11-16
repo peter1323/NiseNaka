@@ -313,14 +313,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138794-dZNdO0pvZ659.png"
   },
   {
-   "nombre": "Jin-Cheol U",
-   "anime": "Solo Leveling: Ragnarok",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136819-okbPuuFAefYX.png"
-  },
-  {
    "nombre": "Felix Robane",
    "anime": "Who Made Me a Princess",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b143631-q4scGCgW1eLm.png"
+  },
+  {
+   "nombre": "Jin-Cheol U",
+   "anime": "Solo Leveling: Ragnarok",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136819-okbPuuFAefYX.png"
   },
   {
    "nombre": "Sang-A Yu",
@@ -366,6 +366,11 @@
    "nombre": "Il-Hwan Seong",
    "anime": "Solo Leveling: Ragnarok",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138790-i3DFMscWID9D.jpg"
+  },
+  {
+   "nombre": "Anastasia Zelenska",
+   "anime": "SSS-Class Revival Hunter",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b211824-wjpyFkQU64BZ.png"
   }
  ]
 }
