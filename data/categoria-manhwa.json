@@ -203,14 +203,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b48753-li5DHzOcqkuT.jpg"
   },
   {
-   "nombre": "Jae-Yeol Hong",
-   "anime": "Lookism",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b140381-nbphgP8PnenT.png"
-  },
-  {
    "nombre": "Javier Asrahan",
    "anime": "The Greatest Estate Developer",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b269320-1xcSV3Ozya6l.png"
+  },
+  {
+   "nombre": "Jae-Yeol Hong",
+   "anime": "Lookism",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b140381-nbphgP8PnenT.png"
   },
   {
    "nombre": "Alicia Magentano",
@@ -218,14 +218,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b269322-6OqlC7IaVfWN.png"
   },
   {
-   "nombre": "Hyung-Suk Park",
-   "anime": "Lookism",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b140380-tjsV0mcDviFy.png"
-  },
-  {
    "nombre": "Uriel",
    "anime": "Omniscient Reader",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b187671-VHdLqYhm0nIp.jpg"
+  },
+  {
+   "nombre": "Hyung-Suk Park",
+   "anime": "Lookism",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b140380-tjsV0mcDviFy.png"
   },
   {
    "nombre": "Adam  Taylor",
@@ -248,7 +248,7 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127415-iNPETf5ihn9j.jpg"
   },
   {
-   "nombre": "Jin Seon",
+   "nombre": "U-Jin Seon",
    "anime": "Bastard",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126821-WcuV5GMptoO4.jpg"
   },
@@ -268,14 +268,19 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137948-NYeFyFDeIoHd.png"
   },
   {
-   "nombre": "Jin-Ho Yu",
+   "nombre": "Geon-Hui Go",
    "anime": "Solo Leveling",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136076-D7eiE3pA9U8g.jpg"
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b138792-TXFrDA1wpbmo.png"
   },
   {
    "nombre": "Geu Sonyeon",
    "anime": "The Horizon",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b184330-Iz1UIX3ytdZL.jpg"
+  },
+  {
+   "nombre": "Jin-Ho Yu",
+   "anime": "Solo Leveling: Ragnarok",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b136076-D7eiE3pA9U8g.jpg"
   },
   {
    "nombre": "Han-Nam Kang",
@@ -371,6 +376,11 @@
    "nombre": "Anastasia Zelenska",
    "anime": "SSS-Class Revival Hunter",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b211824-wjpyFkQU64BZ.png"
+  },
+  {
+   "nombre": "Yslat Han",
+   "anime": "Pick Me Up",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b298546-D3iI1dihDjs3.jpg"
   }
  ]
 }

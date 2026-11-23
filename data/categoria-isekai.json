@@ -388,14 +388,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b24515-4v85Z9CqCe0Y.png"
   },
   {
-   "nombre": "Quetzalcoatl",
-   "anime": "Miss Kobayashi's Dragon Maid",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120975-oOyfRbMSpSpy.png"
-  },
-  {
    "nombre": "Schwi Dola",
    "anime": "No Game, No Life Zero",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b123690-dqDSiX7eEypZ.png"
+  },
+  {
+   "nombre": "Quetzalcoatl",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120975-oOyfRbMSpSpy.png"
   },
   {
    "nombre": "Felix Argyle",
@@ -418,14 +418,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b16893-l9HhHQ8j09H5.jpg"
   },
   {
-   "nombre": "Momoe Sawaki",
-   "anime": "WONDER EGG PRIORITY",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199891-YNqLCCE8VAHW.png"
-  },
-  {
    "nombre": "Garfiel Tinsel",
    "anime": "Re:ZERO -Starting Life in Another World- Season 2",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133847-8I2Pjoz232vS.png"
+  },
+  {
+   "nombre": "Momoe Sawaki",
+   "anime": "WONDER EGG PRIORITY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199891-YNqLCCE8VAHW.png"
   },
   {
    "nombre": "Arche Eeb Rile Furt",
@@ -453,14 +453,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png"
   },
   {
-   "nombre": "Souei",
-   "anime": "That Time I Got Reincarnated as a Slime Season 2",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128039-cce4njbCcb2M.png"
-  },
-  {
    "nombre": "Emilia Justina",
    "anime": "The Devil is a Part-Timer!",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
+  },
+  {
+   "nombre": "Souei",
+   "anime": "That Time I Got Reincarnated as a Slime Season 2",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128039-cce4njbCcb2M.png"
   },
   {
    "nombre": "Puck",
@@ -468,14 +468,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90187-xJXlD84KXl3t.jpg"
   },
   {
-   "nombre": "Shiroe",
-   "anime": "Log Horizon",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b81367-nE2CB4jLVPeu.png"
-  },
-  {
    "nombre": "Akatsuki",
    "anime": "Log Horizon",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n81369-0vKZMoOH3NZT.jpg"
+  },
+  {
+   "nombre": "Shiroe",
+   "anime": "Log Horizon",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b81367-nE2CB4jLVPeu.png"
   },
   {
    "nombre": "Beta",
@@ -653,9 +653,9 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b132852-BDazhNHpH8ZA.png"
   },
   {
-   "nombre": "Viktoriya Serebryakov",
-   "anime": "Saga of Tanya the Evil",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121057-xoaUSV1sO1CM.jpg"
+   "nombre": "Shera L Greenwood",
+   "anime": "How NOT to Summon a Demon Lord",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126791-9AfKK44xRloo.png"
   },
   {
    "nombre": "Diablo",
@@ -663,9 +663,9 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126793-vBdTPhopqVB1.png"
   },
   {
-   "nombre": "Shera L Greenwood",
-   "anime": "How NOT to Summon a Demon Lord",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126791-9AfKK44xRloo.png"
+   "nombre": "Viktoriya Serebryakov",
+   "anime": "Saga of Tanya the Evil",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121057-xoaUSV1sO1CM.jpg"
   },
   {
    "nombre": "Gobta",
@@ -738,14 +738,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/126870-DKc1B7cvoUu7.jpg"
   },
   {
-   "nombre": "Rika Shinozaki",
-   "anime": "Sword Art Online",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b43906-15QwTm2ZFDse.png"
-  },
-  {
    "nombre": "Daikenja",
    "anime": "That Time I Got Reincarnated as a Slime Season 2",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b129347-m1xftx27rHwl.jpg"
+  },
+  {
+   "nombre": "Rika Shinozaki",
+   "anime": "Sword Art Online",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b43906-15QwTm2ZFDse.png"
   },
   {
    "nombre": "Elsa Granhiert",

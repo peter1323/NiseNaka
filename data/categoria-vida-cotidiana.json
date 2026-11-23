@@ -283,14 +283,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b266041-1HKgjJGP2MmM.png"
   },
   {
-   "nombre": "Naoka Ueno",
-   "anime": "A Silent Voice",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/124026-KcQmX7heg7im.jpg"
-  },
-  {
    "nombre": "Tsumugi Kotobuki",
    "anime": "K-ON!",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b19568-pF5UBfB6U8G2.png"
+  },
+  {
+   "nombre": "Naoka Ueno",
+   "anime": "A Silent Voice",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/124026-KcQmX7heg7im.jpg"
   },
   {
    "nombre": "Chitoge Kirisaki",
@@ -453,14 +453,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
   },
   {
-   "nombre": "Riki Nendou",
-   "anime": "The Disastrous Life of Saiki K.",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90108-BJYQbUaMLS7G.png"
-  },
-  {
    "nombre": "Nanami Aoyama",
    "anime": "The Pet Girl of Sakurasou",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b64167-qMxw0Sijwc18.png"
+  },
+  {
+   "nombre": "Riki Nendou",
+   "anime": "The Disastrous Life of Saiki K.",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b90108-BJYQbUaMLS7G.png"
   },
   {
    "nombre": "Ami Kawashima",
@@ -523,19 +523,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b376-N55Tx44kdB42.jpg"
   },
   {
-   "nombre": "Yuuko Aioi",
-   "anime": "Nichijou - My Ordinary Life",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10418-nDUxYpR4dpmA.png"
+   "nombre": "Elma",
+   "anime": "Miss Kobayashi's Dragon Maid",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120977-x50lrAuIAsHE.png"
   },
   {
    "nombre": "Shigure Souma",
    "anime": "Fruits Basket (2019)",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b206-4HokrxTIqu7L.jpg"
-  },
-  {
-   "nombre": "Elma",
-   "anime": "Miss Kobayashi's Dragon Maid",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120977-x50lrAuIAsHE.png"
   },
   {
    "nombre": "Mitsukuni Haninozuka",
@@ -608,19 +603,9 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127116-u2fIKMSYDdVj.png"
   },
   {
-   "nombre": "Sakamoto",
-   "anime": "Nichijou - My Ordinary Life",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b41069-x6vyw7EIn1ET.png"
-  },
-  {
    "nombre": "Ritsu Kageyama",
    "anime": "Mob Psycho 100",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89618-iSTUyCdu1yZ8.png"
-  },
-  {
-   "nombre": "Mio Naganohara",
-   "anime": "Nichijou - My Ordinary Life",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40081-dGRecovyuQMo.png"
   },
   {
    "nombre": "Nasa Yuzaki",
@@ -638,9 +623,9 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89726-NS2ZmYjp1Mnr.jpg"
   },
   {
-   "nombre": "Nano Shinonome",
-   "anime": "Nichijou - My Ordinary Life",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10422-sNVCjkRg7lOd.png"
+   "nombre": "Fuuko Ibuki",
+   "anime": "Clannad",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4601-ndvzx7vVREJU.jpg"
   },
   {
    "nombre": "Seishirou Tsugumi",
@@ -648,9 +633,9 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b58885-w07G5SNbFBBW.png"
   },
   {
-   "nombre": "Fuuko Ibuki",
-   "anime": "Clannad",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4601-ndvzx7vVREJU.jpg"
+   "nombre": "Tooru Ishikawa",
+   "anime": "Horimiya",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66961-VZV5IwKUwYfp.png"
   },
   {
    "nombre": "Yuuta Togashi",
@@ -658,19 +643,9 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65863-blMgFqD1EnPs.png"
   },
   {
-   "nombre": "Tooru Ishikawa",
-   "anime": "Horimiya",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b66961-VZV5IwKUwYfp.png"
-  },
-  {
    "nombre": "Kyou Fujibayashi",
    "anime": "Clannad",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b4605-a0D3NeVbCz1m.jpg"
-  },
-  {
-   "nombre": "Ayane Yano",
-   "anime": "Kimi ni Todoke: From Me to You",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13533-h57wBVMsdCjo.jpg"
   },
   {
    "nombre": "Emilia Justina",
@@ -678,19 +653,24 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
   },
   {
+   "nombre": "Ayane Yano",
+   "anime": "Kimi ni Todoke: From Me to You",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13533-h57wBVMsdCjo.jpg"
+  },
+  {
    "nombre": "Shizuku Mizutani",
    "anime": "My Little Monster",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b37685-RTNZm8Tb7Sti.jpg"
   },
   {
-   "nombre": "Sanae Dekomori",
-   "anime": "Love, Chunibyo & Other Delusions",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67215-J87mEugyhVRO.png"
-  },
-  {
    "nombre": "Fuutarou Uesugi",
    "anime": "The Quintessential Quintuplets",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b128063-0h9piZcxa2zt.png"
+  },
+  {
+   "nombre": "Sanae Dekomori",
+   "anime": "Love, Chunibyo & Other Delusions",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67215-J87mEugyhVRO.png"
   },
   {
    "nombre": "Benedict Blue",
@@ -733,11 +713,6 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b120971-7XdpFZNKMBuM.png"
   },
   {
-   "nombre": "Mai Minakami",
-   "anime": "Nichijou - My Ordinary Life",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10421-gPMhyPdWOxiu.png"
-  },
-  {
    "nombre": "PA-san",
    "anime": "BOCCHI THE ROCK!",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b289055-khOP70WdXl2V.jpg"
@@ -751,6 +726,31 @@
    "nombre": "Haru",
    "anime": "BEASTARS",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b125169-zxyLpg1BOnU5.jpg"
+  },
+  {
+   "nombre": "Komachi Hikigaya",
+   "anime": "My Teen Romantic Comedy SNAFU",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67075-MYCrPU4NjMXa.png"
+  },
+  {
+   "nombre": "Akira Asai",
+   "anime": "Call of the Night",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b175663-JGx6M5mT9OiT.png"
+  },
+  {
+   "nombre": "Naruko Anjou",
+   "anime": "Anohana: The Flower We Saw That Day",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40593-3N05kRft0s8d.jpg"
+  },
+  {
+   "nombre": "Damian Desmond",
+   "anime": "SPY x FAMILY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b150424-4B4psF6I4dgO.png"
+  },
+  {
+   "nombre": "Jinta Yadomi",
+   "anime": "Anohana: The Flower We Saw That Day",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b40591-PFcHVI98QgnI.jpg"
   }
  ]
 }

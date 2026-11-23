@@ -468,14 +468,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89221-gSF2a4gPbG4m.png"
   },
   {
-   "nombre": "Koushi Sugawara",
-   "anime": "HAIKYU!!",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67321-cxP7NdI0JC3H.png"
-  },
-  {
    "nombre": "Dabi",
    "anime": "My Hero Academia Season 2",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126378-RFSljq5koy5U.png"
+  },
+  {
+   "nombre": "Koushi Sugawara",
+   "anime": "HAIKYU!!",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b67321-cxP7NdI0JC3H.png"
   },
   {
    "nombre": "Tomura Shigaraki",
@@ -483,14 +483,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89226-qGXqFthO4SM3.jpg"
   },
   {
-   "nombre": "Ais Wallenstein",
-   "anime": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-50i1Y554Vs3z.png"
-  },
-  {
    "nombre": "Rock Lee",
    "anime": "Naruto: Shippuden",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b306-oUTOO45xInXt.png"
+  },
+  {
+   "nombre": "Ais Wallenstein",
+   "anime": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-50i1Y554Vs3z.png"
   },
   {
    "nombre": "Rio Futaba",
@@ -748,9 +748,9 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png"
   },
   {
-   "nombre": "Meme Oshino",
-   "anime": "Bakemonogatari",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22552-CZz1T3AjRyVd.png"
+   "nombre": "Sakura Haruno",
+   "anime": "Naruto: Shippuden",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png"
   }
  ]
 }

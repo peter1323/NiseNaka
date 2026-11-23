@@ -73,14 +73,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88575-Ayu8UPDA8NS6.png"
   },
   {
-   "nombre": "Chika Fujiwara",
-   "anime": "Kaguya-sama: Love is War",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
-  },
-  {
    "nombre": "Subaru Natsuki",
    "anime": "Re:ZERO -Starting Life in Another World-",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88573-F8yMTK9GhnTA.png"
+  },
+  {
+   "nombre": "Chika Fujiwara",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
   },
   {
    "nombre": "Ichigo",
@@ -198,24 +198,24 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13580-1J7PwIB8kTpu.png"
   },
   {
-   "nombre": "Miyuki Shirogane",
-   "anime": "Kaguya-sama: Love is War",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121101-Q8HzKP15At2d.png"
-  },
-  {
    "nombre": "Lucy",
    "anime": "Cyberpunk: Edgerunners",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b284157-cqYawN7XCNJx.jpg"
   },
   {
-   "nombre": "Yumeko Jabami",
-   "anime": "Kakegurui",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
+   "nombre": "Miyuki Shirogane",
+   "anime": "Kaguya-sama: Love is War",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121101-Q8HzKP15At2d.png"
   },
   {
    "nombre": "Kenzou Tenma",
    "anime": "Monster",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b718-b6ZZVp822lw0.png"
+  },
+  {
+   "nombre": "Yumeko Jabami",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
   },
   {
    "nombre": "Touka Kirishima",
@@ -553,6 +553,11 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126475-EqxsU9P6ajKE.jpg"
   },
   {
+   "nombre": "Teruki Hanazawa",
+   "anime": "Mob Psycho 100",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png"
+  },
+  {
    "nombre": "Shorter Wong",
    "anime": "BANANA FISH",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b29577-CAvEPpTeLyLg.png"
@@ -561,11 +566,6 @@
    "nombre": "Midari Ikishima",
    "anime": "Kakegurui",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
-  },
-  {
-   "nombre": "Teruki Hanazawa",
-   "anime": "Mob Psycho 100",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png"
   },
   {
    "nombre": "Kirari Momobami",
@@ -678,14 +678,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/65231-2QpM2yw2X86k.png"
   },
   {
-   "nombre": "Twelve",
-   "anime": "Terror in Resonance",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/88096-SljWAMO10C6l.jpg"
-  },
-  {
    "nombre": "Kou Yamori",
    "anime": "Call of the Night",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b168866-zf5bb7rmZpxX.png"
+  },
+  {
+   "nombre": "Twelve",
+   "anime": "Terror in Resonance",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/88096-SljWAMO10C6l.jpg"
   },
   {
    "nombre": "Chelsea",
@@ -718,14 +718,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b126031-3tBpl6tvYwaZ.png"
   },
   {
-   "nombre": "Momoe Sawaki",
-   "anime": "WONDER EGG PRIORITY",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199891-YNqLCCE8VAHW.png"
-  },
-  {
    "nombre": "Garfiel Tinsel",
    "anime": "Re:ZERO -Starting Life in Another World- Season 2",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b133847-8I2Pjoz232vS.png"
+  },
+  {
+   "nombre": "Momoe Sawaki",
+   "anime": "WONDER EGG PRIORITY",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b199891-YNqLCCE8VAHW.png"
   },
   {
    "nombre": "Koutarou Amon",
@@ -743,14 +743,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122777-pdh3z3WbnvlL.png"
   },
   {
-   "nombre": "Hinami Fueguchi",
-   "anime": "Tokyo Ghoul √A",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88293-4J36uyflNWvb.png"
-  },
-  {
    "nombre": "Ritsu Kageyama",
    "anime": "Mob Psycho 100",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89618-iSTUyCdu1yZ8.png"
+  },
+  {
+   "nombre": "Hinami Fueguchi",
+   "anime": "Tokyo Ghoul √A",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88293-4J36uyflNWvb.png"
   }
  ]
 }

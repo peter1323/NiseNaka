@@ -308,14 +308,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b272-PAyS6eeHE4v9.png"
   },
   {
-   "nombre": "Laura Bodewig",
-   "anime": "Infinite Stratos",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b35663-o1ObPNk2cR1d.jpg"
-  },
-  {
    "nombre": "Yuzuru Yamai",
    "anime": "Date A Live III",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b86647-WDP7WlyUoFA6.png"
+  },
+  {
+   "nombre": "Laura Bodewig",
+   "anime": "Infinite Stratos",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b35663-o1ObPNk2cR1d.jpg"
   },
   {
    "nombre": "Euphemia li Britannia",
@@ -328,6 +328,11 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b169411-8gM6Cukk0KGP.jpg"
   },
   {
+   "nombre": "Kaguya Yamai",
+   "anime": "Date A Live III",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b86645-56zr58xGHuCS.png"
+  },
+  {
    "nombre": "Jeremiah Gottwald",
    "anime": "Code Geass: Lelouch of the Rebellion",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1113-HxXUV4z4jhvZ.png"
@@ -338,19 +343,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b152676-NiGb8kgNuHmp.jpg"
   },
   {
-   "nombre": "Kaguya Yamai",
-   "anime": "Date A Live III",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b86645-56zr58xGHuCS.png"
+   "nombre": "Charlotte Dunois",
+   "anime": "Infinite Stratos",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b35662-6B012eUCJfpB.jpg"
   },
   {
    "nombre": "Cornelia li Britannia",
    "anime": "Code Geass: Lelouch of the Rebellion",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b797-lrtrQEESbWVa.jpg"
-  },
-  {
-   "nombre": "Charlotte Dunois",
-   "anime": "Infinite Stratos",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b35662-6B012eUCJfpB.jpg"
   },
   {
    "nombre": "Galo Thymos",
@@ -403,14 +403,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b152673-PXt43BGpEBbU.jpg"
   },
   {
-   "nombre": "Guel Jeturk",
-   "anime": "Mobile Suit Gundam: The Witch from Mercury",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b279506-pZUmhduBLIzf.png"
-  },
-  {
    "nombre": "Reine Murasame",
    "anime": "Date A Live",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b72281-HJZMsFy574SO.png"
+  },
+  {
+   "nombre": "Guel Jeturk",
+   "anime": "Mobile Suit Gundam: The Witch from Mercury",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b279506-pZUmhduBLIzf.png"
   },
   {
    "nombre": "Eureka",

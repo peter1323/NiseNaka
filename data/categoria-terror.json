@@ -248,14 +248,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b157232-5GuWeqoFN9Kq.jpg"
   },
   {
-   "nombre": "Kusuriuri",
-   "anime": "Mononoke",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2865-n2zjwVfgOHZq.jpg"
-  },
-  {
    "nombre": "Kishou Arima",
    "anime": "Tokyo Ghoul",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88946-YbTQAGJAdpoH.jpg"
+  },
+  {
+   "nombre": "Kusuriuri",
+   "anime": "Mononoke",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b2865-n2zjwVfgOHZq.jpg"
   },
   {
    "nombre": "Sniper Kamen",
@@ -308,14 +308,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/64749-a2ZdRWW1D5TR.jpg"
   },
   {
-   "nombre": "Uta",
-   "anime": "Tokyo Ghoul",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg"
-  },
-  {
    "nombre": "Seras Victoria",
    "anime": "Hellsing Ultimate",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b624-qdFGCDB5Zhco.png"
+  },
+  {
+   "nombre": "Uta",
+   "anime": "Tokyo Ghoul",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg"
   },
   {
    "nombre": "Celestia Ludenberg",
@@ -388,14 +388,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b16063-GIoMZpg8cKd6.jpg"
   },
   {
-   "nombre": "Hinami Fueguchi",
-   "anime": "Tokyo Ghoul √A",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88293-4J36uyflNWvb.png"
-  },
-  {
    "nombre": "Mion Sonozaki",
    "anime": "When They Cry",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1611-z9SVkC9loi4y.png"
+  },
+  {
+   "nombre": "Hinami Fueguchi",
+   "anime": "Tokyo Ghoul √A",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b88293-4J36uyflNWvb.png"
   },
   {
    "nombre": "Shizuka Mikazuki",
@@ -748,9 +748,9 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b172074-KyZ7MjpUkz6H.jpg"
   },
   {
-   "nombre": "Satomi Murano",
-   "anime": "Parasyte -the maxim-",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b19436-d9ImDTVNQPKt.jpg"
+   "nombre": "Zodd",
+   "anime": "Berserk",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b600-nLLiWsK0GcVI.png"
   }
  ]
 }

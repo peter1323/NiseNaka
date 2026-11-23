@@ -178,14 +178,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b13085-CkmgXL7SSLxL.jpg"
   },
   {
-   "nombre": "Yumeko Jabami",
-   "anime": "Kakegurui",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
-  },
-  {
    "nombre": "Kenzou Tenma",
    "anime": "Monster",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b718-b6ZZVp822lw0.png"
+  },
+  {
+   "nombre": "Yumeko Jabami",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
   },
   {
    "nombre": "Hanako",
@@ -258,14 +258,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b3096-qCXXA8G0J8rk.png"
   },
   {
-   "nombre": "Giorno Giovanna",
-   "anime": "JoJo's Bizarre Adventure: Golden Wind",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10529-AloL8jjZwjsg.png"
-  },
-  {
    "nombre": "Rohan Kishibe",
    "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b12659-hgT3g7q7oHnU.png"
+  },
+  {
+   "nombre": "Giorno Giovanna",
+   "anime": "JoJo's Bizarre Adventure: Golden Wind",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10529-AloL8jjZwjsg.png"
   },
   {
    "nombre": "Norman",
@@ -333,6 +333,11 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b121725-LQciVJOjnMVh.png"
   },
   {
+   "nombre": "Gabimaru",
+   "anime": "Hell’s Paradise",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137260-xmSis8FmwhEE.png"
+  },
+  {
    "nombre": "Sebastian Michaelis",
    "anime": "Black Butler",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b10863-DsfonbP2CATa.png"
@@ -341,11 +346,6 @@
    "nombre": "Kaworu Nagisa",
    "anime": "Neon Genesis Evangelion",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg"
-  },
-  {
-   "nombre": "Gabimaru",
-   "anime": "Hell’s Paradise",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137260-xmSis8FmwhEE.png"
   },
   {
    "nombre": "Rio Futaba",
@@ -383,14 +383,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg"
   },
   {
-   "nombre": "Aguero Agnis Khun",
-   "anime": "Tower of God",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84781-sNnhOZ1SZ66f.png"
-  },
-  {
    "nombre": "Jinshi",
    "anime": "The Apothecary Diaries",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b127278-0qCQciTkPOMS.jpg"
+  },
+  {
+   "nombre": "Aguero Agnis Khun",
+   "anime": "Tower of God",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b84781-sNnhOZ1SZ66f.png"
   },
   {
    "nombre": "Mayoi Hachikuji",
@@ -553,19 +553,24 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b22552-CZz1T3AjRyVd.png"
   },
   {
-   "nombre": "Satoru Fujinuma",
-   "anime": "ERASED",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89275-xCGzh6jAGe2v.png"
-  },
-  {
    "nombre": "Obanai Iguro",
    "anime": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg"
   },
   {
+   "nombre": "Satoru Fujinuma",
+   "anime": "ERASED",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b89275-xCGzh6jAGe2v.png"
+  },
+  {
    "nombre": "Bondrewd",
    "anime": "Made in Abyss",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg"
+  },
+  {
+   "nombre": "Okuyasu Nijimura",
+   "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n28991-IYMZXahuCel5.png"
   },
   {
    "nombre": "Celty Sturluson",
@@ -576,11 +581,6 @@
    "nombre": "Lucy Montgomery",
    "anime": "Bungo Stray Dogs",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n132222-Ue3zZMq9aqMg.jpg"
-  },
-  {
-   "nombre": "Okuyasu Nijimura",
-   "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n28991-IYMZXahuCel5.png"
   },
   {
    "nombre": "Sanemi Shinazugawa",
@@ -658,14 +658,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
   },
   {
-   "nombre": "Kirari Momobami",
-   "anime": "Kakegurui",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
-  },
-  {
    "nombre": "Connie Springer",
    "anime": "Attack on Titan Season 2",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png"
+  },
+  {
+   "nombre": "Kirari Momobami",
+   "anime": "Kakegurui",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
   },
   {
    "nombre": "Akiko Yosano",
@@ -733,14 +733,14 @@
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b65525-BoB482T3oEoN.jpg"
   },
   {
-   "nombre": "Mio Kofune",
-   "anime": "Summer Time Rendering",
-   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b155706-guouOSwrSqso.jpg"
-  },
-  {
    "nombre": "Rouran",
    "anime": "The Apothecary Diaries",
    "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b244995-dv4lX99O8aCZ.jpg"
+  },
+  {
+   "nombre": "Mio Kofune",
+   "anime": "Summer Time Rendering",
+   "imagen": "https://s4.anilist.co/file/anilistcdn/character/large/b155706-guouOSwrSqso.jpg"
   },
   {
    "nombre": "Minene Uryuu",
